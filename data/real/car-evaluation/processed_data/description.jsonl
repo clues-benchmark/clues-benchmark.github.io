@@ -1,0 +1,1 @@
+{"columns": {"safety": "categorical", "person capacity": "categorical", "maintenance cost": "categorical", "buying cost": "categorical", "luggage boot size": "categorical"}, "labels": ["acc", "good", "unacc", "vgood"]}

@@ -1,0 +1,2 @@
+"If maxtemp lesser than or equal to 24 AND rainfall today equal to 0 , then no."
+"If rainfall today equal to 0.4 OR wind direction equal to NW , then yes."

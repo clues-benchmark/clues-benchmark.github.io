@@ -1,0 +1,499 @@
+{"humidity": 39, "mintemp": 4, "atmospheric pressure": 1023, "location": "kookaberra", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 13, "mintemp": 1, "atmospheric pressure": 1017, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 29, "mintemp": 3, "atmospheric pressure": 1042, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 34, "mintemp": 10, "atmospheric pressure": 1036, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 94, "mintemp": 15, "atmospheric pressure": 1021, "location": "kookaberra", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 59, "mintemp": 15, "atmospheric pressure": 1024, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 34, "mintemp": 12, "atmospheric pressure": 1026, "location": "kookaberra", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 85, "mintemp": 1, "atmospheric pressure": 1037, "location": "dysyen", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 11, "mintemp": 3, "atmospheric pressure": 1028, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 10, "mintemp": 8, "atmospheric pressure": 1017, "location": "kookaberra", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 92, "mintemp": 2, "atmospheric pressure": 1033, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 79, "mintemp": 2, "atmospheric pressure": 1033, "location": "dysyen", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 72, "mintemp": 2, "atmospheric pressure": 1029, "location": "dysyen", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 82, "mintemp": 13, "atmospheric pressure": 1027, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 96, "mintemp": 1, "atmospheric pressure": 1011, "location": "doshtown", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 86, "mintemp": 3, "atmospheric pressure": 1016, "location": "sphinx", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 42, "mintemp": 6, "atmospheric pressure": 1012, "location": "dysyen", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 25, "mintemp": 13, "atmospheric pressure": 1033, "location": "kookaberra", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 37, "mintemp": 1, "atmospheric pressure": 1020, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 86, "mintemp": 1, "atmospheric pressure": 1044, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 74, "mintemp": 6, "atmospheric pressure": 1012, "location": "dysyen", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 9, "mintemp": 8, "atmospheric pressure": 1036, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 73, "mintemp": 1, "atmospheric pressure": 1026, "location": "dysyen", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 36, "mintemp": 15, "atmospheric pressure": 1033, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 2, "mintemp": 10, "atmospheric pressure": 1029, "location": "dysyen", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 3, "mintemp": 3, "atmospheric pressure": 1030, "location": "sphinx", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 91, "mintemp": 13, "atmospheric pressure": 1029, "location": "doshtown", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 44, "mintemp": 12, "atmospheric pressure": 1034, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 90, "mintemp": 3, "atmospheric pressure": 1018, "location": "doshtown", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 67, "mintemp": 9, "atmospheric pressure": 1032, "location": "doshtown", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 10, "mintemp": 1, "atmospheric pressure": 1028, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 2, "mintemp": 8, "atmospheric pressure": 1038, "location": "doshtown", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 14, "mintemp": 5, "atmospheric pressure": 1042, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 75, "mintemp": 4, "atmospheric pressure": 1033, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 80, "mintemp": 15, "atmospheric pressure": 1034, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 36, "mintemp": 10, "atmospheric pressure": 1033, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 14, "mintemp": 12, "atmospheric pressure": 1042, "location": "sphinx", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 89, "mintemp": 15, "atmospheric pressure": 1038, "location": "dysyen", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 33, "mintemp": 9, "atmospheric pressure": 1042, "location": "doshtown", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 2, "mintemp": 12, "atmospheric pressure": 1032, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 81, "mintemp": 13, "atmospheric pressure": 1045, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 94, "mintemp": 14, "atmospheric pressure": 1018, "location": "doshtown", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 1, "mintemp": 9, "atmospheric pressure": 1030, "location": "dysyen", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 99, "mintemp": 6, "atmospheric pressure": 1036, "location": "sphinx", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 25, "mintemp": 12, "atmospheric pressure": 1011, "location": "sphinx", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 27, "mintemp": 8, "atmospheric pressure": 1042, "location": "dysyen", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 18, "mintemp": 1, "atmospheric pressure": 1019, "location": "kookaberra", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 47, "mintemp": 12, "atmospheric pressure": 1023, "location": "sphinx", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 76, "mintemp": 11, "atmospheric pressure": 1023, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 54, "mintemp": 6, "atmospheric pressure": 1023, "location": "dysyen", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 0, "mintemp": 12, "atmospheric pressure": 1043, "location": "sphinx", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 91, "mintemp": 1, "atmospheric pressure": 1047, "location": "sphinx", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 8, "mintemp": 3, "atmospheric pressure": 1017, "location": "sphinx", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 37, "mintemp": 13, "atmospheric pressure": 1037, "location": "sphinx", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 74, "mintemp": 9, "atmospheric pressure": 1032, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 8, "mintemp": 13, "atmospheric pressure": 1041, "location": "kookaberra", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 13, "mintemp": 11, "atmospheric pressure": 1036, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 97, "mintemp": 15, "atmospheric pressure": 1010, "location": "doshtown", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 47, "mintemp": 13, "atmospheric pressure": 1045, "location": "sphinx", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 9, "mintemp": 4, "atmospheric pressure": 1025, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 56, "mintemp": 7, "atmospheric pressure": 1035, "location": "shtick union", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 50, "mintemp": 12, "atmospheric pressure": 1047, "location": "shtick union", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 80, "mintemp": 9, "atmospheric pressure": 1010, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 42, "mintemp": 10, "atmospheric pressure": 1018, "location": "sphinx", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 58, "mintemp": 12, "atmospheric pressure": 1021, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 98, "mintemp": 15, "atmospheric pressure": 1018, "location": "dysyen", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 46, "mintemp": 10, "atmospheric pressure": 1019, "location": "shtick union", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 10, "mintemp": 8, "atmospheric pressure": 1039, "location": "sphinx", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 76, "mintemp": 1, "atmospheric pressure": 1043, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 54, "mintemp": 4, "atmospheric pressure": 1026, "location": "dysyen", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 25, "mintemp": 6, "atmospheric pressure": 1013, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 65, "mintemp": 7, "atmospheric pressure": 1031, "location": "sphinx", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 95, "mintemp": 11, "atmospheric pressure": 1016, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 3, "mintemp": 6, "atmospheric pressure": 1049, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 63, "mintemp": 3, "atmospheric pressure": 1031, "location": "dysyen", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 44, "mintemp": 3, "atmospheric pressure": 1017, "location": "sphinx", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 62, "mintemp": 12, "atmospheric pressure": 1049, "location": "sphinx", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 86, "mintemp": 5, "atmospheric pressure": 1028, "location": "sphinx", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 68, "mintemp": 3, "atmospheric pressure": 1045, "location": "dysyen", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 1, "mintemp": 12, "atmospheric pressure": 1033, "location": "doshtown", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 13, "mintemp": 7, "atmospheric pressure": 1030, "location": "sphinx", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 15, "mintemp": 2, "atmospheric pressure": 1028, "location": "dysyen", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 69, "mintemp": 9, "atmospheric pressure": 1026, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 64, "mintemp": 12, "atmospheric pressure": 1023, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 84, "mintemp": 2, "atmospheric pressure": 1033, "location": "shtick union", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 51, "mintemp": 6, "atmospheric pressure": 1044, "location": "dysyen", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 34, "mintemp": 3, "atmospheric pressure": 1019, "location": "dysyen", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 33, "mintemp": 11, "atmospheric pressure": 1027, "location": "kookaberra", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 20, "mintemp": 14, "atmospheric pressure": 1036, "location": "sphinx", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 30, "mintemp": 12, "atmospheric pressure": 1042, "location": "doshtown", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 28, "mintemp": 13, "atmospheric pressure": 1034, "location": "dysyen", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 41, "mintemp": 4, "atmospheric pressure": 1039, "location": "doshtown", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 57, "mintemp": 12, "atmospheric pressure": 1020, "location": "sphinx", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 100, "mintemp": 11, "atmospheric pressure": 1041, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 60, "mintemp": 1, "atmospheric pressure": 1045, "location": "sphinx", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 90, "mintemp": 1, "atmospheric pressure": 1013, "location": "dysyen", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 6, "mintemp": 6, "atmospheric pressure": 1039, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 94, "mintemp": 14, "atmospheric pressure": 1021, "location": "kookaberra", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 95, "mintemp": 9, "atmospheric pressure": 1019, "location": "doshtown", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 27, "mintemp": 10, "atmospheric pressure": 1039, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 22, "mintemp": 15, "atmospheric pressure": 1011, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 6, "mintemp": 8, "atmospheric pressure": 1042, "location": "kookaberra", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 36, "mintemp": 14, "atmospheric pressure": 1025, "location": "sphinx", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 38, "mintemp": 15, "atmospheric pressure": 1044, "location": "kookaberra", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 75, "mintemp": 8, "atmospheric pressure": 1034, "location": "doshtown", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 61, "mintemp": 2, "atmospheric pressure": 1031, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 15, "mintemp": 4, "atmospheric pressure": 1036, "location": "doshtown", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 60, "mintemp": 4, "atmospheric pressure": 1036, "location": "doshtown", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 6, "mintemp": 12, "atmospheric pressure": 1049, "location": "doshtown", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 51, "mintemp": 2, "atmospheric pressure": 1027, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 44, "mintemp": 12, "atmospheric pressure": 1011, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 37, "mintemp": 9, "atmospheric pressure": 1010, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 24, "mintemp": 4, "atmospheric pressure": 1030, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 100, "mintemp": 12, "atmospheric pressure": 1040, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 37, "mintemp": 4, "atmospheric pressure": 1037, "location": "dysyen", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 55, "mintemp": 11, "atmospheric pressure": 1021, "location": "dysyen", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 14, "mintemp": 15, "atmospheric pressure": 1016, "location": "doshtown", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 18, "mintemp": 3, "atmospheric pressure": 1014, "location": "dysyen", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 0, "mintemp": 1, "atmospheric pressure": 1035, "location": "doshtown", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 62, "mintemp": 1, "atmospheric pressure": 1015, "location": "sphinx", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 58, "mintemp": 12, "atmospheric pressure": 1038, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 85, "mintemp": 10, "atmospheric pressure": 1046, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 89, "mintemp": 9, "atmospheric pressure": 1044, "location": "doshtown", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 27, "mintemp": 3, "atmospheric pressure": 1046, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 88, "mintemp": 7, "atmospheric pressure": 1022, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 81, "mintemp": 1, "atmospheric pressure": 1035, "location": "sphinx", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 93, "mintemp": 12, "atmospheric pressure": 1022, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 44, "mintemp": 2, "atmospheric pressure": 1012, "location": "sphinx", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 75, "mintemp": 1, "atmospheric pressure": 1019, "location": "doshtown", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 47, "mintemp": 15, "atmospheric pressure": 1015, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 76, "mintemp": 3, "atmospheric pressure": 1036, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 75, "mintemp": 2, "atmospheric pressure": 1043, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 92, "mintemp": 7, "atmospheric pressure": 1017, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 70, "mintemp": 7, "atmospheric pressure": 1024, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 12, "mintemp": 14, "atmospheric pressure": 1018, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 54, "mintemp": 10, "atmospheric pressure": 1046, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 27, "mintemp": 14, "atmospheric pressure": 1015, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 90, "mintemp": 2, "atmospheric pressure": 1042, "location": "doshtown", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 72, "mintemp": 9, "atmospheric pressure": 1035, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 62, "mintemp": 4, "atmospheric pressure": 1019, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 90, "mintemp": 15, "atmospheric pressure": 1010, "location": "sphinx", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 50, "mintemp": 9, "atmospheric pressure": 1047, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 66, "mintemp": 8, "atmospheric pressure": 1037, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 21, "mintemp": 11, "atmospheric pressure": 1020, "location": "doshtown", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 38, "mintemp": 3, "atmospheric pressure": 1041, "location": "doshtown", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 38, "mintemp": 5, "atmospheric pressure": 1023, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 85, "mintemp": 15, "atmospheric pressure": 1030, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 21, "mintemp": 9, "atmospheric pressure": 1047, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 6, "mintemp": 1, "atmospheric pressure": 1014, "location": "sphinx", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 84, "mintemp": 4, "atmospheric pressure": 1043, "location": "doshtown", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 71, "mintemp": 3, "atmospheric pressure": 1038, "location": "dysyen", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 32, "mintemp": 6, "atmospheric pressure": 1038, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 72, "mintemp": 11, "atmospheric pressure": 1033, "location": "doshtown", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 70, "mintemp": 14, "atmospheric pressure": 1012, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 83, "mintemp": 15, "atmospheric pressure": 1038, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 72, "mintemp": 5, "atmospheric pressure": 1045, "location": "dysyen", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 35, "mintemp": 9, "atmospheric pressure": 1043, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 34, "mintemp": 6, "atmospheric pressure": 1011, "location": "sphinx", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 77, "mintemp": 1, "atmospheric pressure": 1035, "location": "doshtown", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 12, "mintemp": 2, "atmospheric pressure": 1026, "location": "sphinx", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 55, "mintemp": 11, "atmospheric pressure": 1050, "location": "doshtown", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 94, "mintemp": 5, "atmospheric pressure": 1039, "location": "doshtown", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 10, "mintemp": 2, "atmospheric pressure": 1027, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 88, "mintemp": 11, "atmospheric pressure": 1045, "location": "dysyen", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 45, "mintemp": 5, "atmospheric pressure": 1033, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 80, "mintemp": 13, "atmospheric pressure": 1013, "location": "doshtown", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 28, "mintemp": 11, "atmospheric pressure": 1045, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 8, "mintemp": 7, "atmospheric pressure": 1049, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 53, "mintemp": 8, "atmospheric pressure": 1037, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 65, "mintemp": 2, "atmospheric pressure": 1018, "location": "doshtown", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 5, "mintemp": 9, "atmospheric pressure": 1020, "location": "dysyen", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 10, "mintemp": 1, "atmospheric pressure": 1015, "location": "sphinx", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 46, "mintemp": 15, "atmospheric pressure": 1049, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 17, "mintemp": 2, "atmospheric pressure": 1041, "location": "shtick union", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 94, "mintemp": 7, "atmospheric pressure": 1034, "location": "sphinx", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 19, "mintemp": 14, "atmospheric pressure": 1028, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 74, "mintemp": 8, "atmospheric pressure": 1017, "location": "dysyen", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 55, "mintemp": 9, "atmospheric pressure": 1035, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 90, "mintemp": 8, "atmospheric pressure": 1013, "location": "doshtown", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 52, "mintemp": 7, "atmospheric pressure": 1028, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 46, "mintemp": 5, "atmospheric pressure": 1047, "location": "dysyen", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 53, "mintemp": 5, "atmospheric pressure": 1047, "location": "dysyen", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 41, "mintemp": 13, "atmospheric pressure": 1015, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 63, "mintemp": 1, "atmospheric pressure": 1029, "location": "doshtown", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 70, "mintemp": 9, "atmospheric pressure": 1023, "location": "doshtown", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 46, "mintemp": 3, "atmospheric pressure": 1019, "location": "sphinx", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 75, "mintemp": 7, "atmospheric pressure": 1029, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 28, "mintemp": 1, "atmospheric pressure": 1041, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 98, "mintemp": 7, "atmospheric pressure": 1016, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 60, "mintemp": 14, "atmospheric pressure": 1031, "location": "sphinx", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 42, "mintemp": 8, "atmospheric pressure": 1028, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 82, "mintemp": 9, "atmospheric pressure": 1033, "location": "sphinx", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 79, "mintemp": 11, "atmospheric pressure": 1011, "location": "sphinx", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 66, "mintemp": 14, "atmospheric pressure": 1015, "location": "doshtown", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 85, "mintemp": 13, "atmospheric pressure": 1033, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 91, "mintemp": 4, "atmospheric pressure": 1039, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 3, "mintemp": 12, "atmospheric pressure": 1022, "location": "doshtown", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 84, "mintemp": 14, "atmospheric pressure": 1023, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 29, "mintemp": 2, "atmospheric pressure": 1010, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 64, "mintemp": 9, "atmospheric pressure": 1046, "location": "sphinx", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 99, "mintemp": 2, "atmospheric pressure": 1047, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 1, "mintemp": 9, "atmospheric pressure": 1050, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 27, "mintemp": 6, "atmospheric pressure": 1045, "location": "sphinx", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 32, "mintemp": 3, "atmospheric pressure": 1043, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 24, "mintemp": 8, "atmospheric pressure": 1022, "location": "dysyen", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 13, "mintemp": 10, "atmospheric pressure": 1014, "location": "doshtown", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 86, "mintemp": 8, "atmospheric pressure": 1040, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 70, "mintemp": 5, "atmospheric pressure": 1041, "location": "sphinx", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 29, "mintemp": 7, "atmospheric pressure": 1028, "location": "shtick union", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 0, "mintemp": 9, "atmospheric pressure": 1034, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 8, "mintemp": 2, "atmospheric pressure": 1027, "location": "sphinx", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 45, "mintemp": 4, "atmospheric pressure": 1020, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 85, "mintemp": 2, "atmospheric pressure": 1041, "location": "sphinx", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 23, "mintemp": 13, "atmospheric pressure": 1029, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 0, "mintemp": 5, "atmospheric pressure": 1024, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 21, "mintemp": 12, "atmospheric pressure": 1048, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 96, "mintemp": 2, "atmospheric pressure": 1018, "location": "doshtown", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 55, "mintemp": 14, "atmospheric pressure": 1029, "location": "sphinx", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 27, "mintemp": 6, "atmospheric pressure": 1022, "location": "sphinx", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 54, "mintemp": 13, "atmospheric pressure": 1018, "location": "doshtown", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 73, "mintemp": 8, "atmospheric pressure": 1014, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 81, "mintemp": 8, "atmospheric pressure": 1033, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 45, "mintemp": 4, "atmospheric pressure": 1044, "location": "sphinx", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 72, "mintemp": 5, "atmospheric pressure": 1045, "location": "dysyen", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 86, "mintemp": 7, "atmospheric pressure": 1023, "location": "dysyen", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 82, "mintemp": 12, "atmospheric pressure": 1035, "location": "doshtown", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 8, "mintemp": 7, "atmospheric pressure": 1020, "location": "sphinx", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 92, "mintemp": 9, "atmospheric pressure": 1028, "location": "dysyen", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 18, "mintemp": 2, "atmospheric pressure": 1033, "location": "sphinx", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 64, "mintemp": 8, "atmospheric pressure": 1041, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 3, "mintemp": 9, "atmospheric pressure": 1036, "location": "dysyen", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 70, "mintemp": 4, "atmospheric pressure": 1037, "location": "dysyen", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 76, "mintemp": 4, "atmospheric pressure": 1037, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 94, "mintemp": 6, "atmospheric pressure": 1010, "location": "dysyen", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 27, "mintemp": 5, "atmospheric pressure": 1032, "location": "kookaberra", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 45, "mintemp": 14, "atmospheric pressure": 1014, "location": "doshtown", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 55, "mintemp": 13, "atmospheric pressure": 1014, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 55, "mintemp": 10, "atmospheric pressure": 1020, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 63, "mintemp": 10, "atmospheric pressure": 1034, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 76, "mintemp": 11, "atmospheric pressure": 1013, "location": "sphinx", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 70, "mintemp": 11, "atmospheric pressure": 1025, "location": "sphinx", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 50, "mintemp": 13, "atmospheric pressure": 1043, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 43, "mintemp": 15, "atmospheric pressure": 1049, "location": "sphinx", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 83, "mintemp": 5, "atmospheric pressure": 1010, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 78, "mintemp": 3, "atmospheric pressure": 1015, "location": "dysyen", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 46, "mintemp": 12, "atmospheric pressure": 1025, "location": "kookaberra", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 15, "mintemp": 9, "atmospheric pressure": 1014, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 25, "mintemp": 6, "atmospheric pressure": 1037, "location": "doshtown", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 85, "mintemp": 9, "atmospheric pressure": 1042, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 50, "mintemp": 15, "atmospheric pressure": 1041, "location": "dysyen", "hours of sunshine": 4, "rain tomorrow": "yes"}
+{"humidity": 1, "mintemp": 2, "atmospheric pressure": 1018, "location": "dysyen", "hours of sunshine": 0, "rain tomorrow": "yes"}
+{"humidity": 73, "mintemp": 3, "atmospheric pressure": 1044, "location": "sphinx", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 39, "mintemp": 13, "atmospheric pressure": 1036, "location": "doshtown", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 21, "mintemp": 14, "atmospheric pressure": 1042, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "yes"}
+{"humidity": 55, "mintemp": 9, "atmospheric pressure": 1023, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "yes"}
+{"humidity": 77, "mintemp": 1, "atmospheric pressure": 1021, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 67, "mintemp": 3, "atmospheric pressure": 958, "location": "shtick union", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 12, "mintemp": 15, "atmospheric pressure": 969, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 99, "mintemp": 15, "atmospheric pressure": 964, "location": "shtick union", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 75, "mintemp": 15, "atmospheric pressure": 970, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 50, "mintemp": 2, "atmospheric pressure": 979, "location": "doshtown", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 34, "mintemp": 10, "atmospheric pressure": 958, "location": "dysyen", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 97, "mintemp": 4, "atmospheric pressure": 975, "location": "sphinx", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 20, "mintemp": 8, "atmospheric pressure": 1018, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 20, "mintemp": 15, "atmospheric pressure": 958, "location": "dysyen", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 68, "mintemp": 7, "atmospheric pressure": 1046, "location": "doshtown", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 87, "mintemp": 13, "atmospheric pressure": 985, "location": "sphinx", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 24, "mintemp": 13, "atmospheric pressure": 991, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 88, "mintemp": 1, "atmospheric pressure": 978, "location": "shtick union", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 77, "mintemp": 3, "atmospheric pressure": 974, "location": "dysyen", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 3, "mintemp": 15, "atmospheric pressure": 1004, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 96, "mintemp": 8, "atmospheric pressure": 966, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 2, "mintemp": 9, "atmospheric pressure": 1040, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 41, "mintemp": 1, "atmospheric pressure": 976, "location": "sphinx", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 16, "mintemp": 11, "atmospheric pressure": 1019, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 76, "mintemp": 4, "atmospheric pressure": 994, "location": "sphinx", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 96, "mintemp": 10, "atmospheric pressure": 1039, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 21, "mintemp": 5, "atmospheric pressure": 998, "location": "shtick union", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 5, "mintemp": 15, "atmospheric pressure": 981, "location": "doshtown", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 22, "mintemp": 15, "atmospheric pressure": 950, "location": "sphinx", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 47, "mintemp": 6, "atmospheric pressure": 988, "location": "dysyen", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 38, "mintemp": 3, "atmospheric pressure": 1044, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 39, "mintemp": 1, "atmospheric pressure": 971, "location": "dysyen", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 21, "mintemp": 9, "atmospheric pressure": 964, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 94, "mintemp": 7, "atmospheric pressure": 1003, "location": "dysyen", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 45, "mintemp": 3, "atmospheric pressure": 983, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 68, "mintemp": 13, "atmospheric pressure": 972, "location": "doshtown", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 55, "mintemp": 10, "atmospheric pressure": 1009, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 38, "mintemp": 8, "atmospheric pressure": 951, "location": "doshtown", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 99, "mintemp": 7, "atmospheric pressure": 957, "location": "dysyen", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 93, "mintemp": 4, "atmospheric pressure": 979, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 19, "mintemp": 13, "atmospheric pressure": 994, "location": "sphinx", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 91, "mintemp": 8, "atmospheric pressure": 1003, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 99, "mintemp": 13, "atmospheric pressure": 1008, "location": "sphinx", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 88, "mintemp": 1, "atmospheric pressure": 1030, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 7, "mintemp": 10, "atmospheric pressure": 1023, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 20, "mintemp": 5, "atmospheric pressure": 1041, "location": "dysyen", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 6, "mintemp": 4, "atmospheric pressure": 969, "location": "shtick union", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 36, "mintemp": 5, "atmospheric pressure": 998, "location": "sphinx", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 16, "mintemp": 7, "atmospheric pressure": 991, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 71, "mintemp": 13, "atmospheric pressure": 970, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 79, "mintemp": 15, "atmospheric pressure": 965, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 98, "mintemp": 13, "atmospheric pressure": 976, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 57, "mintemp": 13, "atmospheric pressure": 1030, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 56, "mintemp": 7, "atmospheric pressure": 1006, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 61, "mintemp": 11, "atmospheric pressure": 975, "location": "doshtown", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 89, "mintemp": 2, "atmospheric pressure": 993, "location": "dysyen", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 25, "mintemp": 1, "atmospheric pressure": 1044, "location": "shtick union", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 83, "mintemp": 2, "atmospheric pressure": 974, "location": "shtick union", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 45, "mintemp": 2, "atmospheric pressure": 958, "location": "dysyen", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 7, "mintemp": 9, "atmospheric pressure": 1039, "location": "sphinx", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 39, "mintemp": 5, "atmospheric pressure": 1034, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 16, "mintemp": 5, "atmospheric pressure": 976, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 8, "mintemp": 11, "atmospheric pressure": 992, "location": "dysyen", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 61, "mintemp": 12, "atmospheric pressure": 1011, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 84, "mintemp": 6, "atmospheric pressure": 1001, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 0, "mintemp": 6, "atmospheric pressure": 1043, "location": "shtick union", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 50, "mintemp": 10, "atmospheric pressure": 982, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 73, "mintemp": 4, "atmospheric pressure": 983, "location": "sphinx", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 79, "mintemp": 14, "atmospheric pressure": 955, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 35, "mintemp": 14, "atmospheric pressure": 996, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 36, "mintemp": 7, "atmospheric pressure": 977, "location": "dysyen", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 65, "mintemp": 14, "atmospheric pressure": 957, "location": "shtick union", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 16, "mintemp": 15, "atmospheric pressure": 1040, "location": "doshtown", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 32, "mintemp": 15, "atmospheric pressure": 1033, "location": "sphinx", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 47, "mintemp": 8, "atmospheric pressure": 999, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 5, "mintemp": 12, "atmospheric pressure": 971, "location": "doshtown", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 90, "mintemp": 1, "atmospheric pressure": 1007, "location": "shtick union", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 76, "mintemp": 3, "atmospheric pressure": 1007, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 44, "mintemp": 13, "atmospheric pressure": 991, "location": "dysyen", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 59, "mintemp": 14, "atmospheric pressure": 969, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 30, "mintemp": 13, "atmospheric pressure": 996, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 55, "mintemp": 4, "atmospheric pressure": 1018, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 82, "mintemp": 8, "atmospheric pressure": 998, "location": "shtick union", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 51, "mintemp": 15, "atmospheric pressure": 1017, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 63, "mintemp": 13, "atmospheric pressure": 973, "location": "dysyen", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 76, "mintemp": 7, "atmospheric pressure": 1007, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 52, "mintemp": 10, "atmospheric pressure": 966, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 42, "mintemp": 5, "atmospheric pressure": 999, "location": "doshtown", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 29, "mintemp": 10, "atmospheric pressure": 959, "location": "dysyen", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 16, "mintemp": 6, "atmospheric pressure": 1019, "location": "dysyen", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 68, "mintemp": 14, "atmospheric pressure": 1018, "location": "dysyen", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 25, "mintemp": 5, "atmospheric pressure": 950, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 13, "mintemp": 15, "atmospheric pressure": 1007, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 5, "mintemp": 10, "atmospheric pressure": 1039, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 39, "mintemp": 10, "atmospheric pressure": 998, "location": "doshtown", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 95, "mintemp": 15, "atmospheric pressure": 1000, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 86, "mintemp": 7, "atmospheric pressure": 997, "location": "dysyen", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 79, "mintemp": 14, "atmospheric pressure": 1014, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 48, "mintemp": 2, "atmospheric pressure": 963, "location": "sphinx", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 46, "mintemp": 2, "atmospheric pressure": 962, "location": "dysyen", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 74, "mintemp": 3, "atmospheric pressure": 983, "location": "sphinx", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 100, "mintemp": 13, "atmospheric pressure": 964, "location": "sphinx", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 38, "mintemp": 14, "atmospheric pressure": 993, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 39, "mintemp": 13, "atmospheric pressure": 994, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 85, "mintemp": 5, "atmospheric pressure": 978, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 84, "mintemp": 1, "atmospheric pressure": 1013, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 20, "mintemp": 2, "atmospheric pressure": 985, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 18, "mintemp": 14, "atmospheric pressure": 984, "location": "doshtown", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 9, "mintemp": 4, "atmospheric pressure": 1047, "location": "doshtown", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 89, "mintemp": 12, "atmospheric pressure": 968, "location": "dysyen", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 73, "mintemp": 6, "atmospheric pressure": 956, "location": "dysyen", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 21, "mintemp": 9, "atmospheric pressure": 966, "location": "sphinx", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 43, "mintemp": 7, "atmospheric pressure": 959, "location": "dysyen", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 38, "mintemp": 1, "atmospheric pressure": 961, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 71, "mintemp": 2, "atmospheric pressure": 976, "location": "doshtown", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 76, "mintemp": 2, "atmospheric pressure": 988, "location": "dysyen", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 90, "mintemp": 1, "atmospheric pressure": 986, "location": "doshtown", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 57, "mintemp": 15, "atmospheric pressure": 1036, "location": "sphinx", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 82, "mintemp": 9, "atmospheric pressure": 969, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 61, "mintemp": 14, "atmospheric pressure": 1046, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 20, "mintemp": 12, "atmospheric pressure": 978, "location": "dysyen", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 90, "mintemp": 6, "atmospheric pressure": 973, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 13, "mintemp": 5, "atmospheric pressure": 964, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 66, "mintemp": 4, "atmospheric pressure": 999, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 39, "mintemp": 9, "atmospheric pressure": 999, "location": "sphinx", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 82, "mintemp": 5, "atmospheric pressure": 975, "location": "dysyen", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 47, "mintemp": 4, "atmospheric pressure": 955, "location": "doshtown", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 23, "mintemp": 5, "atmospheric pressure": 956, "location": "doshtown", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 67, "mintemp": 11, "atmospheric pressure": 1009, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 44, "mintemp": 5, "atmospheric pressure": 987, "location": "sphinx", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 21, "mintemp": 9, "atmospheric pressure": 1032, "location": "doshtown", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 57, "mintemp": 4, "atmospheric pressure": 970, "location": "doshtown", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 3, "mintemp": 8, "atmospheric pressure": 1042, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 98, "mintemp": 2, "atmospheric pressure": 1003, "location": "doshtown", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 62, "mintemp": 13, "atmospheric pressure": 1049, "location": "sphinx", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 89, "mintemp": 9, "atmospheric pressure": 960, "location": "sphinx", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 25, "mintemp": 10, "atmospheric pressure": 1008, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 92, "mintemp": 9, "atmospheric pressure": 1015, "location": "dysyen", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 37, "mintemp": 14, "atmospheric pressure": 977, "location": "doshtown", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 1, "mintemp": 8, "atmospheric pressure": 951, "location": "doshtown", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 28, "mintemp": 11, "atmospheric pressure": 1012, "location": "dysyen", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 75, "mintemp": 11, "atmospheric pressure": 1006, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 64, "mintemp": 14, "atmospheric pressure": 958, "location": "shtick union", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 5, "mintemp": 9, "atmospheric pressure": 1002, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 46, "mintemp": 11, "atmospheric pressure": 967, "location": "doshtown", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 92, "mintemp": 5, "atmospheric pressure": 957, "location": "doshtown", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 39, "mintemp": 14, "atmospheric pressure": 997, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 87, "mintemp": 12, "atmospheric pressure": 985, "location": "kookaberra", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 15, "mintemp": 2, "atmospheric pressure": 970, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 69, "mintemp": 7, "atmospheric pressure": 971, "location": "dysyen", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 39, "mintemp": 7, "atmospheric pressure": 983, "location": "dysyen", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 51, "mintemp": 10, "atmospheric pressure": 980, "location": "dysyen", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 44, "mintemp": 10, "atmospheric pressure": 1031, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 14, "mintemp": 9, "atmospheric pressure": 995, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 2, "mintemp": 8, "atmospheric pressure": 1000, "location": "dysyen", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 76, "mintemp": 3, "atmospheric pressure": 978, "location": "doshtown", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 56, "mintemp": 15, "atmospheric pressure": 1005, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 80, "mintemp": 9, "atmospheric pressure": 961, "location": "dysyen", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 4, "mintemp": 2, "atmospheric pressure": 988, "location": "dysyen", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 49, "mintemp": 2, "atmospheric pressure": 971, "location": "kookaberra", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 94, "mintemp": 6, "atmospheric pressure": 1004, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 25, "mintemp": 6, "atmospheric pressure": 1029, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 96, "mintemp": 8, "atmospheric pressure": 968, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 74, "mintemp": 3, "atmospheric pressure": 1036, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 75, "mintemp": 6, "atmospheric pressure": 1036, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 27, "mintemp": 1, "atmospheric pressure": 1050, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 61, "mintemp": 6, "atmospheric pressure": 993, "location": "dysyen", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 21, "mintemp": 2, "atmospheric pressure": 999, "location": "sphinx", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 59, "mintemp": 1, "atmospheric pressure": 997, "location": "sphinx", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 48, "mintemp": 4, "atmospheric pressure": 994, "location": "dysyen", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 62, "mintemp": 1, "atmospheric pressure": 1035, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 84, "mintemp": 12, "atmospheric pressure": 955, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 86, "mintemp": 5, "atmospheric pressure": 1046, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 65, "mintemp": 7, "atmospheric pressure": 985, "location": "shtick union", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 46, "mintemp": 5, "atmospheric pressure": 1024, "location": "sphinx", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 4, "mintemp": 8, "atmospheric pressure": 951, "location": "dysyen", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 47, "mintemp": 9, "atmospheric pressure": 999, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 3, "mintemp": 1, "atmospheric pressure": 1001, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 33, "mintemp": 6, "atmospheric pressure": 982, "location": "sphinx", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 50, "mintemp": 15, "atmospheric pressure": 964, "location": "sphinx", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 15, "mintemp": 8, "atmospheric pressure": 1014, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 53, "mintemp": 15, "atmospheric pressure": 1009, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 76, "mintemp": 13, "atmospheric pressure": 965, "location": "shtick union", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 36, "mintemp": 8, "atmospheric pressure": 961, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 11, "mintemp": 11, "atmospheric pressure": 981, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 17, "mintemp": 13, "atmospheric pressure": 1020, "location": "doshtown", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 93, "mintemp": 3, "atmospheric pressure": 958, "location": "sphinx", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 45, "mintemp": 3, "atmospheric pressure": 967, "location": "shtick union", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 81, "mintemp": 3, "atmospheric pressure": 951, "location": "sphinx", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 39, "mintemp": 13, "atmospheric pressure": 1021, "location": "dysyen", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 70, "mintemp": 11, "atmospheric pressure": 1003, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 42, "mintemp": 8, "atmospheric pressure": 1020, "location": "kookaberra", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 79, "mintemp": 8, "atmospheric pressure": 1004, "location": "dysyen", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 40, "mintemp": 1, "atmospheric pressure": 1017, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 73, "mintemp": 5, "atmospheric pressure": 978, "location": "shtick union", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 5, "mintemp": 13, "atmospheric pressure": 955, "location": "doshtown", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 56, "mintemp": 7, "atmospheric pressure": 990, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 82, "mintemp": 10, "atmospheric pressure": 959, "location": "sphinx", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 92, "mintemp": 4, "atmospheric pressure": 1000, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 23, "mintemp": 3, "atmospheric pressure": 996, "location": "dysyen", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 33, "mintemp": 8, "atmospheric pressure": 1036, "location": "doshtown", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 68, "mintemp": 4, "atmospheric pressure": 1048, "location": "sphinx", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 72, "mintemp": 6, "atmospheric pressure": 965, "location": "sphinx", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 90, "mintemp": 14, "atmospheric pressure": 992, "location": "doshtown", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 51, "mintemp": 9, "atmospheric pressure": 995, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 6, "mintemp": 11, "atmospheric pressure": 973, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 65, "mintemp": 11, "atmospheric pressure": 960, "location": "sphinx", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 94, "mintemp": 3, "atmospheric pressure": 962, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 65, "mintemp": 1, "atmospheric pressure": 977, "location": "dysyen", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 80, "mintemp": 12, "atmospheric pressure": 1049, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 23, "mintemp": 9, "atmospheric pressure": 1013, "location": "doshtown", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 71, "mintemp": 4, "atmospheric pressure": 992, "location": "sphinx", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 90, "mintemp": 10, "atmospheric pressure": 1007, "location": "kookaberra", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 89, "mintemp": 11, "atmospheric pressure": 966, "location": "dysyen", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 88, "mintemp": 14, "atmospheric pressure": 952, "location": "dysyen", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 100, "mintemp": 3, "atmospheric pressure": 989, "location": "shtick union", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 66, "mintemp": 2, "atmospheric pressure": 973, "location": "dysyen", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 65, "mintemp": 14, "atmospheric pressure": 1021, "location": "sphinx", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 2, "mintemp": 11, "atmospheric pressure": 968, "location": "doshtown", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 32, "mintemp": 5, "atmospheric pressure": 967, "location": "shtick union", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 36, "mintemp": 10, "atmospheric pressure": 957, "location": "dysyen", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 51, "mintemp": 12, "atmospheric pressure": 1022, "location": "sphinx", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 85, "mintemp": 8, "atmospheric pressure": 981, "location": "doshtown", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 33, "mintemp": 7, "atmospheric pressure": 1003, "location": "kookaberra", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 61, "mintemp": 12, "atmospheric pressure": 1038, "location": "kookaberra", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 70, "mintemp": 2, "atmospheric pressure": 993, "location": "shtick union", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 53, "mintemp": 15, "atmospheric pressure": 1003, "location": "sphinx", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 63, "mintemp": 4, "atmospheric pressure": 961, "location": "dysyen", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 44, "mintemp": 6, "atmospheric pressure": 1019, "location": "sphinx", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 90, "mintemp": 2, "atmospheric pressure": 1044, "location": "dysyen", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 55, "mintemp": 9, "atmospheric pressure": 969, "location": "sphinx", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 85, "mintemp": 13, "atmospheric pressure": 1002, "location": "dysyen", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 26, "mintemp": 2, "atmospheric pressure": 985, "location": "sphinx", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 62, "mintemp": 3, "atmospheric pressure": 1009, "location": "shtick union", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 3, "mintemp": 5, "atmospheric pressure": 966, "location": "sphinx", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 72, "mintemp": 8, "atmospheric pressure": 1006, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 9, "mintemp": 1, "atmospheric pressure": 999, "location": "dysyen", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 32, "mintemp": 15, "atmospheric pressure": 1007, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 1, "mintemp": 12, "atmospheric pressure": 969, "location": "doshtown", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 80, "mintemp": 3, "atmospheric pressure": 977, "location": "dysyen", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 47, "mintemp": 15, "atmospheric pressure": 1036, "location": "dysyen", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 49, "mintemp": 6, "atmospheric pressure": 958, "location": "kookaberra", "hours of sunshine": 0, "rain tomorrow": "no"}
+{"humidity": 99, "mintemp": 13, "atmospheric pressure": 1003, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 85, "mintemp": 11, "atmospheric pressure": 981, "location": "dysyen", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 40, "mintemp": 5, "atmospheric pressure": 964, "location": "shtick union", "hours of sunshine": 4, "rain tomorrow": "no"}
+{"humidity": 90, "mintemp": 7, "atmospheric pressure": 959, "location": "kookaberra", "hours of sunshine": 12, "rain tomorrow": "no"}
+{"humidity": 57, "mintemp": 13, "atmospheric pressure": 992, "location": "kookaberra", "hours of sunshine": 8, "rain tomorrow": "no"}
+{"humidity": 59, "mintemp": 14, "atmospheric pressure": 1031, "location": "dysyen", "hours of sunshine": 8, "rain tomorrow": "no"}

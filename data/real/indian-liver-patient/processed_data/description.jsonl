@@ -1,0 +1,1 @@
+{"columns": {"total bilirubin": "number", "SGPT": "number", "SGOT": "number", "age": "number", "direct bilirubin": "number"}, "labels": ["No", "Yes"]}

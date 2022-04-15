@@ -1,0 +1,13 @@
+{"Delivery Number": 1, "Delivery Time": "latecomer", "Age": "25", "Heart Problem": "apt", "Blood Pressure": "low", "lbl": "no", "target_key": ["no", "yes"]}
+{"Delivery Number": 1, "Delivery Time": "premature", "Age": "27", "Heart Problem": "apt", "Blood Pressure": "normal", "lbl": "yes", "target_key": ["no", "yes"]}
+{"Delivery Number": 2, "Delivery Time": "timely", "Age": "33", "Heart Problem": "inept", "Blood Pressure": "low", "lbl": "yes", "target_key": ["no", "yes"]}
+{"Delivery Number": 2, "Delivery Time": "premature", "Age": "21", "Heart Problem": "inept", "Blood Pressure": "low", "lbl": "yes", "target_key": ["no", "yes"]}
+{"Delivery Number": 2, "Delivery Time": "latecomer", "Age": "31", "Heart Problem": "apt", "Blood Pressure": "normal", "lbl": "no", "target_key": ["no", "yes"]}
+{"Delivery Number": 1, "Delivery Time": "timely", "Age": "30", "Heart Problem": "apt", "Blood Pressure": "normal", "lbl": "no", "target_key": ["no", "yes"]}
+{"Delivery Number": 2, "Delivery Time": "timely", "Age": "26", "Heart Problem": "apt", "Blood Pressure": "normal", "lbl": "yes", "target_key": ["no", "yes"]}
+{"Delivery Number": 1, "Delivery Time": "timely", "Age": "26", "Heart Problem": "apt", "Blood Pressure": "normal", "lbl": "no", "target_key": ["no", "yes"]}
+{"Delivery Number": 3, "Delivery Time": "timely", "Age": "32", "Heart Problem": "apt", "Blood Pressure": "normal", "lbl": "yes", "target_key": ["no", "yes"]}
+{"Delivery Number": 1, "Delivery Time": "timely", "Age": "25", "Heart Problem": "apt", "Blood Pressure": "normal", "lbl": "no", "target_key": ["no", "yes"]}
+{"Delivery Number": 2, "Delivery Time": "timely", "Age": "29", "Heart Problem": "inept", "Blood Pressure": "normal", "lbl": "yes", "target_key": ["no", "yes"]}
+{"Delivery Number": 3, "Delivery Time": "timely", "Age": "28", "Heart Problem": "apt", "Blood Pressure": "high", "lbl": "yes", "target_key": ["no", "yes"]}
+{"Delivery Number": 1, "Delivery Time": "latecomer", "Age": "24", "Heart Problem": "inept", "Blood Pressure": "low", "lbl": "yes", "target_key": ["no", "yes"]}

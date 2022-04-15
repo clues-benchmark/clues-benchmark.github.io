@@ -1,0 +1,1 @@
+{"columns": {"Name": "categorical", "Theme": "categorical", "Architect": "categorical", "Number of Rooms": "number"}, "labels": ["<=3", ">3"]}

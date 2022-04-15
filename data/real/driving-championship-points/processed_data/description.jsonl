@@ -1,0 +1,1 @@
+{"columns": {"Year": "number", "Entrant": "categorical", "Chassis": "categorical", "Engine": "categorical", "World Drivers' Championship": "categorical"}, "labels": ["<50", ">=50"]}

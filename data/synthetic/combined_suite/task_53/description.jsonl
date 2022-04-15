@@ -1,0 +1,1 @@
+{"descriptions": "This dataset is used to predict the type of birds based on the given attributes. Each row provides the relevant attributes of a bird.", "columns": {"number of faces": "number", "toothed": "categorical", "tail": "categorical", "venomous": "categorical", "region": "categorical"}, "labels": ["dax", "not dax"]}

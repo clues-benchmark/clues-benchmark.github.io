@@ -1,0 +1,1 @@
+{"descriptions": "This dataset is used to predict the final league position of a team based on the given attributes. Each row provides the relevant attributes of a team.", "columns": {"two point shoot percentage": "number", "power rating": "categorical", "field goal rating": "categorical", "free throw rating": "categorical", "win percentage": "number"}, "labels": ["3", "not 3"]}

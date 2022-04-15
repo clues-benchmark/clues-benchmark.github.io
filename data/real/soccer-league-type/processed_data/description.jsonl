@@ -1,0 +1,1 @@
+{"columns": {"Club": "categorical", "League": "categorical", "Venue": "categorical", "City": "categorical", "Area (Metro/Region)": "categorical"}, "labels": ["Men's Soccer", "Women's Soccer"]}

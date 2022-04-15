@@ -1,0 +1,1 @@
+{"columns": {"Club": "categorical", "Type": "categorical", "League": "categorical", "Venue": "categorical", "City": "categorical"}, "labels": ["OKC Metro", "Tulsa Metro"]}

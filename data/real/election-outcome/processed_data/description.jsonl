@@ -1,0 +1,1 @@
+{"columns": {"Election": "categorical", "Candidate": "categorical", "Running mate": "categorical", "Total votes": "number", "Share of votes": "categorical"}, "labels": ["Defeated", "Elected"]}

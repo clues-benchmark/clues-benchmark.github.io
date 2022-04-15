@@ -1,0 +1,1 @@
+{"columns": {"SFH": "categorical", "popUpWindow": "categorical", "SSLfinal_State": "categorical", "Request_URL": "categorical", "URL_of_Anchor": "categorical"}, "labels": ["Phishy", "Suspicious", "Legitimate"]}

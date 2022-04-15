@@ -1,0 +1,1 @@
+{"descriptions": "This dataset is used to predict if it will rain tomorrow or not based on the given attributes. Each row provides the relevant attributes of a day.", "columns": {"categorical imnn": "categorical", "numeric fspp": "number", "numeric tnou": "number", "categorical iooe": "categorical", "numeric gwlp": "number"}, "labels": ["yes", "not yes"]}

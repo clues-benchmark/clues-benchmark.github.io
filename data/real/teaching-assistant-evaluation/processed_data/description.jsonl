@@ -1,0 +1,1 @@
+{"columns": {"Class size": "number", "Course Instructor ID": "categorical", "Summer or Regular semester": "categorical", "Native or Non-Native English speaker": "categorical", "Course": "categorical"}, "labels": ["Low", "Medium", "High"]}

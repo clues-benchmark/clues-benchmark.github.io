@@ -1,0 +1,4 @@
+"If numeric kdti greater than 21 OR ( categorical rldu equal to 1 AND numeric ahyp greater than 30 ) , then it is normally 2."
+"If categorical pvof equal to 2 , then it is sometimes Not Qualified."
+"If numeric ahyp greater than or equal to 2 AND categorical gcaj equal to 1 , then it is certainly 3."
+"If categorical gcaj equal to 5 AND ( categorical pvof equal to 3 OR categorical rldu equal to 5 ) , then it is often 4."

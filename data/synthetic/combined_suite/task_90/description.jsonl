@@ -1,0 +1,1 @@
+{"descriptions": "This dataset is used to predict the type of birds based on the given attributes. Each row provides the relevant attributes of a bird.", "columns": {"categorical dsef": "categorical", "categorical ulza": "categorical", "categorical adlx": "categorical", "numeric gyhr": "number", "categorical agff": "categorical"}, "labels": ["speff", "not speff"]}

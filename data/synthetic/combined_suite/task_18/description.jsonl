@@ -1,0 +1,1 @@
+{"descriptions": "This dataset is used to predict the type of an aquatic animal based on the given attributes. Each row provides the relevant attributes of an animal.", "columns": {"legs": "categorical", "length (number)": "number", "fins": "categorical", "size (number)": "number", "toothed": "categorical"}, "labels": ["tupa", "toma", "wug"]}

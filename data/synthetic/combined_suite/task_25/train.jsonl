@@ -1,0 +1,499 @@
+{"wind direction": "S", "maxtemp": 17, "location": "sphinx", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 35, "location": "dysyen", "mintemp": 3, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 30, "location": "sphinx", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 23, "location": "dysyen", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "SW", "maxtemp": 28, "location": "dysyen", "mintemp": 2, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "NE", "maxtemp": 18, "location": "dysyen", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 25, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "SW", "maxtemp": 32, "location": "sphinx", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 31, "location": "shtick union", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 24, "location": "dysyen", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 21, "location": "doshtown", "mintemp": 11, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 17, "location": "kookaberra", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "NE", "maxtemp": 26, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 24, "location": "doshtown", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 33, "location": "sphinx", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 23, "location": "doshtown", "mintemp": 5, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "NE", "maxtemp": 17, "location": "shtick union", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 27, "location": "shtick union", "mintemp": 12, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "NE", "maxtemp": 33, "location": "sphinx", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 29, "location": "doshtown", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 17, "location": "dysyen", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 26, "location": "doshtown", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 35, "location": "shtick union", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 32, "location": "dysyen", "mintemp": 2, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "SW", "maxtemp": 30, "location": "dysyen", "mintemp": 14, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 28, "location": "sphinx", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 23, "location": "dysyen", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "SW", "maxtemp": 26, "location": "sphinx", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 35, "location": "shtick union", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 25, "location": "dysyen", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "NE", "maxtemp": 25, "location": "dysyen", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 17, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 34, "location": "sphinx", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "SW", "maxtemp": 19, "location": "shtick union", "mintemp": 3, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "SW", "maxtemp": 27, "location": "doshtown", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 29, "location": "sphinx", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 19, "location": "dysyen", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "SW", "maxtemp": 35, "location": "dysyen", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "NE", "maxtemp": 35, "location": "shtick union", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 31, "location": "dysyen", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 17, "location": "dysyen", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 32, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 21, "location": "doshtown", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 18, "location": "doshtown", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 30, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 17, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 17, "location": "sphinx", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "SW", "maxtemp": 30, "location": "sphinx", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 25, "location": "doshtown", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "SW", "maxtemp": 28, "location": "dysyen", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 29, "location": "doshtown", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 22, "location": "kookaberra", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 30, "location": "kookaberra", "mintemp": 2, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 31, "location": "shtick union", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 17, "location": "dysyen", "mintemp": 13, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 20, "location": "sphinx", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 29, "location": "shtick union", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "NE", "maxtemp": 30, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "SW", "maxtemp": 30, "location": "sphinx", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 27, "location": "doshtown", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "NE", "maxtemp": 26, "location": "sphinx", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 25, "location": "kookaberra", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 29, "location": "sphinx", "mintemp": 7, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 31, "location": "kookaberra", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 25, "location": "shtick union", "mintemp": 4, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 18, "location": "shtick union", "mintemp": 7, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 27, "location": "sphinx", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 25, "location": "doshtown", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 23, "location": "shtick union", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "SW", "maxtemp": 22, "location": "sphinx", "mintemp": 2, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 27, "location": "shtick union", "mintemp": 14, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 26, "location": "kookaberra", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 22, "location": "kookaberra", "mintemp": 14, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 27, "location": "doshtown", "mintemp": 4, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 35, "location": "doshtown", "mintemp": 10, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 25, "location": "sphinx", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 27, "location": "shtick union", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 24, "location": "dysyen", "mintemp": 3, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 19, "location": "doshtown", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 21, "location": "sphinx", "mintemp": 2, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 21, "location": "sphinx", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 35, "location": "shtick union", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "SW", "maxtemp": 32, "location": "shtick union", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 28, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 30, "location": "shtick union", "mintemp": 10, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 24, "location": "kookaberra", "mintemp": 10, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 32, "location": "sphinx", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 34, "location": "dysyen", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 17, "location": "dysyen", "mintemp": 9, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 26, "location": "sphinx", "mintemp": 4, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 35, "location": "shtick union", "mintemp": 13, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 30, "location": "dysyen", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 27, "location": "shtick union", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 23, "location": "doshtown", "mintemp": 11, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "NE", "maxtemp": 23, "location": "dysyen", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 19, "location": "shtick union", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "SW", "maxtemp": 25, "location": "doshtown", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 26, "location": "dysyen", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 20, "location": "dysyen", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 26, "location": "kookaberra", "mintemp": 8, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 35, "location": "shtick union", "mintemp": 2, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "NE", "maxtemp": 30, "location": "doshtown", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 28, "location": "shtick union", "mintemp": 10, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 18, "location": "dysyen", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 35, "location": "dysyen", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "NE", "maxtemp": 32, "location": "sphinx", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 20, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 18, "location": "doshtown", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 33, "location": "dysyen", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "NE", "maxtemp": 21, "location": "sphinx", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 32, "location": "shtick union", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 27, "location": "kookaberra", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 25, "location": "kookaberra", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 21, "location": "doshtown", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 25, "location": "sphinx", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 25, "location": "shtick union", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 21, "location": "sphinx", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 17, "location": "doshtown", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 30, "location": "shtick union", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 23, "location": "kookaberra", "mintemp": 14, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 27, "location": "dysyen", "mintemp": 5, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 19, "location": "shtick union", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 20, "location": "sphinx", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "NE", "maxtemp": 18, "location": "doshtown", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "SW", "maxtemp": 23, "location": "sphinx", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 22, "location": "doshtown", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 29, "location": "sphinx", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 24, "location": "shtick union", "mintemp": 14, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 19, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 19, "location": "dysyen", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 28, "location": "dysyen", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 18, "location": "sphinx", "mintemp": 7, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 33, "location": "dysyen", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 33, "location": "dysyen", "mintemp": 5, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "SW", "maxtemp": 33, "location": "shtick union", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 32, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 27, "location": "sphinx", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 31, "location": "dysyen", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 28, "location": "shtick union", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 17, "location": "sphinx", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 17, "location": "doshtown", "mintemp": 3, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 22, "location": "kookaberra", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "NE", "maxtemp": 19, "location": "sphinx", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 33, "location": "shtick union", "mintemp": 15, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 28, "location": "dysyen", "mintemp": 9, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 21, "location": "dysyen", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "NE", "maxtemp": 29, "location": "kookaberra", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 17, "location": "dysyen", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 22, "location": "shtick union", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 28, "location": "sphinx", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 27, "location": "dysyen", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 20, "location": "shtick union", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "NE", "maxtemp": 20, "location": "sphinx", "mintemp": 6, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "SW", "maxtemp": 26, "location": "shtick union", "mintemp": 6, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "NE", "maxtemp": 19, "location": "doshtown", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 27, "location": "sphinx", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 18, "location": "dysyen", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 33, "location": "sphinx", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "NE", "maxtemp": 35, "location": "doshtown", "mintemp": 3, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 31, "location": "sphinx", "mintemp": 12, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 32, "location": "sphinx", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "SW", "maxtemp": 30, "location": "doshtown", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 26, "location": "sphinx", "mintemp": 5, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 34, "location": "dysyen", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "NE", "maxtemp": 29, "location": "sphinx", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 21, "location": "sphinx", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 32, "location": "sphinx", "mintemp": 9, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 17, "location": "doshtown", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 24, "location": "dysyen", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 25, "location": "sphinx", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 25, "location": "doshtown", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 17, "location": "sphinx", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 32, "location": "shtick union", "mintemp": 4, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 25, "location": "dysyen", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 33, "location": "kookaberra", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 29, "location": "sphinx", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "NE", "maxtemp": 35, "location": "sphinx", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 24, "location": "kookaberra", "mintemp": 7, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "SW", "maxtemp": 30, "location": "doshtown", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 25, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 18, "location": "shtick union", "mintemp": 14, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 21, "location": "shtick union", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 20, "location": "dysyen", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 23, "location": "kookaberra", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 34, "location": "shtick union", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 27, "location": "doshtown", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 35, "location": "kookaberra", "mintemp": 14, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 33, "location": "dysyen", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 18, "location": "dysyen", "mintemp": 2, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 27, "location": "doshtown", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 22, "location": "doshtown", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 27, "location": "kookaberra", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 28, "location": "dysyen", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 18, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 29, "location": "doshtown", "mintemp": 3, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 24, "location": "dysyen", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 21, "location": "shtick union", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 24, "location": "doshtown", "mintemp": 14, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 28, "location": "sphinx", "mintemp": 4, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "SW", "maxtemp": 24, "location": "dysyen", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 23, "location": "dysyen", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "NE", "maxtemp": 24, "location": "sphinx", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 17, "location": "doshtown", "mintemp": 6, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 26, "location": "doshtown", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 31, "location": "dysyen", "mintemp": 8, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 25, "location": "doshtown", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "SW", "maxtemp": 28, "location": "dysyen", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 32, "location": "shtick union", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 17, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 29, "location": "dysyen", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 25, "location": "sphinx", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 27, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 27, "location": "sphinx", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 18, "location": "sphinx", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 26, "location": "shtick union", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "SW", "maxtemp": 21, "location": "shtick union", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 26, "location": "doshtown", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "NE", "maxtemp": 18, "location": "doshtown", "mintemp": 15, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 26, "location": "dysyen", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 33, "location": "shtick union", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 25, "location": "shtick union", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 33, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 17, "location": "sphinx", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 35, "location": "doshtown", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 23, "location": "sphinx", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 22, "location": "shtick union", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 34, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 20, "location": "kookaberra", "mintemp": 13, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 34, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 17, "location": "shtick union", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 17, "location": "kookaberra", "mintemp": 4, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 17, "location": "dysyen", "mintemp": 9, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 23, "location": "sphinx", "mintemp": 15, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 25, "location": "doshtown", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "N", "maxtemp": 29, "location": "doshtown", "mintemp": 9, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "NE", "maxtemp": 17, "location": "shtick union", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 22, "location": "sphinx", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 31, "location": "dysyen", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 22, "location": "kookaberra", "mintemp": 13, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 34, "location": "dysyen", "mintemp": 9, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 31, "location": "dysyen", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 25, "location": "sphinx", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 28, "location": "dysyen", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 28, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 30, "location": "doshtown", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 28, "location": "doshtown", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 18, "location": "doshtown", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 24, "location": "dysyen", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 24, "location": "shtick union", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "W", "maxtemp": 19, "location": "shtick union", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 19, "location": "doshtown", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "SW", "maxtemp": 27, "location": "dysyen", "mintemp": 6, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "NW", "maxtemp": 20, "location": "dysyen", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "yes"}
+{"wind direction": "E", "maxtemp": 26, "location": "dysyen", "mintemp": 10, "rainfall today": 0.6, "rain tomorrow": "yes"}
+{"wind direction": "S", "maxtemp": 35, "location": "kookaberra", "mintemp": 15, "rainfall today": 0.4, "rain tomorrow": "yes"}
+{"wind direction": "SE", "maxtemp": 26, "location": "shtick union", "mintemp": 10, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 28, "location": "dysyen", "mintemp": 2, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 27, "location": "shtick union", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 23, "location": "dysyen", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 35, "location": "doshtown", "mintemp": 5, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 29, "location": "kookaberra", "mintemp": 11, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 21, "location": "sphinx", "mintemp": 8, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 19, "location": "sphinx", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 26, "location": "doshtown", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 27, "location": "doshtown", "mintemp": 3, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 17, "location": "dysyen", "mintemp": 4, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 23, "location": "dysyen", "mintemp": 5, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 27, "location": "kookaberra", "mintemp": 14, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 29, "location": "kookaberra", "mintemp": 12, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "S", "maxtemp": 32, "location": "doshtown", "mintemp": 13, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 35, "location": "sphinx", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 32, "location": "sphinx", "mintemp": 12, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 18, "location": "kookaberra", "mintemp": 5, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "NE", "maxtemp": 17, "location": "doshtown", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "S", "maxtemp": 28, "location": "kookaberra", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 34, "location": "dysyen", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "S", "maxtemp": 22, "location": "kookaberra", "mintemp": 11, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "S", "maxtemp": 23, "location": "dysyen", "mintemp": 11, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 23, "location": "shtick union", "mintemp": 11, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 31, "location": "sphinx", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 30, "location": "kookaberra", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 23, "location": "shtick union", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "S", "maxtemp": 18, "location": "dysyen", "mintemp": 6, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 23, "location": "sphinx", "mintemp": 15, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 24, "location": "dysyen", "mintemp": 14, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "NE", "maxtemp": 19, "location": "sphinx", "mintemp": 8, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 30, "location": "doshtown", "mintemp": 14, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 24, "location": "doshtown", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 29, "location": "sphinx", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 25, "location": "dysyen", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 26, "location": "sphinx", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 18, "location": "doshtown", "mintemp": 5, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "S", "maxtemp": 33, "location": "kookaberra", "mintemp": 14, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "S", "maxtemp": 20, "location": "dysyen", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "NE", "maxtemp": 28, "location": "shtick union", "mintemp": 11, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 22, "location": "doshtown", "mintemp": 6, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 20, "location": "doshtown", "mintemp": 15, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 25, "location": "kookaberra", "mintemp": 6, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 23, "location": "sphinx", "mintemp": 8, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 17, "location": "kookaberra", "mintemp": 14, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 32, "location": "shtick union", "mintemp": 2, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 33, "location": "kookaberra", "mintemp": 5, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 27, "location": "shtick union", "mintemp": 2, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 17, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 21, "location": "kookaberra", "mintemp": 2, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 23, "location": "sphinx", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 17, "location": "sphinx", "mintemp": 5, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 33, "location": "kookaberra", "mintemp": 4, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "NE", "maxtemp": 22, "location": "kookaberra", "mintemp": 12, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 18, "location": "dysyen", "mintemp": 3, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 17, "location": "shtick union", "mintemp": 3, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 21, "location": "sphinx", "mintemp": 7, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "NE", "maxtemp": 35, "location": "sphinx", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "NE", "maxtemp": 22, "location": "dysyen", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "S", "maxtemp": 32, "location": "sphinx", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 25, "location": "doshtown", "mintemp": 8, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 19, "location": "sphinx", "mintemp": 14, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 21, "location": "dysyen", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 20, "location": "shtick union", "mintemp": 9, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "S", "maxtemp": 22, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 18, "location": "doshtown", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "NE", "maxtemp": 29, "location": "shtick union", "mintemp": 8, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 21, "location": "sphinx", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 32, "location": "doshtown", "mintemp": 6, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "NE", "maxtemp": 26, "location": "dysyen", "mintemp": 14, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 33, "location": "sphinx", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 34, "location": "shtick union", "mintemp": 7, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "S", "maxtemp": 24, "location": "dysyen", "mintemp": 12, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "S", "maxtemp": 35, "location": "doshtown", "mintemp": 10, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "S", "maxtemp": 17, "location": "doshtown", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 17, "location": "doshtown", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 27, "location": "dysyen", "mintemp": 6, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 26, "location": "shtick union", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 34, "location": "sphinx", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 18, "location": "dysyen", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "S", "maxtemp": 19, "location": "doshtown", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 31, "location": "kookaberra", "mintemp": 9, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "S", "maxtemp": 25, "location": "kookaberra", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 17, "location": "dysyen", "mintemp": 10, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 29, "location": "dysyen", "mintemp": 8, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 35, "location": "sphinx", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 29, "location": "sphinx", "mintemp": 15, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "S", "maxtemp": 28, "location": "sphinx", "mintemp": 12, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 31, "location": "shtick union", "mintemp": 14, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 20, "location": "doshtown", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 31, "location": "doshtown", "mintemp": 3, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 30, "location": "shtick union", "mintemp": 5, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 29, "location": "kookaberra", "mintemp": 11, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 28, "location": "dysyen", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 25, "location": "sphinx", "mintemp": 5, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 21, "location": "kookaberra", "mintemp": 4, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 26, "location": "dysyen", "mintemp": 5, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "S", "maxtemp": 22, "location": "kookaberra", "mintemp": 14, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 29, "location": "shtick union", "mintemp": 11, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 29, "location": "shtick union", "mintemp": 5, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 21, "location": "shtick union", "mintemp": 10, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 23, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 31, "location": "dysyen", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 33, "location": "sphinx", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 17, "location": "sphinx", "mintemp": 3, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 25, "location": "dysyen", "mintemp": 4, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "NE", "maxtemp": 25, "location": "sphinx", "mintemp": 3, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 17, "location": "dysyen", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 19, "location": "kookaberra", "mintemp": 11, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 34, "location": "shtick union", "mintemp": 6, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "S", "maxtemp": 21, "location": "shtick union", "mintemp": 15, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "S", "maxtemp": 29, "location": "dysyen", "mintemp": 3, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 27, "location": "doshtown", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "S", "maxtemp": 20, "location": "shtick union", "mintemp": 13, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 19, "location": "dysyen", "mintemp": 9, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "NE", "maxtemp": 35, "location": "dysyen", "mintemp": 3, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 17, "location": "sphinx", "mintemp": 7, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 25, "location": "sphinx", "mintemp": 5, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 30, "location": "kookaberra", "mintemp": 5, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 32, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 20, "location": "kookaberra", "mintemp": 3, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 26, "location": "doshtown", "mintemp": 12, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "NE", "maxtemp": 19, "location": "doshtown", "mintemp": 14, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 23, "location": "kookaberra", "mintemp": 8, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 33, "location": "dysyen", "mintemp": 2, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 30, "location": "kookaberra", "mintemp": 11, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 32, "location": "sphinx", "mintemp": 8, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 33, "location": "doshtown", "mintemp": 13, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 21, "location": "shtick union", "mintemp": 8, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 33, "location": "doshtown", "mintemp": 2, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 19, "location": "shtick union", "mintemp": 12, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "NE", "maxtemp": 21, "location": "doshtown", "mintemp": 7, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "NE", "maxtemp": 27, "location": "kookaberra", "mintemp": 9, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 33, "location": "shtick union", "mintemp": 6, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 27, "location": "sphinx", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 21, "location": "dysyen", "mintemp": 4, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 32, "location": "doshtown", "mintemp": 4, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 29, "location": "doshtown", "mintemp": 2, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 17, "location": "doshtown", "mintemp": 15, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 31, "location": "dysyen", "mintemp": 12, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 27, "location": "dysyen", "mintemp": 8, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 33, "location": "shtick union", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 34, "location": "kookaberra", "mintemp": 9, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 31, "location": "dysyen", "mintemp": 8, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 31, "location": "sphinx", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 33, "location": "kookaberra", "mintemp": 6, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 25, "location": "dysyen", "mintemp": 13, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 34, "location": "dysyen", "mintemp": 8, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 24, "location": "sphinx", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 21, "location": "shtick union", "mintemp": 8, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 29, "location": "shtick union", "mintemp": 10, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 20, "location": "dysyen", "mintemp": 4, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "S", "maxtemp": 18, "location": "dysyen", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 21, "location": "sphinx", "mintemp": 5, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "NE", "maxtemp": 33, "location": "sphinx", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 35, "location": "doshtown", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 33, "location": "kookaberra", "mintemp": 13, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 22, "location": "dysyen", "mintemp": 9, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "NE", "maxtemp": 21, "location": "doshtown", "mintemp": 5, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 17, "location": "sphinx", "mintemp": 10, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 31, "location": "shtick union", "mintemp": 14, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 35, "location": "doshtown", "mintemp": 2, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 17, "location": "kookaberra", "mintemp": 5, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 30, "location": "dysyen", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 31, "location": "sphinx", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 17, "location": "kookaberra", "mintemp": 2, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 23, "location": "doshtown", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 24, "location": "shtick union", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 18, "location": "dysyen", "mintemp": 9, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 21, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 34, "location": "doshtown", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "NE", "maxtemp": 34, "location": "shtick union", "mintemp": 13, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 17, "location": "sphinx", "mintemp": 13, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 33, "location": "shtick union", "mintemp": 15, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 26, "location": "dysyen", "mintemp": 2, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 20, "location": "shtick union", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 29, "location": "kookaberra", "mintemp": 7, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 28, "location": "dysyen", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 17, "location": "doshtown", "mintemp": 2, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 24, "location": "doshtown", "mintemp": 12, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "S", "maxtemp": 20, "location": "doshtown", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 34, "location": "kookaberra", "mintemp": 15, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "S", "maxtemp": 17, "location": "dysyen", "mintemp": 5, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 28, "location": "dysyen", "mintemp": 14, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 35, "location": "kookaberra", "mintemp": 4, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 34, "location": "shtick union", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 24, "location": "shtick union", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 26, "location": "doshtown", "mintemp": 12, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 31, "location": "dysyen", "mintemp": 7, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 23, "location": "shtick union", "mintemp": 12, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 24, "location": "shtick union", "mintemp": 2, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 21, "location": "dysyen", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 29, "location": "dysyen", "mintemp": 9, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "S", "maxtemp": 26, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 34, "location": "dysyen", "mintemp": 5, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 26, "location": "shtick union", "mintemp": 3, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 24, "location": "dysyen", "mintemp": 15, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 35, "location": "dysyen", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 32, "location": "doshtown", "mintemp": 1, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 33, "location": "shtick union", "mintemp": 10, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 18, "location": "shtick union", "mintemp": 8, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 22, "location": "shtick union", "mintemp": 13, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "NE", "maxtemp": 28, "location": "doshtown", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 28, "location": "dysyen", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 35, "location": "kookaberra", "mintemp": 13, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 28, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "NE", "maxtemp": 26, "location": "doshtown", "mintemp": 10, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 22, "location": "doshtown", "mintemp": 6, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 31, "location": "sphinx", "mintemp": 14, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "NE", "maxtemp": 32, "location": "sphinx", "mintemp": 3, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "NE", "maxtemp": 17, "location": "shtick union", "mintemp": 7, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 26, "location": "dysyen", "mintemp": 2, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "NE", "maxtemp": 20, "location": "dysyen", "mintemp": 15, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 34, "location": "shtick union", "mintemp": 3, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 26, "location": "dysyen", "mintemp": 1, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 25, "location": "doshtown", "mintemp": 3, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "NE", "maxtemp": 24, "location": "sphinx", "mintemp": 1, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 23, "location": "dysyen", "mintemp": 4, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 25, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 29, "location": "dysyen", "mintemp": 8, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 32, "location": "dysyen", "mintemp": 11, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 30, "location": "kookaberra", "mintemp": 6, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "NE", "maxtemp": 33, "location": "shtick union", "mintemp": 13, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 26, "location": "shtick union", "mintemp": 14, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "NE", "maxtemp": 21, "location": "kookaberra", "mintemp": 9, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 27, "location": "shtick union", "mintemp": 6, "rainfall today": 0.2, "rain tomorrow": "not yes"}
+{"wind direction": "NE", "maxtemp": 28, "location": "shtick union", "mintemp": 15, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 17, "location": "kookaberra", "mintemp": 9, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "NW", "maxtemp": 32, "location": "shtick union", "mintemp": 7, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 26, "location": "dysyen", "mintemp": 1, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "N", "maxtemp": 32, "location": "doshtown", "mintemp": 8, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "S", "maxtemp": 23, "location": "sphinx", "mintemp": 14, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 21, "location": "dysyen", "mintemp": 13, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 33, "location": "dysyen", "mintemp": 2, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 34, "location": "sphinx", "mintemp": 10, "rainfall today": 0, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 30, "location": "kookaberra", "mintemp": 1, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "SE", "maxtemp": 21, "location": "shtick union", "mintemp": 2, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 26, "location": "dysyen", "mintemp": 12, "rainfall today": 1, "rain tomorrow": "not yes"}
+{"wind direction": "NE", "maxtemp": 35, "location": "sphinx", "mintemp": 5, "rainfall today": 0.6, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 29, "location": "sphinx", "mintemp": 12, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "SW", "maxtemp": 26, "location": "sphinx", "mintemp": 1, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 35, "location": "doshtown", "mintemp": 3, "rainfall today": 0.4, "rain tomorrow": "not yes"}
+{"wind direction": "E", "maxtemp": 33, "location": "kookaberra", "mintemp": 12, "rainfall today": 0.8, "rain tomorrow": "not yes"}
+{"wind direction": "W", "maxtemp": 17, "location": "sphinx", "mintemp": 2, "rainfall today": 1, "rain tomorrow": "not yes"}

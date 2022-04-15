@@ -1,0 +1,1360 @@
+{
+    "travel-insurance": {
+        "all_exps": [
+            "People who have never traveled abroad before are more likely to have taken travel insurance.",
+            "People with an annual income below 1,000,000 are less likely to have traveled abroad than those with annual incomes above 1,000,000.",
+            "People with an annual income above 1,000,000 are more likely to have taken travel insurance.",
+            "More frequent flyers have taken travel insurance.",
+            "More people that travel abroad have taken travel insurance.",
+            "People who are non-frequent flyers and are college graduates are less likely to get travel insurance.",
+            "People who make a million or more and are frequent fliers are more likely to get travel insurance.",
+            "Most people who didn't travel abroad before had taken Travel Insurance",
+            "Most college graduate have taken Travel Insurance",
+            "Those who are college graduates and in their 20s are somewhat likely to purchase travel insurance.",
+            "Those who have never travelled abroad and are not frequent flyers often do not purchase travel insurance.",
+            "Frequent flyers with an annual income over 1 million usually take travel insurance.",
+            "People with an annual income over 1 million and under 30 years old usually take travel insurance.",
+            "travelers who are 29 and older take traveler insurance.",
+            "travelers who have not traveled abroad before are more likely to take traveler insurance.",
+            "Frequent flyer travelers with an annual income above 1 million frequently take travel insurance.",
+            "Travelers older than 25 years old and with an income below 1 million do not usually take travel insurance"
+        ],
+        "teacher_1": {
+            "explanations": [
+                "People who have never traveled abroad before are more likely to have taken travel insurance.",
+                "People with an annual income below 1,000,000 are less likely to have traveled abroad than those with annual incomes above 1,000,000.",
+                "People with an annual income above 1,000,000 are more likely to have taken travel insurance."
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "More frequent flyers have taken travel insurance.",
+                "More people that travel abroad have taken travel insurance."
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "People who are non-frequent flyers and are college graduates are less likely to get travel insurance.",
+                "People who make a million or more and are frequent fliers are more likely to get travel insurance."
+            ]
+        },
+        "teacher_4": {
+            "explanations": [
+                "Most people who didn't travel abroad before had taken Travel Insurance",
+                "Most college graduate have taken Travel Insurance"
+            ]
+        },
+        "teacher_5": {
+            "explanations": [
+                "Those who are college graduates and in their 20s are somewhat likely to purchase travel insurance.",
+                "Those who have never travelled abroad and are not frequent flyers often do not purchase travel insurance."
+            ]
+        },
+        "teacher_6": {
+            "explanations": [
+                "Frequent flyers with an annual income over 1 million usually take travel insurance.",
+                "People with an annual income over 1 million and under 30 years old usually take travel insurance."
+            ]
+        },
+        "teacher_7": {
+            "explanations": [
+                "travelers who are 29 and older take traveler insurance.",
+                "travelers who have not traveled abroad before are more likely to take traveler insurance."
+            ]
+        },
+        "teacher_8": {
+            "explanations": [
+                "Frequent flyer travelers with an annual income above 1 million frequently take travel insurance.",
+                "Travelers older than 25 years old and with an income below 1 million do not usually take travel insurance"
+            ]
+        }
+    },
+    "somerville-happiness": {
+        "all_exps": [
+            "Person attending social community events are more unhappy than the others.",
+            "Person that have more city services available to are happy than the other.",
+            "If the social community events rating is 5, there is an equal chance that a person living in that community will be happy or unhappy.",
+            "People are more likely to be happy when they have a score of 5 for Information Availability about City Services.",
+            "When the quality of schools is => than 4, a person will likely be happy.",
+            "When the quality of schools is =< than 3, a person will likely be unhappy.",
+            "Most people are happy if the quality of schools is >3",
+            "Most people are happy if the Information Availability about City Services is >4",
+            "Most people would be happy if the Information Availability about City Services is equal to 5.",
+            "Most people would be unhappy if the Quality of Schools is less than or equal to 3."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "Person attending social community events are more unhappy than the others.",
+                "Person that have more city services available to are happy than the other."
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "If the social community events rating is 5, there is an equal chance that a person living in that community will be happy or unhappy.",
+                "People are more likely to be happy when they have a score of 5 for Information Availability about City Services."
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "When the quality of schools is => than 4, a person will likely be happy.",
+                "When the quality of schools is =< than 3, a person will likely be unhappy."
+            ]
+        },
+        "teacher_4": {
+            "explanations": [
+                "Most people are happy if the quality of schools is >3",
+                "Most people are happy if the Information Availability about City Services is >4"
+            ]
+        },
+        "teacher_5": {
+            "explanations": [
+                "Most people would be happy if the Information Availability about City Services is equal to 5.",
+                "Most people would be unhappy if the Quality of Schools is less than or equal to 3."
+            ]
+        }
+    },
+    "website-phishing": {
+        "all_exps": [
+            "Websites with legitimate SF and suspicious pop up windows are phishy",
+            "Websites with phishy or suspicious SFH phishy or suspicious request URL resulted legitimate",
+            "Phishy websites usually have legitimate SFH values, suspicious popUpWindow, and do not have suspicious SSLfinal_State.",
+            "Legitimate websites usually have phishy popUpWindow and phishy request_URL.",
+            "If the popUpWindow is Phishy then the result is Legitimate",
+            "If SFH is Legitimate then the Result is Phishy",
+            "Phishy websites will have suspicious pop up windows",
+            "Suspicious websites will often have phishy request_URL",
+            "Phishy websites will have a legitimate SFH",
+            "SFH legitimate comes under the Phishy category.",
+            "Request_URL Phishy data leads to the Suspicious group"
+        ],
+        "teacher_1": {
+            "explanations": [
+                "Websites with legitimate SF and suspicious pop up windows are phishy",
+                "Websites with phishy or suspicious SFH phishy or suspicious request URL resulted legitimate"
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "Phishy websites usually have legitimate SFH values, suspicious popUpWindow, and do not have suspicious SSLfinal_State.",
+                "Legitimate websites usually have phishy popUpWindow and phishy request_URL."
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "If the popUpWindow is Phishy then the result is Legitimate",
+                "If SFH is Legitimate then the Result is Phishy"
+            ]
+        },
+        "teacher_4": {
+            "explanations": [
+                "Phishy websites will have suspicious pop up windows",
+                "Suspicious websites will often have phishy request_URL",
+                "Phishy websites will have a legitimate SFH"
+            ]
+        },
+        "teacher_5": {
+            "explanations": [
+                "SFH legitimate comes under the Phishy category.",
+                "Request_URL Phishy data leads to the Suspicious group"
+            ]
+        }
+    },
+    "tic-tac-toe-endgame": {
+        "all_exps": [
+            "The game is usually not over yet when there are at least two blank squares.",
+            "The game is usually over when the players have taken all the middle squares.",
+            "The top middle square results in x winning.",
+            "The bottom middle square results in x winning.",
+            "When the middle-right-square is left blank, x is less likely to win.",
+            "Whoever marks the top-left-square is unlikely to win.",
+            "The player who moves second is much more likely to lose if they place in the middle-left-square.",
+            "The middle-right-square is the square that is most likely to go unused during a game.",
+            "Top left square X indicates the Negative group.",
+            "Without b categories in middle middle square comes under the Positive group.",
+            "An O in both the top-left and bottom-right is likely to be positive.",
+            "A blank in the middle-right will likely lead to negative."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "The game is usually not over yet when there are at least two blank squares.",
+                "The game is usually over when the players have taken all the middle squares."
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "The top middle square results in x winning.",
+                "The bottom middle square results in x winning."
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "When the middle-right-square is left blank, x is less likely to win.",
+                "Whoever marks the top-left-square is unlikely to win.",
+                "The player who moves second is much more likely to lose if they place in the middle-left-square.",
+                "The middle-right-square is the square that is most likely to go unused during a game."
+            ]
+        },
+        "teacher_4": {
+            "explanations": [
+                "Top left square X indicates the Negative group.",
+                "Without b categories in middle middle square comes under the Positive group."
+            ]
+        },
+        "teacher_5": {
+            "explanations": [
+                "An O in both the top-left and bottom-right is likely to be positive.",
+                "A blank in the middle-right will likely lead to negative."
+            ]
+        }
+    },
+    "internet-firewall": {
+        "all_exps": [
+            "Less than 67 bytes sent generally results in an internet denial.",
+            "The time taken for requests to be allowed is under 120 seconds.",
+            "Nat destination port is high action is allow",
+            "Nat destination port is low action is deny",
+            "Most of the internet traffic logs that do not pass are due to NAT destination port set as 0.",
+            "The ports that pass both have time elapsed and NAT destination ports.",
+            "Internet requests from Destination Port 445 should be dropped.",
+            "Internet requests that should be allowed have an elapsed time of more than one second.",
+            "If the NAT Destination Port equals zero, the request should not be allowed.",
+            "Below the 69 of Bytes categories comes under the Deny group",
+            "Destination 445 comes under the Drop category."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "Less than 67 bytes sent generally results in an internet denial.",
+                "The time taken for requests to be allowed is under 120 seconds."
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "Nat destination port is high action is allow",
+                "Nat destination port is low action is deny"
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "Most of the internet traffic logs that do not pass are due to NAT destination port set as 0.",
+                "The ports that pass both have time elapsed and NAT destination ports."
+            ]
+        },
+        "teacher_4": {
+            "explanations": [
+                "Internet requests from Destination Port 445 should be dropped.",
+                "Internet requests that should be allowed have an elapsed time of more than one second.",
+                "If the NAT Destination Port equals zero, the request should not be allowed."
+            ]
+        },
+        "teacher_5": {
+            "explanations": [
+                "Below the 69 of Bytes categories comes under the Deny group",
+                "Destination 445 comes under the Drop category."
+            ]
+        }
+    },
+    "entrepreneur-competency": {
+        "all_exps": [
+            "Physical health rating is high entrepreneur competency is competent",
+            "Physical health rating is low entrepreneur competency is incompetent",
+            "Having a health rating of 4 or higher means you're much more likely to be competent.",
+            "Having a self-reliance rating of 3 or lower means you're more likely to be incompetent.",
+            "An Engineering Sciences education stream is much less likely to result in Competence than a Art, Music or Design or a Economic Sciences, Business Studies, Commerce and Law are.",
+            "People who got rating greater than 4 in in self reliance are competent to be an entrepreneur.",
+            "People who graduated from Math and Natural sciences and other courses are incompetent to be an entrepreneur whatever their rating is.",
+            "People who are competent have a health rating of five",
+            "Those with a self reliance rating of at least three",
+            "A Self-Reliance rating <5 is most likely to have an Incompetent Entrepreneur Competency rating.",
+            "Students who are more self-reliant tend to be more competent than those who are less self-reliant.",
+            "Students who are in good health are more competent than those who have poor health."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "Physical health rating is high entrepreneur competency is competent",
+                "Physical health rating is low entrepreneur competency is incompetent"
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "Having a health rating of 4 or higher means you're much more likely to be competent.",
+                "Having a self-reliance rating of 3 or lower means you're more likely to be incompetent.",
+                "An Engineering Sciences education stream is much less likely to result in Competence than a Art, Music or Design or a Economic Sciences, Business Studies, Commerce and Law are."
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "People who got rating greater than 4 in in self reliance are competent to be an entrepreneur.",
+                "People who graduated from Math and Natural sciences and other courses are incompetent to be an entrepreneur whatever their rating is."
+            ]
+        },
+        "teacher_4": {
+            "explanations": [
+                "People who are competent have a health rating of five",
+                "Those with a self reliance rating of at least three"
+            ]
+        },
+        "teacher_5": {
+            "explanations": [
+                "A Self-Reliance rating <5 is most likely to have an Incompetent Entrepreneur Competency rating."
+            ]
+        },
+        "teacher_6": {
+            "explanations": [
+                "Students who are more self-reliant tend to be more competent than those who are less self-reliant.",
+                "Students who are in good health are more competent than those who have poor health."
+            ]
+        }
+    },
+    "mushroom": {
+        "all_exps": [
+            "If the stalk-surface above the ring is silk then it is poisonous.",
+            "If the mushrooms have a foul odor, then it is poisonous.",
+            "Mushrooms with pungent or foul odors are poisonous.",
+            "Mushrooms with a silk stalk surface are poisonous.",
+            "Silk stack surface comes under the poisonous category.",
+            "Spore print black color leads to the edible category",
+            "If stalk surface above ring is Silk, then it is poisonous.",
+            "It is poisonous if it has a foul odor.",
+            "It is edible if the odor is none.",
+            "Mostly edible if the stalk-surface-above-ring is smooth.",
+            "Silk stalks above ring are Poisonous. 6 of 6 rows with no variation.",
+            "Foul smelling are Poisonous. 7 of 7 rows,with no deviation."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "If the stalk-surface above the ring is silk then it is poisonous.",
+                "If the mushrooms have a foul odor, then it is poisonous."
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "Mushrooms with pungent or foul odors are poisonous.",
+                "Mushrooms with a silk stalk surface are poisonous."
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "Silk stack surface comes under the poisonous category.",
+                "Spore print black color leads to the edible category"
+            ]
+        },
+        "teacher_4": {
+            "explanations": [
+                "If stalk surface above ring is Silk, then it is poisonous.",
+                "It is poisonous if it has a foul odor.",
+                "It is edible if the odor is none.",
+                "Mostly edible if the stalk-surface-above-ring is smooth."
+            ]
+        },
+        "teacher_5": {
+            "explanations": [
+                "Silk stalks above ring are Poisonous. 6 of 6 rows with no variation.",
+                "Foul smelling are Poisonous. 7 of 7 rows,with no deviation."
+            ]
+        }
+    },
+    "banknote-authentication": {
+        "all_exps": [
+            "If the variance of the note is a negative number, it's more likely to be an original note.",
+            "If the kurtosis of the bill is a negative number, it's more likely to be a fake note.",
+            "A fake banknote has a variance level over 4.0",
+            "Notes that have a negative Variance level will also have a negative Entropy level.",
+            "Notes that have a positive Skewness level will have a negative Kurtosis level.",
+            "Variance above 4 leads to the results of FAKE",
+            "Below 3.80 skewness leads to the original",
+            "Variance above 1.00 leads to the FAKE.",
+            "Below the 3.75 Sketwness leads to the ORIGINAL",
+            "Entropy is low value so it is fake",
+            "Kurtosis is high value so it is original"
+        ],
+        "teacher_1": {
+            "explanations": [
+                "If the variance of the note is a negative number, it's more likely to be an original note.",
+                "If the kurtosis of the bill is a negative number, it's more likely to be a fake note."
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "A fake banknote has a variance level over 4.0",
+                "Notes that have a negative Variance level will also have a negative Entropy level.",
+                "Notes that have a positive Skewness level will have a negative Kurtosis level."
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "Variance above 4 leads to the results of FAKE",
+                "Below 3.80 skewness leads to the original"
+            ]
+        },
+        "teacher_4": {
+            "explanations": [
+                "Variance above 1.00 leads to the FAKE.",
+                "Below the 3.75 Sketwness leads to the ORIGINAL"
+            ]
+        },
+        "teacher_5": {
+            "explanations": [
+                "Entropy is low value so it is fake",
+                "Kurtosis is high value so it is original"
+            ]
+        }
+    },
+    "dry-bean": {
+        "all_exps": [
+            "Seeds with an equivalent diameter of less than 400 are not Bombay beans.",
+            "Seeds with a convex area of less than 100000 are not Bombay beans.",
+            "Seeds with a perimeter of more than 850 are Dermosan.",
+            "Bombay of bean class has more perimeter as well as major axis length than any other bean class  beans.",
+            "Dermosan of bean class has the lowest diameter of all the othjer bean classes.",
+            "More than 100000 convex area leads to the results of Bombay bean class.",
+            "Below the 35000 area leads to the Dermosan bean class.",
+            "Major axis length is low bean class name is sekar",
+            "Major axis length is high class name is bombay",
+            "Convex area above 100000 leads to the Bombay bean class.",
+            "Below the 215.00 equivalent diameter leads to the Dermosan class."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "Seeds with an equivalent diameter of less than 400 are not Bombay beans.",
+                "Seeds with a convex area of less than 100000 are not Bombay beans.",
+                "Seeds with a perimeter of more than 850 are Dermosan."
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "Bombay of bean class has more perimeter as well as major axis length than any other bean class  beans.",
+                "Dermosan of bean class has the lowest diameter of all the othjer bean classes."
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "More than 100000 convex area leads to the results of Bombay bean class.",
+                "Below the 35000 area leads to the Dermosan bean class."
+            ]
+        },
+        "teacher_4": {
+            "explanations": [
+                "Major axis length is low bean class name is sekar",
+                "Major axis length is high class name is bombay"
+            ]
+        },
+        "teacher_5": {
+            "explanations": [
+                "Convex area above 100000 leads to the Bombay bean class.",
+                "Below the 215.00 equivalent diameter leads to the Dermosan class."
+            ]
+        }
+    },
+    "shill-bidding": {
+        "all_exps": [
+            "Shill bidding has more successive outbidding.",
+            "Shill bidding has a higher percent on auctions won.",
+            "Bidding ratios above .1 tend to be from shill bidding.",
+            "A successive outbidding of 0.0 tends to be from normal bidding.",
+            "When the number of auctions won were 0.0, the bidder was performing normal bidding.",
+            "When successive outbidding is greater than 0.0, shill bidding takes place.",
+            "All of the bids associated with normal bidding have a successive outbidding of 0.0.",
+            "A bidding ratio below 0.1 often results in normal bidding.",
+            "Bid tendency higher than .333",
+            "successive outbidding more than 0.0",
+            "Bidding ratio more than 1.6"
+        ],
+        "teacher_1": {
+            "explanations": [
+                "Shill bidding has more successive outbidding.",
+                "Shill bidding has a higher percent on auctions won."
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "Bidding ratios above .1 tend to be from shill bidding.",
+                "A successive outbidding of 0.0 tends to be from normal bidding."
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "When the number of auctions won were 0.0, the bidder was performing normal bidding.",
+                "When successive outbidding is greater than 0.0, shill bidding takes place.",
+                "All of the bids associated with normal bidding have a successive outbidding of 0.0.",
+                "A bidding ratio below 0.1 often results in normal bidding."
+            ]
+        },
+        "teacher_4": {
+            "explanations": [
+                "Bid tendency higher than .333",
+                "successive outbidding more than 0.0",
+                "Bidding ratio more than 1.6"
+            ]
+        }
+    },
+    "mammographic-mass": {
+        "all_exps": [
+            "Irregular mass shapes are indicative of a malignant mass lesion.",
+            "Ill-defined mass margins with low density are most likely to be malignant mass lesions.",
+            "Circumscribed mass margins, regardless of age, are benign.",
+            "A BI-RADS assessment of 5 is most often associated with a malignant mass lesion.",
+            "A BI-RADS assessment of 4 is far more likely to be benign than malignant, regardless of the patient's age.",
+            "Malignant lesions are always irregular in shape with assessments between 4 and 5.",
+            "All circumscribed mass margins are benign.",
+            "If the mass shape is irregular, then the severity of the lesion is malignant.",
+            "If the BI-RADS assessment is 5, then the severity of the lesion is malignant.",
+            "If the mass shape is irregular then the severity is malignant",
+            "If the Bi-Rads Assessment is =5, then severity is malignant",
+            "Most with irregular mass shapes have a malignant severity.",
+            "Most with round mass shapes have a benign severity."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "Irregular mass shapes are indicative of a malignant mass lesion.",
+                "Ill-defined mass margins with low density are most likely to be malignant mass lesions.",
+                "Circumscribed mass margins, regardless of age, are benign.",
+                "A BI-RADS assessment of 5 is most often associated with a malignant mass lesion.",
+                "A BI-RADS assessment of 4 is far more likely to be benign than malignant, regardless of the patient's age."
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "Malignant lesions are always irregular in shape with assessments between 4 and 5.",
+                "All circumscribed mass margins are benign."
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "If the mass shape is irregular, then the severity of the lesion is malignant.",
+                "If the BI-RADS assessment is 5, then the severity of the lesion is malignant."
+            ]
+        },
+        "teacher_4": {
+            "explanations": [
+                "If the mass shape is irregular then the severity is malignant",
+                "If the Bi-Rads Assessment is =5, then severity is malignant"
+            ]
+        },
+        "teacher_5": {
+            "explanations": [
+                "Most with irregular mass shapes have a malignant severity.",
+                "Most with round mass shapes have a benign severity."
+            ]
+        }
+    },
+    "car-evaluation": {
+        "all_exps": [
+            "If safety is high, then the car will not be unacceptable.",
+            "If maintenance cost is medium, then the car will not be unacceptable.",
+            "A capicity for 4 or more persons makes the vehicle acceptable for resale.",
+            "High safety ratings generally make vehicles acceptable for resale.",
+            "A low buying cost is a good indicator of a vehicle being acceptable for resale.",
+            "Most people having the passenger capacity of 4 or more have good acceptability for car resale.",
+            "Cars with low buying and maintenance cost  are highly acceptable for resale.",
+            "Cars with higher safety and capacity are highly acceptable for resale.",
+            "Cars with higher safety and medium luggage boot size are highly acceptable for resale."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "If safety is high, then the car will not be unacceptable.",
+                "If maintenance cost is medium, then the car will not be unacceptable."
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "A capicity for 4 or more persons makes the vehicle acceptable for resale.",
+                "High safety ratings generally make vehicles acceptable for resale.",
+                "A low buying cost is a good indicator of a vehicle being acceptable for resale."
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "Most people having the passenger capacity of 4 or more have good acceptability for car resale."
+            ]
+        },
+        "teacher_4": {
+            "explanations": [
+                "Cars with low buying and maintenance cost  are highly acceptable for resale.",
+                "Cars with higher safety and capacity are highly acceptable for resale.",
+                "Cars with higher safety and medium luggage boot size are highly acceptable for resale."
+            ]
+        }
+    },
+    "contraceptive-method-choice": {
+        "all_exps": [
+            "A husband's education has a high chance of a long-term contraceptive being used",
+            "a wife's education level usually determines if a long term contraceptive was used",
+            "Women with low education are more likely to use short-term contraception",
+            "Women with high education age 40 and under are more likely to use long-term contraception",
+            "Women with two or more children used short and long term methods",
+            "The least educated women either used short-term method or didn't use any contraceptive method.",
+            "If the wife's education is high, then the contraceptive method used is long-term.",
+            "If the wife's education is not high, then the contraceptive method used is no-use or short-term.",
+            "If the wife's education is not high, then the contraceptive method used is not long-term.",
+            "If the wife's education is not high, then the contraceptive method is short-term."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "A husband's education has a high chance of a long-term contraceptive being used",
+                "a wife's education level usually determines if a long term contraceptive was used"
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "Women with low education are more likely to use short-term contraception",
+                "Women with high education age 40 and under are more likely to use long-term contraception"
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "Women with two or more children used short and long term methods",
+                "The least educated women either used short-term method or didn't use any contraceptive method."
+            ]
+        },
+        "teacher_4": {
+            "explanations": [
+                "If the wife's education is high, then the contraceptive method used is long-term.",
+                "If the wife's education is not high, then the contraceptive method used is no-use or short-term.",
+                "If the wife's education is not high, then the contraceptive method used is not long-term.",
+                "If the wife's education is not high, then the contraceptive method is short-term."
+            ]
+        }
+    },
+    "teaching-assistant-evaluation": {
+        "all_exps": [
+            "Non-English speakers who teach in the summer do not have a low teaching assistant performance.",
+            "All low teaching assistance performance scores are given to non-English speakers who teach in the regular session.",
+            "Class sizes of twenty and fewer students leads to better teaching assistant performance.",
+            "Teaching assistants that teach during summer semester have a better chance of attaining medium and high teaching assistant performance.",
+            "Teaching assistants that teach course 3 have a better chance of attaining medium and high teaching assistant performance.",
+            "Teaching Assistant performance is high in summer semester than the regular semester.",
+            "The class size in summer semester is greater than or equal to 20.",
+            "If semester is regular, then teaching assistant performance is low.",
+            "If course is 3, then teaching assistant performance is not low.",
+            "If semester is summer, then teaching assistant performance is not low.",
+            "Low teaching performance is most seen among non-English speakers.",
+            "Low teaching performance is usual in regular semesters.",
+            "Medium classes usually have 20 or more students."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "Non-English speakers who teach in the summer do not have a low teaching assistant performance.",
+                "All low teaching assistance performance scores are given to non-English speakers who teach in the regular session."
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "Class sizes of twenty and fewer students leads to better teaching assistant performance.",
+                "Teaching assistants that teach during summer semester have a better chance of attaining medium and high teaching assistant performance.",
+                "Teaching assistants that teach course 3 have a better chance of attaining medium and high teaching assistant performance."
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "Teaching Assistant performance is high in summer semester than the regular semester.",
+                "The class size in summer semester is greater than or equal to 20."
+            ]
+        },
+        "teacher_4": {
+            "explanations": [
+                "If semester is regular, then teaching assistant performance is low.",
+                "If course is 3, then teaching assistant performance is not low.",
+                "If semester is summer, then teaching assistant performance is not low."
+            ]
+        },
+        "teacher_5": {
+            "explanations": [
+                "Low teaching performance is most seen among non-English speakers.",
+                "Low teaching performance is usual in regular semesters.",
+                "Medium classes usually have 20 or more students."
+            ]
+        }
+    },
+    "stroke-prediction": {
+        "all_exps": [
+            "having no hypertension reduces the risk of a stroke",
+            "having no heart disease reduces the risk of a stroke",
+            "Being over 50 increases the risk of a stroke",
+            "A Patient is likely to get stroke if he or she is above 50 years of age.",
+            "A person with no Hyper tension history is also likely to get a stroke if he or she is above 50 years of age.",
+            "Individuals without heart disease are less likely to have a stroke.",
+            "Individuals 45 and older are more likely to have a stroke.",
+            "Patients who have Heart Disease are more likely to get stroke",
+            "Patient who has Hypertension are more likely to get stroke",
+            "Being under 40 years old usually means you haven't had a stroke."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "having no hypertension reduces the risk of a stroke",
+                "having no heart disease reduces the risk of a stroke",
+                "Being over 50 increases the risk of a stroke"
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "A Patient is likely to get stroke if he or she is above 50 years of age.",
+                "A person with no Hyper tension history is also likely to get a stroke if he or she is above 50 years of age."
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "Individuals without heart disease are less likely to have a stroke.",
+                "Individuals 45 and older are more likely to have a stroke."
+            ]
+        },
+        "teacher_4": {
+            "explanations": [
+                "Patients who have Heart Disease are more likely to get stroke",
+                "Patient who has Hypertension are more likely to get stroke"
+            ]
+        },
+        "teacher_5": {
+            "explanations": [
+                "Being under 40 years old usually means you haven't had a stroke."
+            ]
+        }
+    },
+    "job-change": {
+        "all_exps": [
+            "Employees located in city_103 are more likes to change jobs than individuals located elsewhere.",
+            "Pvt Ltd Employees are more likely to not change their jobs.",
+            "Employees from city_103 are more likely to change jobs.",
+            "Employees from city_21 are generally less likely to change jobs",
+            "Employees from city with city development index less than 0.74 are in general less likely to change jobs",
+            "A worker is unlikely to change jobs if he/she doesn't enroll in a university program",
+            "A worker whose currently employed by a private Limited Company (Pvt Ltd) is unlikely to change jobs",
+            "Mostly Employees who have City Development index greater than or equal to 0.84 are more likely to change jobs",
+            "Mostly employees who have city value greater than 100 more more likely to change jobs",
+            "Employees working at a Private Ltd are more than likely not to change jobs.",
+            "Employees in city_103 are likely to change jobs.",
+            "Employees in city_21 are not likely to change jobs.",
+            "Employees living in a city index of 0.84 or higher tend are more likely to change jobs."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "Employees located in city_103 are more likes to change jobs than individuals located elsewhere.",
+                "Pvt Ltd Employees are more likely to not change their jobs."
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "Employees from city_103 are more likely to change jobs.",
+                "Employees from city_21 are generally less likely to change jobs",
+                "Employees from city with city development index less than 0.74 are in general less likely to change jobs"
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "A worker is unlikely to change jobs if he/she doesn't enroll in a university program",
+                "A worker whose currently employed by a private Limited Company (Pvt Ltd) is unlikely to change jobs"
+            ]
+        },
+        "teacher_4": {
+            "explanations": [
+                "Mostly Employees who have City Development index greater than or equal to 0.84 are more likely to change jobs",
+                "Mostly employees who have city value greater than 100 more more likely to change jobs"
+            ]
+        },
+        "teacher_5": {
+            "explanations": [
+                "Employees working at a Private Ltd are more than likely not to change jobs.",
+                "Employees in city_103 are likely to change jobs.",
+                "Employees in city_21 are not likely to change jobs.",
+                "Employees living in a city index of 0.84 or higher tend are more likely to change jobs."
+            ]
+        }
+    },
+    "campus-placement": {
+        "all_exps": [
+            "Students who have a better secondary education percentage, degree percentage, and work experience are more likely to be placed.",
+            "Students with a percentage of 55% or higher in their secondary education are more likely to be placed.",
+            "A higher degree percentage of above 60.00 helps in a college student getting placed.",
+            "A higher secondary education percentage of 55 and above helps in a college student getting placed.",
+            "College students with a higher secondary education percentage of 60.0 get placed.",
+            "College students with a secondary education percentage of at least 56.0 and a degree percentage of at least 60.0, get placed.",
+            "Most student will get placed if their degree percentage is greater that or equals to 64.0.",
+            "Most student will get placed if their higher secondary education percentage is more than 59.0.",
+            "Student who have both secondary education percentage and degree percentage greater than 50 are more likely to be placed",
+            "Students who are specialized in Mkt&Fin are more likely to be placed"
+        ],
+        "teacher_1": {
+            "explanations": [
+                "Students who have a better secondary education percentage, degree percentage, and work experience are more likely to be placed.",
+                "Students with a percentage of 55% or higher in their secondary education are more likely to be placed."
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "A higher degree percentage of above 60.00 helps in a college student getting placed.",
+                "A higher secondary education percentage of 55 and above helps in a college student getting placed."
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "College students with a higher secondary education percentage of 60.0 get placed.",
+                "College students with a secondary education percentage of at least 56.0 and a degree percentage of at least 60.0, get placed."
+            ]
+        },
+        "teacher_4": {
+            "explanations": [
+                "Most student will get placed if their degree percentage is greater that or equals to 64.0.",
+                "Most student will get placed if their higher secondary education percentage is more than 59.0."
+            ]
+        },
+        "teacher_5": {
+            "explanations": [
+                "Student who have both secondary education percentage and degree percentage greater than 50 are more likely to be placed",
+                "Students who are specialized in Mkt&Fin are more likely to be placed"
+            ]
+        }
+    },
+    "engineering-placement": {
+        "all_exps": [
+            "Students who have studied computer, IT stream and attended 2 internships are more likely to be placed",
+            "Students who have CGPA value greater than or equal to 8 are more likely to be placed",
+            "The student with more than 5 CGPA got placed.",
+            "Student who got good CGPA are more likely to be placed than others",
+            "An engineering student with a CGPA of 6 or less, and a stream of Computer Science or Information Technology, did not place.",
+            "An engineering student with a CGPA of 8 or more and no history of backlogs, got placed.",
+            "Students who has CGPA value greater than or equal to 8 are likely to be placed",
+            "students those who studied computer, IT departments having 2 internships are likely to be placed",
+            "For students who have had one or more internships, those with a CGPA lower than 6 will not get placed, and those with a CGPA higher than 6 will get placed.",
+            "For students who come from an Information Technology stream, those who have had one or more internships will get placed, and those who have had no internships will not get placed."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "Students who have studied computer, IT stream and attended 2 internships are more likely to be placed",
+                "Students who have CGPA value greater than or equal to 8 are more likely to be placed"
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "The student with more than 5 CGPA got placed.",
+                "Student who got good CGPA are more likely to be placed than others"
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "An engineering student with a CGPA of 6 or less, and a stream of Computer Science or Information Technology, did not place.",
+                "An engineering student with a CGPA of 8 or more and no history of backlogs, got placed."
+            ]
+        },
+        "teacher_4": {
+            "explanations": [
+                "Students who has CGPA value greater than or equal to 8 are likely to be placed",
+                "students those who studied computer, IT departments having 2 internships are likely to be placed"
+            ]
+        },
+        "teacher_5": {
+            "explanations": [
+                "For students who have had one or more internships, those with a CGPA lower than 6 will not get placed, and those with a CGPA higher than 6 will get placed.",
+                "For students who come from an Information Technology stream, those who have had one or more internships will get placed, and those who have had no internships will not get placed."
+            ]
+        }
+    },
+    "indian-liver-patient": {
+        "all_exps": [
+            "The SGPT High percentage so the liver patient was yes",
+            "The SGPT Low percentage so the liver patient was no",
+            "Patients over the age of forty are liver patients",
+            "Patients who has SGOT range greater than forty are liver patients",
+            "decreased SGPT Value ensures no liver patient",
+            "Age group above 40 ensures liver patient",
+            "SOME PEOPLE HAVE MORE AGE AND HAVE THE SGOT AND THEY ARE LIVER PATIENT.",
+            "SOME PEOPLE HAVE MINIMUM AGE AND THEY ARE LIVER PATIENT. THEY ARE SOMEWHAT ACCURATE."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "The SGPT High percentage so the liver patient was yes",
+                "The SGPT Low percentage so the liver patient was no"
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "Patients over the age of forty are liver patients",
+                "Patients who has SGOT range greater than forty are liver patients"
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "decreased SGPT Value ensures no liver patient",
+                "Age group above 40 ensures liver patient"
+            ]
+        },
+        "teacher_4": {
+            "explanations": [
+                "SOME PEOPLE HAVE MORE AGE AND HAVE THE SGOT AND THEY ARE LIVER PATIENT.",
+                "SOME PEOPLE HAVE MINIMUM AGE AND THEY ARE LIVER PATIENT. THEY ARE SOMEWHAT ACCURATE."
+            ]
+        }
+    },
+    "wine": {
+        "all_exps": [
+            "Flavinoids above 1.0 indicate wine category 1.0 or 2.0",
+            "Proline above 750.0 indicate wine category 1.0",
+            "Alcohol content below 13.0 represents wine category 2.0",
+            "Color intensity over 5.40 indicates wine category 2.0",
+            "If the number for OD280/OD315 of diluted wines is below 2.0 then the wine category is 3.0",
+            "color intensity above 5.45 ensures wine category whose value is 3",
+            "proline content decreased generally ensures wine category increased by 3",
+            "Wines with a category of 1.0 have a alcohol content above 13.",
+            "Wines with a category of 3.0 have OD280/OD315 of diluted wines of between 1 and 2"
+        ],
+        "teacher_1": {
+            "explanations": [
+                "Flavinoids above 1.0 indicate wine category 1.0 or 2.0",
+                "Proline above 750.0 indicate wine category 1.0",
+                "Alcohol content below 13.0 represents wine category 2.0",
+                "Color intensity over 5.40 indicates wine category 2.0",
+                "If the number for OD280/OD315 of diluted wines is below 2.0 then the wine category is 3.0"
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "color intensity above 5.45 ensures wine category whose value is 3",
+                "proline content decreased generally ensures wine category increased by 3"
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "Wines with a category of 1.0 have a alcohol content above 13.",
+                "Wines with a category of 3.0 have OD280/OD315 of diluted wines of between 1 and 2"
+            ]
+        }
+    },
+    "caesarian-section": {
+        "all_exps": [
+            "Most pregnant women with normal blood pressure did not undergo caesarian.",
+            "Most pregnant women with apt heart problem did not undergo caesarian.",
+            "Most pregnant women with normal blood pressure had a timely delivery.",
+            "High Blood Pressure ensures caesarian value",
+            "Mostly Timely Delivery will ensure caesarian",
+            "Most women with 'apt' heart problems did not receive a caesarian section.",
+            "Most women with normal blood pressure did not receive a caesarian section.",
+            "Most women with high blood pressure received a caesarian section.",
+            "most women with normal blood pressure did not require a caesarian.",
+            "most women with normal blood pressure had timely deliveries"
+        ],
+        "teacher_1": {
+            "explanations": [
+                "Most pregnant women with normal blood pressure did not undergo caesarian.",
+                "Most pregnant women with apt heart problem did not undergo caesarian.",
+                "Most pregnant women with normal blood pressure had a timely delivery."
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "High Blood Pressure ensures caesarian value",
+                "Mostly Timely Delivery will ensure caesarian"
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "Most women with 'apt' heart problems did not receive a caesarian section.",
+                "Most women with normal blood pressure did not receive a caesarian section.",
+                "Most women with high blood pressure received a caesarian section."
+            ]
+        },
+        "teacher_4": {
+            "explanations": [
+                "most women with normal blood pressure did not require a caesarian.",
+                "most women with normal blood pressure had timely deliveries"
+            ]
+        }
+    },
+    "occupancy-detection": {
+        "all_exps": [
+            "LIGHT THAT TRAVEL BETWEEN 400 TO 500 ARE OCCUPIED IT HAVEGOOD CO2 AND TEMPERATURE  IN IT",
+            "LIGHT BETWEEN 0 TO 13 ARE NOT OCCUPIED EVENTHOUGH IT HAVE HIGH CO2 AND HUMIDITY",
+            "Increased Humidity ratio ensures room not occupied",
+            "Light value above 400 ensures room occupancy",
+            "When not occupied, light is less than when occupied.",
+            "Light is greater than 400 if occupied.",
+            "Temperature is higher on average in occupied versus not occupied.",
+            "The light figures are lower on unoccupied rooms",
+            "Rooms that are not occupied have generally low temperature",
+            "CO2 levels are higher in occupied rooms",
+            "If the light value is greater than 430, then the room is occupied.",
+            "If CO2 is in the 400s, then the room is not occupied."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "LIGHT THAT TRAVEL BETWEEN 400 TO 500 ARE OCCUPIED IT HAVEGOOD CO2 AND TEMPERATURE  IN IT",
+                "LIGHT BETWEEN 0 TO 13 ARE NOT OCCUPIED EVENTHOUGH IT HAVE HIGH CO2 AND HUMIDITY"
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "Increased Humidity ratio ensures room not occupied",
+                "Light value above 400 ensures room occupancy"
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "When not occupied, light is less than when occupied.",
+                "Light is greater than 400 if occupied.",
+                "Temperature is higher on average in occupied versus not occupied."
+            ]
+        },
+        "teacher_4": {
+            "explanations": [
+                "The light figures are lower on unoccupied rooms",
+                "Rooms that are not occupied have generally low temperature",
+                "CO2 levels are higher in occupied rooms"
+            ]
+        },
+        "teacher_5": {
+            "explanations": [
+                "If the light value is greater than 430, then the room is occupied.",
+                "If CO2 is in the 400s, then the room is not occupied."
+            ]
+        }
+    },
+    "vertebral-column": {
+        "all_exps": [
+            "When pelvic indicence is between 40 and 65 and pelvis radius above 100 you can sufffer from hernia",
+            "When pelvic indicence is between 40 and 65 and pelvis radius between 110 and 130 is possible to face spondylolisthesis.",
+            "The pelvic radius value is low so orthopaedic assessment is harnia",
+            "The pelvic radius is high so orthopeadic assessment is spondylolisthesis",
+            "Scaral Slope above 25 are used to classify as spondylolisthesis",
+            "Mostly Pelvic Radius who have between 130 and 137 are used to classify as normal",
+            "Most patients with a spondylolisthesis degree less than 10 have a non-normal orthopaedic assessment.",
+            "Most patients with a spondylolisthesis degree greater than 10 have a normal orthopaedic assessment.",
+            "Most patients with a scaral slope larger than 35 have a normal orthopaedic assessment.",
+            "Most patients with a pelvic incidence larger than 55 have a normal orthopaedic assessment."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "When pelvic indicence is between 40 and 65 and pelvis radius above 100 you can sufffer from hernia",
+                "When pelvic indicence is between 40 and 65 and pelvis radius between 110 and 130 is possible to face spondylolisthesis."
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "The pelvic radius value is low so orthopaedic assessment is harnia",
+                "The pelvic radius is high so orthopeadic assessment is spondylolisthesis"
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "Scaral Slope above 25 are used to classify as spondylolisthesis",
+                "Mostly Pelvic Radius who have between 130 and 137 are used to classify as normal"
+            ]
+        },
+        "teacher_4": {
+            "explanations": [
+                "Most patients with a spondylolisthesis degree less than 10 have a non-normal orthopaedic assessment.",
+                "Most patients with a spondylolisthesis degree greater than 10 have a normal orthopaedic assessment.",
+                "Most patients with a scaral slope larger than 35 have a normal orthopaedic assessment.",
+                "Most patients with a pelvic incidence larger than 55 have a normal orthopaedic assessment."
+            ]
+        }
+    },
+    "student-performance": {
+        "all_exps": [
+            "High school grade excellent students are also excellent in senior school",
+            "Three student only excellent at one attempt",
+            "Candidates who have done one attempt are more likely to have Excellent performance",
+            "Candidates who are ST Caste are more likely to have Excellent performance",
+            "People with good grades or higher during their senior year are likely to do above average at the examination.",
+            "People who make multiple attempts at the exam are more likely to pass the examination.",
+            "Students with more than one attempt number don't have Excellent performance.",
+            "Students whose caste is not ST don't have Excellent performance.",
+            "Most students whose caste is general have more than average performance.",
+            "Those who have attempted twice are more likely to pass the medical entrance examination.",
+            "Those with excellent senior school grades are more likely to pass the medical entrance examination.",
+            "Those with average to excellent high school grades are more likely to pass the medical entrance examination.",
+            "Caste \"General\" categories indicates the V.good performance",
+            "Attempt number \"ONE\" indicates the Excellent performance."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "High school grade excellent students are also excellent in senior school",
+                "Three student only excellent at one attempt"
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "Candidates who have done one attempt are more likely to have Excellent performance",
+                "Candidates who are ST Caste are more likely to have Excellent performance"
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "People with good grades or higher during their senior year are likely to do above average at the examination.",
+                "People who make multiple attempts at the exam are more likely to pass the examination."
+            ]
+        },
+        "teacher_4": {
+            "explanations": [
+                "Students with more than one attempt number don't have Excellent performance.",
+                "Students whose caste is not ST don't have Excellent performance.",
+                "Most students whose caste is general have more than average performance."
+            ]
+        },
+        "teacher_5": {
+            "explanations": [
+                "Those who have attempted twice are more likely to pass the medical entrance examination.",
+                "Those with excellent senior school grades are more likely to pass the medical entrance examination.",
+                "Those with average to excellent high school grades are more likely to pass the medical entrance examination."
+            ]
+        },
+        "teacher_6": {
+            "explanations": [
+                "Caste \"General\" categories indicates the V.good performance",
+                "Attempt number \"ONE\" indicates the Excellent performance."
+            ]
+        }
+    },
+    "water-potability": {
+        "all_exps": [
+            "When water conductivity is greater than 400.000 the result is likely to be potable.",
+            "When pH of water is greater than 6.5 water is more likely to be potable.",
+            "If hardness is above 200 the result will most likely be impotable.",
+            "If Conductivity is under 400 the result will most likely be potable.",
+            "Water with a of conductivity above 365.00 will be impotable",
+            "Water with a hardness above 195.00 will be impotable.",
+            "most of the Potable water has conductivity level more than 400",
+            "most of the Impotable water has Organic Carbon level more than 11.7",
+            "Conductivity above 400.00 indicates the potable potability group",
+            "Surface category below 317.00 indicates the Impotable potabilty group."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "When water conductivity is greater than 400.000 the result is likely to be potable.",
+                "When pH of water is greater than 6.5 water is more likely to be potable."
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "If hardness is above 200 the result will most likely be impotable.",
+                "If Conductivity is under 400 the result will most likely be potable."
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "Water with a of conductivity above 365.00 will be impotable",
+                "Water with a hardness above 195.00 will be impotable."
+            ]
+        },
+        "teacher_4": {
+            "explanations": [
+                "most of the Potable water has conductivity level more than 400",
+                "most of the Impotable water has Organic Carbon level more than 11.7"
+            ]
+        },
+        "teacher_5": {
+            "explanations": [
+                "Conductivity above 400.00 indicates the potable potability group",
+                "Surface category below 317.00 indicates the Impotable potabilty group."
+            ]
+        }
+    },
+    "proteinogenic-acid": {
+        "all_exps": [
+            "When involving experimentally volcanic spark and H2S-rich spark discharges usually does not yield proteinogenic products.",
+            "If the experiment does not involve volcanic spark or H2S-rich spark discharged and it is conducted outside of MillerUrey, the result is proteinogenic.",
+            "\"na\"  Produced in experiment MillerUrey group comes under the Proteinogenic yes category",
+            "\"ya\" Produced in experiment H2S-rich spark discharge group leads to the Proteinogenic NO category",
+            "The majority of amino acids that produced positive results in the Volcanic Spark Discharge Experiment and the H2S-rich Spark Experiment were not Proteinogenic.",
+            "The majority of proteinogenic amino acids were not produced in any of the experiments described.",
+            "When there is volcanic spark and H2S-rich spark discharges, there is no aminoacids.",
+            "Experiments conducted outside of MillerUrey and without volcanic and H2S-rich spark discharges lead to proteinogenic results.",
+            "Amino acids that are proteinogenic are more than likely to be na in the Volcanic spark discharge experiment.",
+            "Proteinogenic amino acids produce an na result in the MillerUrey experiment.",
+            "Amino acids that are proteinogenic are likely to produce an na result in the H2S-rich spark discharge experiment.",
+            "Amino acids that are not proteinogenic are likely to give a ya result in the Volcanic spark discharge experiment.",
+            "Amino acids that are not proteinogenic are likely to result in a na in the MillerUrey experiment.",
+            "Non-proteinogenic amino acids are more likely to result in a ya for the H2S-rich spark discharge experiment."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "When involving experimentally volcanic spark and H2S-rich spark discharges usually does not yield proteinogenic products.",
+                "If the experiment does not involve volcanic spark or H2S-rich spark discharged and it is conducted outside of MillerUrey, the result is proteinogenic."
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "\"na\"  Produced in experiment MillerUrey group comes under the Proteinogenic yes category",
+                "\"ya\" Produced in experiment H2S-rich spark discharge group leads to the Proteinogenic NO category"
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "The majority of amino acids that produced positive results in the Volcanic Spark Discharge Experiment and the H2S-rich Spark Experiment were not Proteinogenic.",
+                "The majority of proteinogenic amino acids were not produced in any of the experiments described."
+            ]
+        },
+        "teacher_4": {
+            "explanations": [
+                "When there is volcanic spark and H2S-rich spark discharges, there is no aminoacids.",
+                "Experiments conducted outside of MillerUrey and without volcanic and H2S-rich spark discharges lead to proteinogenic results."
+            ]
+        },
+        "teacher_5": {
+            "explanations": [
+                "Amino acids that are proteinogenic are more than likely to be na in the Volcanic spark discharge experiment.",
+                "Proteinogenic amino acids produce an na result in the MillerUrey experiment.",
+                "Amino acids that are proteinogenic are likely to produce an na result in the H2S-rich spark discharge experiment.",
+                "Amino acids that are not proteinogenic are likely to give a ya result in the Volcanic spark discharge experiment.",
+                "Amino acids that are not proteinogenic are likely to result in a na in the MillerUrey experiment.",
+                "Non-proteinogenic amino acids are more likely to result in a ya for the H2S-rich spark discharge experiment."
+            ]
+        }
+    },
+    "color-luminance": {
+        "all_exps": [
+            "If the color code ends with FF, then the luminance is less than 50%.",
+            "If the hue angle of colors is greater than 150, then the luminance is greater than 50%",
+            "If color code ends with 00, then the luminance is greater than 50%",
+            "A hue angle that is less than 200 will have >50% luminance.",
+            "A hue angle that is more than 200 will have <=50% luminance.",
+            "Color code starts with 0 mostly makes luminance more than 50%",
+            "The color code starts with number or letter other than 0 makes luminance less than or equal to 50%",
+            "When the purple color is attached with any other color[s] tend to have a luminance that is less than or equal to 50%",
+            "When the color code ends with the letter F, that means the luminance will most often be less than or equal to 50%",
+            "Color code ends with zero makes luminance greater than 50",
+            "Color code ends with F mostly makes luminance less than 50",
+            "colors with hue angle below 200 than they will have more than 50% luminance",
+            "colors with hue angle above 200 will have 50% and less luminance",
+            "almost all colors codes ending in 0FF will have more than 50%luminance"
+        ],
+        "teacher_1": {
+            "explanations": [
+                "If the color code ends with FF, then the luminance is less than 50%.",
+                "If the hue angle of colors is greater than 150, then the luminance is greater than 50%",
+                "If color code ends with 00, then the luminance is greater than 50%"
+            ]
+        },
+        "teacher_2": {
+            "explanations": [
+                "A hue angle that is less than 200 will have >50% luminance.",
+                "A hue angle that is more than 200 will have <=50% luminance."
+            ]
+        },
+        "teacher_3": {
+            "explanations": [
+                "Color code starts with 0 mostly makes luminance more than 50%",
+                "The color code starts with number or letter other than 0 makes luminance less than or equal to 50%"
+            ]
+        },
+        "teacher_4": {
+            "explanations": [
+                "When the purple color is attached with any other color[s] tend to have a luminance that is less than or equal to 50%",
+                "When the color code ends with the letter F, that means the luminance will most often be less than or equal to 50%"
+            ]
+        },
+        "teacher_5": {
+            "explanations": [
+                "Color code ends with zero makes luminance greater than 50",
+                "Color code ends with F mostly makes luminance less than 50"
+            ]
+        },
+        "teacher_6": {
+            "explanations": [
+                "colors with hue angle below 200 than they will have more than 50% luminance",
+                "colors with hue angle above 200 will have 50% and less luminance",
+                "almost all colors codes ending in 0FF will have more than 50%luminance"
+            ]
+        }
+    },
+    "soccer-league-type": {
+        "all_exps": [
+            "If the league is WPSL then its type is women's soccer"
+        ],
+        "teacher_1": {
+            "explanations": [
+                "If the league is WPSL then its type is women's soccer"
+            ]
+        }
+    },
+    "soccer-club-region": {
+        "all_exps": [
+            "If the club name has 'Oklahoma' in it then the area is OKC Metro.",
+            "If the club name has 'Tulsa' in it then the area is Tulsa Metro."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "If the club name has 'Oklahoma' in it then the area is OKC Metro.",
+                "If the club name has 'Tulsa' in it then the area is Tulsa Metro."
+            ]
+        }
+    },
+    "hotel-rating": {
+        "all_exps": [
+            "If the number of rooms is greater than or equal to 1000 then the rating is mostly less than or equal to 3."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "If the number of rooms is greater than or equal to 1000 then the rating is mostly less than or equal to 3."
+            ]
+        }
+    },
+    "coin-face-value": {
+        "all_exps": [
+            "If the type has 'dollar' in it then the face value is less than or equal to 1.",
+            "If the type has 'eagle' in it then the face value is mostly greater than 1."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "If the type has 'dollar' in it then the face value is less than or equal to 1.",
+                "If the type has 'eagle' in it then the face value is mostly greater than 1."
+            ]
+        }
+    },
+    "coin-metal": {
+        "all_exps": [
+            "Dollars are not made of gold.",
+            "Eagles are made of gold."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "Dollars are not made of gold.",
+                "Eagles are made of gold."
+            ]
+        }
+    },
+    "election-outcome": {
+        "all_exps": [
+            "An elected candidate secured more than 50% of votes."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "An elected candidate secured more than 50% of votes."
+            ]
+        }
+    },
+    "driving-championship-points": {
+        "all_exps": [
+            "Before 1997 the points scores is more than 50.",
+            "Chassis from Williams score more than 50 points.",
+            "If the engine is Renault then points scored is more than 50.",
+            "If the position in world drivers' championship is in top 3 then the points scored is more than 50."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "Before 1997 the points scores is more than 50.",
+                "Chassis from Williams score more than 50 points.",
+                "If the engine is Renault then points scored is more than 50.",
+                "If the position in world drivers' championship is in top 3 then the points scored is more than 50."
+            ]
+        }
+    },
+    "manifold-orientability": {
+        "all_exps": [
+            "If torsion coefficient is 2 then non-orientable.",
+            "If betti numbers b2 is non-zero then orientable."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "If torsion coefficient is 2 then non-orientable.",
+                "If betti numbers b2 is non-zero then orientable."
+            ]
+        }
+    },
+    "award-nomination-result": {
+        "all_exps": [
+            "If the name of association has 'American' in it then the result was mostly won."
+        ],
+        "teacher_1": {
+            "explanations": [
+                "If the name of association has 'American' in it then the result was mostly won."
+            ]
+        }
+    }
+}

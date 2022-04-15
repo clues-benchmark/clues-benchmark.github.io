@@ -1,0 +1,889 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>CLUES Homepage</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <!-- Custom styles for this template -->
+    <link href="css/clean-blog.min.css" rel="stylesheet">
+    <link href="css/hover.css" rel="stylesheet">
+    
+<meta name="google-site-verification" content="h3zCtOJy9KzG1XWf5-3ppU1liaJ8NkpGvK_BbOOq3-4" />
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org/",
+  "@type":"Dataset",
+  "name":"CLUES: A Benchmark for Learning Classifiers using Natural Language
+  Explanations",
+  "description":"dataset description",
+  "url":"https://clues.github.io/",
+  "keywords":[
+     "Natural Language Processing",
+     "Learning from Explanations",
+     "Classification"
+  ],
+  "creator":{
+     "@type":"Organization",
+     "url": "",
+     "name":"University of North Carolina at Chapel Hill",
+     "contactPoint":{
+        "@type":"ContactPoint",
+        "contactType": "customer service",
+        "url":"",
+        "email":""
+     }
+  },
+  "distribution":[
+     {
+        "@type":"DataDownload",
+        "encodingFormat":"JSON",
+        "contentUrl":"http://curtis.ml.cmu.edu/datasets/hotpot/hotpot_train_v1.1.json"
+     },
+     {
+        "@type":"DataDownload",
+        "encodingFormat":"JSON",
+        "contentUrl":"http://curtis.ml.cmu.edu/datasets/hotpot/hotpot_dev_distractor_v1.json"
+     },
+     {
+        "@type":"DataDownload",
+        "encodingFormat":"JSON",
+        "contentUrl":"http://curtis.ml.cmu.edu/datasets/hotpot/hotpot_dev_fullwiki_v1.json"
+     },
+     {
+        "@type":"DataDownload",
+        "encodingFormat":"JSON",
+        "contentUrl":"http://curtis.ml.cmu.edu/datasets/hotpot/hotpot_test_fullwiki_v1.json"
+     }
+  ]
+}
+</script>
+
+  </head>
+
+  <body>
+<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+  <div class="container">
+    <a class="navbar-brand" href="index.html">CLUES</a>
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      Menu
+      <i class="fa fa-bars"></i>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+<!-- Page Header -->
+<!--<header class="masthead" style="background-image: url('img/004D92.jpeg')">-->
+<header class="masthead" style="background-image: url('img/carolina-blue.png')">
+  <div class="container" style="height:400px">
+    <div class="row ">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="site-heading">
+          <div class="logo">
+            <img src="img/intro-1.png" alt="logo" style="height:250px;top:-100px;"/>
+            <!-- <embed src="img/intro.pdf" alt="logo" style="height:250px;top:-100px;"/> -->
+          </div>
+<!--           <h1>HoVer</h1>
+ -->          <span class="subheading logo">A Benchmark for Learning Classifiers using Natural Language Explanations</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+    
+<!-- Main Content -->
+<div class="container" id="main">
+  <div class="row">
+    <div class="col-lg-5">
+      <div class="list-group">
+        <div class="list-group-item"><h4>What is CLUES?</h4>
+        <p>CLUES is a benchmark for Classifier Learning Using natural language ExplanationS, consisting of a
+          range of classification tasks over structured
+          data along with natural language supervision
+          in the form of explanations. CLUES consists
+          of 36 real-world (CLUES-Real) and 144 synthetic (CLUES-Synthetic) classification tasks. 
+          It contains crowdsourced explanations describing real-world tasks from multiple teachers and programmatically generated explanations for the synthetic tasks. 
+          <br>
+          The dataset has been created by a team of NLP researchers at UNC Chapel Hill</a>.
+        
+        </p>
+        <p>For more details about CLUES, please refer to our paper:</p>
+        <p class="text-center">
+          <a href="https://arxiv.org/pdf/2204.07142.pdf"><button type="button" class="btn btn-info">Menon et al. 2022</button></a>
+        </p>
+        </div>
+        <div class="list-group-item"><h4>Datasets</h4>
+        <p>
+          <!-- CLUES is distributed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 License</a>.  -->
+          The datasets included in CLUES can be downloaded below.</p>
+        <p class="text-center">
+          <a href="https://cs.unc.edu/~rrmenon/data/clues.tar.gz"><button type="button" class="btn btn-success">Download Datasets
+          </button></a>
+        </p>
+        
+
+        <!-- <div id="explorerPathDiv">
+        <p>You can also explore the samples in our dataset.</p>
+        <p class="text-center">
+          <a href="file:////Users/sayan/Work/clues_website/explorer.html"><button type="button" class="btn btn-secondary">Explore CLUES-Real</button></a>
+        </p>
+        <p class="text-center">
+          <a href="file:////Users/sayan/Work/clues_website/explorer.html"><button type="button" class="btn btn-secondary">Explore CLUES-Synthetic</button></a>
+        </p>
+      </div> -->
+        <!-- <p> -->
+        </div>
+        <div class="list-group-item"><h4>Baselines</h4>
+          <p>
+            <!-- CLUES is distributed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 License</a>.  -->
+            Our code for the baselines and the ExEnt model are hosted in the GitHub repository linked below</p>
+          <p class="text-center">
+            <a href="https://github.com/rrmenon10/ExEnt"><button type="button" class="btn btn-success">Baselines
+            </button></a>
+          </p>
+          </div>
+
+
+
+        <!-- <div class="list-group-item"><h4>Evaluation</h4>
+          CLUES consists of a suite of classification tasks. We evaluate models on unseen task generalization, i.e., the train and test tasks are disjoint. Further, our benchmark consists of both real and synthetic tasks with their corresponding train, validation and test sets. The only evaluation metric used is accuracy.
+
+          
+        <p class="text-center">
+          <a href="https://github.com/"><button type="button" class="btn btn-secondary">Evaluation script</button></a>
+        </p>
+        </div> -->
+        <div class="list-group-item"><h4>Citation</h4>
+<p>If you use CLUES in your research, please cite our paper with the following BibTeX entry</p>
+        <pre>
+@inproceedings{menon2022clues,
+  Author = {Menon, Rakesh R. and Ghosh, Sayan and Srivastava, Shashank}
+  Title = {{CLUES}: {A} {B}enchmark for {L}earning {C}lassifiers using {N}atural {L}anguage {E}xplanations},
+  Year = 2022,
+  Journal = {In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (to appear)}
+}
+        </pre>
+    </div>
+  </div>
+</div>
+
+<!-- <div>
+<div class="col-lg-41">
+  <div class="card card-outline-secondary">
+    <div class="card-header">
+      CLUES-Real Leaderboard 
+    </div>
+    <div class="card-body">
+    
+      <table class="table table-responsive">
+        <thead class="thead-light">
+          <tr>
+            <th scope="col" rowspan=2 style="width: 7%;"></th>
+            <th scope="col" rowspan=2 style="width: 50%;" class="align-middle text-center">Model</th>
+            <th scope="col" rowspan=2 style="width: 10%;" class="align-middle text-center">Code</th>
+            <th scope="col" rowspan=2 style="width: 10%;" class="align-middle text-center">Accuracy&#8593;</th>
+            
+          </tr>
+        </thead>
+        <tbody>
+        <tr style="background:#f4f4f4">
+          <td scope="row" class='align-middle text-center'>-<br>
+            <span class="badge badge-secondary"> Paper Date </span></td>
+          <td class='align-middle text-center'>ExEnt<br/>
+            <span class="affiliation">UNC Chapel Hill</span><br/><a href="https://arxiv.org/" class="paperlink"> Paper Link </a></td>
+          <td class='align-middle text-center'> <a href="https://github.com/"><i class="far fa-file-alt"></i></a> </td>
+          <td class='align-middle text-center'>Acc</td>
+        </tr>
+        
+       
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div class="col-lg-41">
+  <div class="card card-outline-secondary">
+    <div class="card-header">
+      CLUES-Synthetic Leaderboard 
+    </div>
+    <div class="card-body">
+    
+      <table class="table table-responsive">
+        <thead class="thead-light">
+          <tr>
+            <th scope="col" rowspan=2 style="width: 7%;"></th>
+            <th scope="col" rowspan=2 style="width: 50%;" class="align-middle text-center">Model</th>
+            <th scope="col" rowspan=2 style="width: 10%;" class="align-middle text-center">Code</th>
+            <th scope="col" rowspan=2 style="width: 10%;" class="align-middle text-center">Accuracy&#8593;</th>
+            
+          </tr>
+        </thead>
+        <tbody>
+        <tr style="background:#f4f4f4">
+          <td scope="row" class='align-middle text-center'>-<br>
+            <span class="badge badge-secondary"> Paper Date </span></td>
+          <td class='align-middle text-center'>ExEnt<br/>
+            <span class="affiliation">UNC Chapel Hill</span><br/><a href="https://arxiv.org/" class="paperlink"> Paper Link </a></td>
+          <td class='align-middle text-center'> <a href="https://github.com/"><i class="far fa-file-alt"></i></a> </td>
+          <td class='align-middle text-center'>Acc</td>
+        </tr>
+        
+       
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div> -->
+
+
+
+<div class="col-lg-7">
+  <div class="card card-outline-secondary">
+    <div class="card-header">
+      Dataset Explorer
+    </div>
+    <div class="card-body">
+      <label for="choose_dataset_type">Choose type of dataset:</label>
+      <select class="div-toggle" data-target=".my-info-1" name="choose_dataset_type" id="choose_dataset_type">
+        <option value="clues_real" data-show=".clues_real" >CLUES-Real</option>
+        <option value="clues_synthetic" data-show=".clues_synthetic" >CLUES-Synthetic</option>
+      </select>
+      <br><br>
+      
+      <div class="my-info-1">
+        <div class="clues_real hide">
+          <!-- </strong>Description:</strong>
+            <div id="description_data">
+                
+            </div>
+            <br> -->
+            <label for="choose_real_task_name">Choose real-world task name:</label>
+            <select name="choose_real_task_name" id="choose_real_task_name" onchange='realTaskNameSelectedOnClick(this)'>
+              
+            </select>
+            <br>
+          </strong>Data samples:</strong>
+            <!-- <br> -->
+              <div id="table_data_clues_real"  class="overflow_table">
+
+              </div>
+              <br>
+              <br>
+              <br>
+            </strong>Explanations:</strong>
+            <br>
+            ("All" denotes all teachers and "T&lt;I&gt;" denotes Teacher I)
+            <br>
+              <!-- <pre> -->
+                <!-- <button id='asas' class="dummyTabButton"></button> -->
+                <div id="explanations_data_clues_real" >
+                  
+
+                  <div class="tab">
+                    <button id='tablinks_all' class="tablinks" onclick="openClickedTabExplanations(event, 'all_explanations')">All</button>
+                    <button id='tablinks_t1' class="tablinks" onclick="openClickedTabExplanations(event, 't1_explanations')" >T1</button>
+                    <button id='tablinks_t2' class="tablinks" onclick="openClickedTabExplanations(event, 't2_explanations')" >T2</button>
+                    <button id='tablinks_t3' class="tablinks" onclick="openClickedTabExplanations(event, 't3_explanations')" >T3</button>
+                    <button id='tablinks_t4' class="tablinks" onclick="openClickedTabExplanations(event, 't4_explanations')" >T4</button>
+                    <button id='tablinks_t5' class="tablinks" onclick="openClickedTabExplanations(event, 't5_explanations')" >T5</button>
+                    <button id='tablinks_t6' class="tablinks" onclick="openClickedTabExplanations(event, 't6_explanations')" >T6</button>
+                    <button id='tablinks_t7' class="tablinks" onclick="openClickedTabExplanations(event, 't7_explanations')" >T7</button>
+                    <button id='tablinks_t8' class="tablinks" onclick="openClickedTabExplanations(event, 't8_explanations')" >T8</button>
+                  </div>
+
+                  <div id="all_explanations" class="tabcontent"></div>
+                  <div id="t1_explanations" class="tabcontent"></div>
+                  <div id="t2_explanations" class="tabcontent"></div>
+                  <div id="t3_explanations" class="tabcontent"></div>
+                  <div id="t4_explanations" class="tabcontent"></div>
+                  <div id="t5_explanations" class="tabcontent"></div>
+                  <div id="t6_explanations" class="tabcontent"></div>
+                  <div id="t7_explanations" class="tabcontent"></div>
+                  <div id="t8_explanations" class="tabcontent"></div>
+                  
+                  
+                  
+
+                </div>
+              <!-- </pre> -->
+        </div>
+
+
+        <div class="clues_synthetic hide">
+          <!-- </strong>Description:</strong>
+            <div id="description_data">
+                
+            </div>
+            <br> -->
+            <label for="choose_syn_task_number">Choose synthetic task number:</label>
+            <select name="choose_syn_task_number" id="choose_syn_task_number" onchange='taskNumberSelectedOnClick(this)'>
+              <option value="syn_task_num_1" selected >Task 1</option>
+              <option value="syn_task_num_2" >Task 2</option>
+            </select>
+
+            <br>
+          </strong>Data samples:</strong>
+            <br>
+              <div id="table_data_clues_synthetic"  class="overflow_table">
+
+              </div>
+              <br>
+              <br>
+              <br>
+            </strong>Explanations:</strong>
+              <pre>
+                <div id="explanations_data_clues_synthetic">
+
+                </div>
+              </pre>
+        </div>
+        
+      </div>
+
+
+      
+    </div>
+  </div>
+</div>
+
+
+</div>
+
+
+</div>
+</div>
+
+
+    <hr>
+    <!-- Footer -->
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-md-10 mx-auto">
+            <p class="copyright text-muted">Copyright &copy; CLUES Team, 2021.</p>
+            <p class="copyright text-muted">Theme adapted from Start Bootstrap's <a href="https://startbootstrap.com/template-overviews/clean-blog/">Clean Blog</a> template, <a href="https://explagraphs.github.io//">ExplaGraphs</a> home page, <a href="https://hotpotqa.github.io/">HotpotQA</a> home page, and <a href="https://hover-nlp.github.io/">HoVer</a> home page.
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="js/clean-blog.min.js"></script>
+    
+
+  </body>
+
+</html>
+
+<script>
+$(document).on('change', '.div-toggle', function() {
+  var target = $(this).data('target');
+  var show = $("option:selected", this).data('show');
+  $(target).children().addClass('hide');
+
+  var real_task_names = ["car-evaluation", "student-performance", "teaching-assistant-evaluation", "internet-firewall", "banknote-authentication", "dry-bean", "website-phishing", "somerville-happiness", "shill-bidding", "mushroom", "mammographic-mass", "contraceptive-method-choice", "caesarian-section", "wine", "vertebral-column", "tic-tac-toe-endgame", "indian-liver-patient", "occupancy-detection", "water-potability", "campus-placement", "stroke-prediction", "job-change", "entrepreneur-competency", "engineering-placement", "travel-insurance", "soccer-league-type", "soccer-club-region", "proteinogenic-acid", "manifold-orientability", "hotel-rating", "election-outcome", "driving-championship-points", "color-luminance", "coin-metal", "coin-face-value", "award-nomination-result"];
+
+  var select = document.getElementById("choose_real_task_name");
+  for(var val = 0; val<real_task_names.length;val++){
+    var option = document.createElement("option");
+    option.value = "real_task_name_" + real_task_names[val];
+    option.text = real_task_names[val];
+    select.appendChild(option);
+  }
+  
+  var select = document.getElementById("choose_syn_task_number");
+  for(var val = 3; val<=144;val++){
+    var option = document.createElement("option");
+    option.value = "syn_task_num_" + val.toString();
+    option.text = "Task " + val.toString();
+    select.appendChild(option);
+  }
+  
+  // add the table
+
+
+  loadTableButtonClicked();
+  loadExplanations();
+
+  // show the table
+  $(show).removeClass('hide');
+});
+$(document).ready(function(){
+	$('.div-toggle').trigger('change');
+});
+
+</script>
+
+
+<script>
+  var examples;
+
+  async function sendRequest(urlRequestPath) {
+    const Http = new XMLHttpRequest();
+    Http.open("GET", urlRequestPath);
+    Http.send();
+
+    if (Http.readyState === XMLHttpRequest.DONE) {
+        return Http;
+    }
+
+    let res;
+    const p = new Promise((r) => res = r);
+    Http.onreadystatechange = () => {
+        if (Http.readyState === XMLHttpRequest.DONE) {
+            res(Http);
+        }
+    }
+    return p;
+  }
+  
+  function readTableData(loadFileName){
+    var request = new XMLHttpRequest();
+    var json_table = [];
+    request.open('GET', loadFileName, false);
+    // request.send(null);
+    request.onreadystatechange = function () {
+      if (request.readyState === 4 && request.status === 200) {
+        var type = request.getResponseHeader('Content-Type');
+          if (type.indexOf("text") !== 1) {
+            var csv_contents = request.responseText;
+            csv_contents = csv_contents.split("\n");
+            // at max show 10 rows
+            if (csv_contents.length > 10){
+              csv_contents = csv_contents.slice(0, 10);
+            }
+            
+            for(var i=0;i<csv_contents.length;i++){
+              json_table.push(JSON.parse(csv_contents[i]))
+            }
+            return json_table;
+          }
+      }
+    }
+
+    
+  }
+
+  function realTaskNameSelectedOnClick(menu){
+    loadTableButtonClicked();
+    loadExplanations();
+  }
+
+  function taskNumberSelectedOnClick(menu){
+    loadTableButtonClicked();
+    loadExplanations();
+  }
+
+  // function readDescription(loadFileName){
+  //   const response = await sendRequest(loadFileName);
+  //   const status = response.status;
+  //   if (status === 0 || (status >= 200 && status < 400)) {
+  //       // The request has been completed successfully
+  //       var csv_contents = response.responseText;
+  //       // console.log(response.responseText);
+  //       description_meta = JSON.parse(csv_contents);
+  //       return description_meta;
+  //   } else {
+  //       // Oh no! There has been an error with the request!
+  //       // console.log(`Server Error: ${response.status}`)
+  //   }
+  // }
+    // var request = new XMLHttpRequest();
+    // var description_meta = null;
+    // request.open('GET', loadFileName, false);
+    // request.timeout = 4000;
+    // // request.send(null);
+    // // request.onreadystatechange = function () {
+    // //   if (request.readyState === 4 && request.status === 200) {
+    //     var type = request.getResponseHeader('Content-Type');
+    //       if (type.indexOf("text") !== 1) {
+    //         var csv_contents = request.responseText;
+    //         // console.log(csv_contents);
+    //         description_meta = JSON.parse(csv_contents);
+    //         // console.log(description_meta);
+    //         return description_meta;
+    //       }
+    //   }
+  //   }
+    
+  // }
+
+  
+
+  function loadTableButtonClicked(){
+    var task_type =  document.getElementById("choose_dataset_type").value;
+    var loadFileName = ""
+    var loadSemanticsFileName = "https://raw.githubusercontent.com/clues-benchmark/clues-benchmark.github.io/main/data/real_tasks_semantics_remap.json";
+    var task_name = null;
+    var task_number = null;
+    if (task_type == "clues_real"){
+      task_name = document.getElementById("choose_real_task_name").value;
+      task_name = task_name.replace("real_task_name_", "");
+      var loadFileName = "https://raw.githubusercontent.com/clues-benchmark/clues-benchmark.github.io/main/data/real/" + task_name +"/processed_data/train.jsonl";
+    }
+    else{
+      // console.log("To load synthetic")
+      task_number = document.getElementById("choose_syn_task_number").value;
+      task_number = task_number.toLowerCase().replace("syn_", "").replace("num_", "")
+      var loadFileName = "https://raw.githubusercontent.com/clues-benchmark/clues-benchmark.github.io/main/data/synthetic/combined_suite/"+ task_number +"/train.jsonl";
+
+      var loadDescriptionFileName =  "https://raw.githubusercontent.com/clues-benchmark/clues-benchmark.github.io/main/data/synthetic/combined_suite/"+ task_number +"/description.jsonl";
+    }
+    
+    // console.log(loadFileName);
+    
+
+
+    var outer_request = new XMLHttpRequest();
+    outer_request.open('GET', loadSemanticsFileName, true);
+    outer_request.send(null);
+    outer_request.onreadystatechange = function () {
+      if (outer_request.readyState === 4 && outer_request.status === 200) {
+        var outer_type = outer_request.getResponseHeader('Content-Type');
+        if (outer_type.indexOf("text") !== 1) {
+          var semantics = outer_request.responseText;
+          semantics = JSON.parse(semantics);
+          // console.log(semantics);
+          fillUpTable(loadFileName, semantics, task_type, task_name, task_number);
+
+        }
+      }
+    }
+  }
+
+  function fillUpTable(loadFileName, semantics, task_type, task_name, task_number){
+    var table_div = document.getElementById("table_data_"+task_type);
+    table_div.innerHTML = "";
+    var request = new XMLHttpRequest();
+    var json_table = [];
+    request.open('GET', loadFileName, true);
+    request.send(null);
+    request.onreadystatechange = function () {
+      if (request.readyState === 4 && request.status === 200) {
+        var type = request.getResponseHeader('Content-Type');
+          if (type.indexOf("text") !== 1) {
+            var csv_contents = request.responseText;
+            csv_contents = csv_contents.split("\n");
+            // at max show 10 rows
+            if (csv_contents.length > 10){
+              csv_contents = csv_contents.slice(0, 10);
+            }
+            
+            for(var i=0;i<csv_contents.length;i++){
+              if (csv_contents[i].length == 0)
+                continue
+              json_table.push(JSON.parse(csv_contents[i]))
+            }
+            var table_data = json_table;
+            html_string = "";
+            var display_status = "block";
+            html_string += "<div id='table_id_"+ i.toString() + "' style='display:" + display_status + "'>";
+            html_string += "<table class='wikitable'>"
+            num_rows = table_data.length;
+            // add th
+            html_string += "<tr>"
+            for (let col_name in table_data[0]) {
+              if (col_name == "target_key")
+                continue
+              cell_type = "th";
+              cell_data = col_name;
+              background_color = "#EEDB6D";
+              
+              html_string += "<" + cell_type + " style='background-color:" + background_color + "'; >";
+              html_string += cell_data;
+              html_string += "</" + cell_type + ">";
+
+            }
+            html_string += "</tr>"
+            for (var row=0; row<num_rows;row++){
+              html_string += "<tr>"
+              for (let col_name in table_data[row]) {
+                if (col_name == "target_key")
+                  continue
+                cell_type = "td";
+                cell_data = table_data[row][col_name];
+
+                if (task_type == "clues_real"){
+                  if (col_name in semantics[task_name]){
+                    if (cell_data in semantics[task_name][col_name]){
+                      cell_data = semantics[task_name][col_name][cell_data];
+                    }
+                  }
+                }
+                // find if its target column
+                
+                if (task_type == "clues_synthetic"){
+                  if (["bird species", "animal species", "rain tomorrow", "final position", "relevance score"].includes(col_name)){
+                    background_color = "#ffb6c1";
+                  }
+                  else{
+                    background_color = "#F7F8FA";
+                  }
+                }
+                else{
+                  if (col_name == "lbl")
+                    background_color = "#ffb6c1";
+                  else
+                    background_color = "#F7F8FA";
+                }
+                
+                html_string += "<" + cell_type + " style='background-color:" + background_color + "'; >";
+                html_string += cell_data;
+                html_string += "</" + cell_type + ">";
+
+              }
+              html_string += "</tr>"
+            }
+            html_string += "</table>"
+            html_string += "</div>"
+
+            // console.log("html_string")
+            // console.log(html_string)
+            table_div.innerHTML = html_string;
+          }
+      }
+    }
+    
+  }
+
+  function openClickedTabExplanations(evt, tabName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabName).style.display = "block";
+    evt.currentTarget.className += " active";
+  }
+
+    function loadExplanations(){
+      var task_type =  document.getElementById("choose_dataset_type").value;
+      var loadFileName = ""
+      if (task_type == "clues_real"){
+        var task_name = document.getElementById("choose_real_task_name").value;
+        task_name = task_name.replace("real_task_name_", "");
+        var loadFileName = "https://raw.githubusercontent.com/clues-benchmark/clues-benchmark.github.io/main/data/real_explanations.json";
+      }
+      else{
+        var task_number = document.getElementById("choose_syn_task_number").value;
+        task_number = task_number.toLowerCase().replace("syn_", "").replace("num_", "")
+      
+        var loadFileName = "https://raw.githubusercontent.com/clues-benchmark/clues-benchmark.github.io/main/data/synthetic/combined_suite/"+ task_number +"/explanations.csv";
+        
+      }
+      
+      
+      
+      
+      var request = new XMLHttpRequest();
+      request.open('GET', loadFileName, true);
+      request.send(null);
+      request.onreadystatechange = function () {
+        if (request.readyState === 4 && request.status === 200) {
+          var type = request.getResponseHeader('Content-Type');
+            if (type.indexOf("text") !== 1) {
+              var csv_contents = request.responseText;
+              if (task_type == "clues_synthetic"){
+                var explanations_div = document.getElementById("explanations_data_"+task_type);
+                explanations_div.innerHTML = "";
+                var csv_contents = csv_contents.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/);
+                for (var i=0; i<csv_contents.length;i++){
+                  csv_contents[i] = (i+1).toString() + ". " + csv_contents[i];
+                }
+                html_string = csv_contents.join('\n');
+                explanations_div.innerHTML = html_string;
+                // console.log(csv_contents);
+              }
+              else{
+                // fill up all explanations
+                var explanations_div = document.getElementById("all_explanations");
+                explanations_div.innerHTML = "";
+                var all_explanations_meta = JSON.parse(csv_contents);
+                explanations = all_explanations_meta[task_name]["all_exps"];
+                for (var i=0; i<explanations.length;i++){
+                  explanations[i] = (i+1).toString() + ". " + explanations[i];
+                }
+                html_string = explanations.join('<br>');
+                explanations_div.innerHTML = html_string;
+                
+                
+                for (var teacher_idx = 1; teacher_idx <= 8; teacher_idx++){
+                  var explanations_div = document.getElementById("t"+ teacher_idx.toString() +"_explanations");
+                  explanations_div.innerHTML = "";
+                  
+                  if ("teacher_"+teacher_idx.toString() in all_explanations_meta[task_name] ){
+                    explanations = all_explanations_meta[task_name]["teacher_"+teacher_idx.toString()]["explanations"];
+                    for (var i=0; i<explanations.length;i++){
+                      explanations[i] = (i+1).toString() + ". " + explanations[i];
+                    }
+                    html_string = explanations.join('<br>');
+                    explanations_div.innerHTML = html_string;
+                    document.getElementById("tablinks_t"+teacher_idx.toString()).removeAttribute("hidden");    
+                  }
+                  else{
+                    document.getElementById("tablinks_t"+teacher_idx.toString()).setAttribute("hidden", "hidden");
+                  }
+                  
+                }
+
+                document.getElementById("tablinks_all").click();
+                
+              }
+            }
+        }
+      }
+    }
+</script>
+
+
+<style>
+  .hide {
+  display: none;
+}
+
+.overflow_explanations {
+    width: 30em;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.overflow_table {
+    height: 20em;
+    overflow-y: auto;
+    white-space: nowrap;
+}
+.fixed{
+    width: 300px;
+}
+
+</style>
+
+<style>
+            
+  input[type="range"] {
+          width:400px;
+  }
+  table, th {
+      border: 1px solid black;
+      padding: 5px;
+      color: black;
+      font-family: verdana;
+      background-color:lightyellow;
+      font-size: smaller;
+  }
+  td {
+      border: 1px solid black;
+      padding: 5px;
+      color: black;
+      font-family: verdana;
+      font-size: smaller;
+  }
+  .panel {
+      display: inline-block;
+      background:white;
+  }
+  p {
+    display: block;
+    margin-top: 0em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+</style>
+
+
+<style>
+  /* Style the tab */
+.tab {
+  overflow: scroll;
+  border: 0px solid #ccc;
+  background-color: #f1f1f1;
+  width:auto;
+}
+
+/* Style the buttons inside the tab */
+/* .tab button { */
+.tablinks {
+  background-color: inherit;
+  display: inline-block;
+  /* float: left; */
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 5px;
+  transition: 0.3s;
+  /* font-size: 11px; */
+  width:15px !important;
+  max-width:15px !important;
+  min-width:45px !important;
+  margin:0px !important;
+  line-height:1;
+}
+
+/* Change background color of buttons on hover */
+/* .tab button:hover { */
+.tablinks:hover {
+  background-color: #ddd;
+  width:1px !important;
+  max-width:1px !important;
+  
+}
+
+/* Create an active/current tablink class */
+/* .tab button.active { */
+.tablinks.active {
+  background-color: #ccc;
+  width:1px !important;
+  max-width:1px !important;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 0px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+
+/* .tablinks {
+  padding: 0px;
+  width:1px !important;
+  max-width:1px !important;
+}
+
+.textDummy {
+    font-size: 11px;
+    padding: 0px;
+} */
+</style>

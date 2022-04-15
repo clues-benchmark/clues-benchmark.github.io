@@ -1,0 +1,499 @@
+{"user gender": "female", "user knowledge": 3, "user age": 41, "user dependents": 3, "user income": 2409, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 3, "user age": 19, "user dependents": 2, "user income": 3287, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 58, "user dependents": 2, "user income": 6989, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 34, "user dependents": 0, "user income": 7412, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 1, "user age": 61, "user dependents": 2, "user income": 9630, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 56, "user dependents": 3, "user income": 5472, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 34, "user dependents": 1, "user income": 3380, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 3, "user age": 62, "user dependents": 0, "user income": 4569, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 5, "user age": 40, "user dependents": 0, "user income": 8893, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 52, "user dependents": 1, "user income": 5806, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 37, "user dependents": 0, "user income": 8674, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 4, "user age": 46, "user dependents": 2, "user income": 2499, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 1, "user age": 25, "user dependents": 2, "user income": 6005, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 4, "user age": 49, "user dependents": 3, "user income": 8615, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 61, "user dependents": 1, "user income": 5583, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 5, "user age": 45, "user dependents": 2, "user income": 6337, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 1, "user age": 23, "user dependents": 1, "user income": 3439, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 35, "user dependents": 0, "user income": 4246, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 5, "user age": 32, "user dependents": 1, "user income": 8632, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 62, "user dependents": 1, "user income": 7810, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 1, "user age": 42, "user dependents": 0, "user income": 1479, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 58, "user dependents": 0, "user income": 9058, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 5, "user age": 49, "user dependents": 3, "user income": 7239, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 1, "user age": 63, "user dependents": 2, "user income": 9264, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 4, "user age": 22, "user dependents": 0, "user income": 4305, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 5, "user age": 62, "user dependents": 3, "user income": 3887, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 5, "user age": 23, "user dependents": 0, "user income": 4933, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 32, "user dependents": 0, "user income": 5966, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 1, "user age": 26, "user dependents": 0, "user income": 6843, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 3, "user age": 24, "user dependents": 2, "user income": 2843, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 56, "user dependents": 1, "user income": 2333, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 5, "user age": 51, "user dependents": 1, "user income": 8219, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 57, "user dependents": 1, "user income": 5407, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 5, "user age": 43, "user dependents": 0, "user income": 9277, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 55, "user dependents": 2, "user income": 1259, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 39, "user dependents": 3, "user income": 6639, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 22, "user dependents": 2, "user income": 2607, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 60, "user dependents": 2, "user income": 1124, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 35, "user dependents": 1, "user income": 3493, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 5, "user age": 44, "user dependents": 2, "user income": 7474, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 56, "user dependents": 0, "user income": 2083, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 1, "user age": 15, "user dependents": 0, "user income": 6253, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 5, "user age": 26, "user dependents": 3, "user income": 5793, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 4, "user age": 63, "user dependents": 2, "user income": 7615, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 61, "user dependents": 1, "user income": 5440, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 21, "user dependents": 0, "user income": 7985, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 26, "user dependents": 2, "user income": 7083, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 3, "user age": 20, "user dependents": 0, "user income": 3795, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 21, "user dependents": 0, "user income": 2928, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 1, "user age": 47, "user dependents": 3, "user income": 2612, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 5, "user age": 61, "user dependents": 2, "user income": 4050, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 27, "user dependents": 0, "user income": 7714, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 3, "user age": 52, "user dependents": 1, "user income": 2974, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 17, "user dependents": 2, "user income": 2391, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 56, "user dependents": 2, "user income": 2589, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 59, "user dependents": 0, "user income": 1583, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 1, "user age": 29, "user dependents": 2, "user income": 9286, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 58, "user dependents": 1, "user income": 1043, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 3, "user age": 62, "user dependents": 0, "user income": 6742, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 17, "user dependents": 0, "user income": 4265, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 33, "user dependents": 0, "user income": 8616, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 32, "user dependents": 3, "user income": 8202, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 5, "user age": 40, "user dependents": 0, "user income": 4425, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 46, "user dependents": 3, "user income": 2772, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 50, "user dependents": 2, "user income": 3526, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 36, "user dependents": 3, "user income": 2915, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 21, "user dependents": 2, "user income": 4559, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 39, "user dependents": 0, "user income": 9446, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 5, "user age": 48, "user dependents": 0, "user income": 4880, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 5, "user age": 38, "user dependents": 0, "user income": 5647, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 3, "user age": 50, "user dependents": 0, "user income": 9777, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 38, "user dependents": 3, "user income": 3632, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 52, "user dependents": 0, "user income": 2561, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 24, "user dependents": 0, "user income": 2740, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 50, "user dependents": 1, "user income": 8205, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 1, "user age": 40, "user dependents": 0, "user income": 8270, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 54, "user dependents": 2, "user income": 2083, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 5, "user age": 55, "user dependents": 1, "user income": 3083, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 5, "user age": 39, "user dependents": 0, "user income": 5993, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 5, "user age": 18, "user dependents": 0, "user income": 2593, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 5, "user age": 53, "user dependents": 2, "user income": 7626, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 1, "user age": 49, "user dependents": 1, "user income": 8325, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 1, "user age": 20, "user dependents": 1, "user income": 7404, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 1, "user age": 53, "user dependents": 3, "user income": 5349, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 4, "user age": 40, "user dependents": 0, "user income": 3883, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 3, "user age": 50, "user dependents": 0, "user income": 9897, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 31, "user dependents": 3, "user income": 2077, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 17, "user dependents": 0, "user income": 3069, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 21, "user dependents": 3, "user income": 1322, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 36, "user dependents": 0, "user income": 1246, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 1, "user age": 28, "user dependents": 3, "user income": 2004, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 3, "user age": 18, "user dependents": 0, "user income": 6522, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 58, "user dependents": 0, "user income": 4786, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 5, "user age": 32, "user dependents": 1, "user income": 3343, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 5, "user age": 58, "user dependents": 2, "user income": 6172, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 21, "user dependents": 2, "user income": 6694, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 1, "user age": 57, "user dependents": 1, "user income": 7770, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 5, "user age": 47, "user dependents": 0, "user income": 1656, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 5, "user age": 30, "user dependents": 1, "user income": 2403, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 4, "user age": 55, "user dependents": 1, "user income": 5113, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 48, "user dependents": 1, "user income": 2871, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 50, "user dependents": 3, "user income": 3320, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 3, "user age": 21, "user dependents": 0, "user income": 7836, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 3, "user age": 55, "user dependents": 2, "user income": 9624, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 1, "user age": 51, "user dependents": 1, "user income": 1283, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 23, "user dependents": 3, "user income": 9595, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 3, "user age": 25, "user dependents": 2, "user income": 3517, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 33, "user dependents": 2, "user income": 7173, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 4, "user age": 20, "user dependents": 0, "user income": 1394, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 1, "user age": 25, "user dependents": 1, "user income": 1458, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 1, "user age": 54, "user dependents": 0, "user income": 5384, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 5, "user age": 36, "user dependents": 1, "user income": 8453, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 1, "user age": 51, "user dependents": 1, "user income": 3779, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 36, "user dependents": 2, "user income": 1098, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 5, "user age": 31, "user dependents": 0, "user income": 5409, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 35, "user dependents": 2, "user income": 6474, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 27, "user dependents": 0, "user income": 7878, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 4, "user age": 58, "user dependents": 1, "user income": 8540, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 63, "user dependents": 2, "user income": 7571, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 1, "user age": 22, "user dependents": 0, "user income": 7139, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 25, "user dependents": 0, "user income": 5365, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 42, "user dependents": 0, "user income": 8036, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 1, "user age": 45, "user dependents": 3, "user income": 1803, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 4, "user age": 64, "user dependents": 0, "user income": 1238, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 4, "user age": 30, "user dependents": 1, "user income": 4109, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 20, "user dependents": 1, "user income": 6260, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 3, "user age": 47, "user dependents": 2, "user income": 3404, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 1, "user age": 18, "user dependents": 2, "user income": 3350, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 31, "user dependents": 2, "user income": 5031, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 30, "user dependents": 1, "user income": 4935, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 48, "user dependents": 0, "user income": 5695, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 1, "user age": 21, "user dependents": 1, "user income": 6726, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 3, "user age": 59, "user dependents": 3, "user income": 1650, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 1, "user age": 26, "user dependents": 1, "user income": 4301, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 4, "user age": 39, "user dependents": 1, "user income": 8463, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 5, "user age": 35, "user dependents": 2, "user income": 8672, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 5, "user age": 24, "user dependents": 3, "user income": 3127, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 3, "user age": 46, "user dependents": 0, "user income": 7388, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 55, "user dependents": 0, "user income": 8122, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 5, "user age": 54, "user dependents": 3, "user income": 8967, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 5, "user age": 43, "user dependents": 0, "user income": 9182, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 3, "user age": 52, "user dependents": 1, "user income": 7673, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 48, "user dependents": 1, "user income": 8127, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 3, "user age": 49, "user dependents": 3, "user income": 3950, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 3, "user age": 18, "user dependents": 1, "user income": 2881, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 26, "user dependents": 3, "user income": 9761, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 4, "user age": 20, "user dependents": 1, "user income": 3100, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 30, "user dependents": 3, "user income": 8317, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 3, "user age": 47, "user dependents": 1, "user income": 7443, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 21, "user dependents": 2, "user income": 6680, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 31, "user dependents": 1, "user income": 4829, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 56, "user dependents": 2, "user income": 1933, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 52, "user dependents": 0, "user income": 8733, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 65, "user dependents": 2, "user income": 3734, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 5, "user age": 47, "user dependents": 0, "user income": 7547, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 27, "user dependents": 0, "user income": 1267, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 5, "user age": 20, "user dependents": 1, "user income": 9791, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 51, "user dependents": 2, "user income": 7128, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 3, "user age": 19, "user dependents": 0, "user income": 1607, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 1, "user age": 60, "user dependents": 2, "user income": 9047, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 1, "user age": 57, "user dependents": 1, "user income": 7894, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 1, "user age": 60, "user dependents": 0, "user income": 4401, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 1, "user age": 47, "user dependents": 1, "user income": 7639, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 5, "user age": 44, "user dependents": 0, "user income": 2150, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 50, "user dependents": 3, "user income": 6037, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 3, "user age": 39, "user dependents": 0, "user income": 4384, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 35, "user dependents": 1, "user income": 9767, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 4, "user age": 43, "user dependents": 2, "user income": 4897, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 43, "user dependents": 2, "user income": 4432, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 59, "user dependents": 2, "user income": 4025, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 1, "user age": 47, "user dependents": 0, "user income": 1178, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 39, "user dependents": 3, "user income": 8121, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 1, "user age": 43, "user dependents": 0, "user income": 5631, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 5, "user age": 31, "user dependents": 2, "user income": 2386, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 47, "user dependents": 1, "user income": 9424, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 3, "user age": 20, "user dependents": 2, "user income": 1659, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 1, "user age": 38, "user dependents": 0, "user income": 7004, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 5, "user age": 39, "user dependents": 3, "user income": 4739, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 50, "user dependents": 2, "user income": 1398, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 20, "user dependents": 0, "user income": 6400, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 57, "user dependents": 1, "user income": 5660, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 3, "user age": 34, "user dependents": 1, "user income": 9363, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 5, "user age": 61, "user dependents": 1, "user income": 9793, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 5, "user age": 23, "user dependents": 0, "user income": 5471, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 3, "user age": 28, "user dependents": 1, "user income": 1864, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 1, "user age": 63, "user dependents": 3, "user income": 8314, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 5, "user age": 53, "user dependents": 0, "user income": 1290, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 29, "user dependents": 3, "user income": 4189, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 61, "user dependents": 2, "user income": 8479, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 17, "user dependents": 3, "user income": 4760, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 39, "user dependents": 2, "user income": 1669, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 22, "user dependents": 3, "user income": 1261, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 5, "user age": 40, "user dependents": 1, "user income": 1619, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 3, "user age": 61, "user dependents": 2, "user income": 7567, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 3, "user age": 18, "user dependents": 3, "user income": 3491, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 63, "user dependents": 1, "user income": 9907, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 5, "user age": 46, "user dependents": 3, "user income": 3207, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 1, "user age": 18, "user dependents": 3, "user income": 1806, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 51, "user dependents": 1, "user income": 8059, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 1, "user age": 61, "user dependents": 0, "user income": 5763, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 61, "user dependents": 2, "user income": 5294, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 19, "user dependents": 0, "user income": 2279, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 45, "user dependents": 2, "user income": 1575, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 42, "user dependents": 3, "user income": 8571, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 5, "user age": 38, "user dependents": 0, "user income": 4815, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 4, "user age": 63, "user dependents": 1, "user income": 9323, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 1, "user age": 29, "user dependents": 1, "user income": 5302, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 5, "user age": 26, "user dependents": 1, "user income": 2287, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 1, "user age": 31, "user dependents": 2, "user income": 3411, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 5, "user age": 57, "user dependents": 2, "user income": 9746, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 5, "user age": 53, "user dependents": 3, "user income": 2094, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 5, "user age": 57, "user dependents": 0, "user income": 2248, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 34, "user dependents": 1, "user income": 8809, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 3, "user age": 62, "user dependents": 1, "user income": 2341, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 3, "user age": 19, "user dependents": 2, "user income": 6396, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 58, "user dependents": 0, "user income": 3609, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 41, "user dependents": 2, "user income": 4442, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 3, "user age": 29, "user dependents": 0, "user income": 5966, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 54, "user dependents": 3, "user income": 9893, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 1, "user age": 39, "user dependents": 0, "user income": 2586, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 56, "user dependents": 1, "user income": 9919, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 3, "user age": 26, "user dependents": 1, "user income": 2800, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 1, "user age": 26, "user dependents": 2, "user income": 6224, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 48, "user dependents": 2, "user income": 7165, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 3, "user age": 41, "user dependents": 1, "user income": 2507, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 3, "user age": 55, "user dependents": 3, "user income": 9639, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 38, "user dependents": 2, "user income": 7236, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 44, "user dependents": 0, "user income": 4910, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 41, "user dependents": 0, "user income": 9732, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 2, "user age": 20, "user dependents": 1, "user income": 7342, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 3, "user age": 36, "user dependents": 0, "user income": 3846, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 64, "user dependents": 1, "user income": 5178, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 15, "user dependents": 0, "user income": 2082, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 22, "user dependents": 1, "user income": 6687, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 3, "user age": 17, "user dependents": 1, "user income": 3513, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 5, "user age": 40, "user dependents": 2, "user income": 8633, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 5, "user age": 48, "user dependents": 1, "user income": 4564, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 54, "user dependents": 3, "user income": 8360, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 24, "user dependents": 1, "user income": 4525, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 5, "user age": 49, "user dependents": 1, "user income": 1124, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 5, "user age": 29, "user dependents": 2, "user income": 4893, "relevance score": "4"}
+{"user gender": "male", "user knowledge": 4, "user age": 64, "user dependents": 3, "user income": 7194, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 1, "user age": 35, "user dependents": 0, "user income": 2475, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 2, "user age": 55, "user dependents": 3, "user income": 6391, "relevance score": "4"}
+{"user gender": "female", "user knowledge": 4, "user age": 56, "user dependents": 2, "user income": 8081, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 17, "user dependents": 3, "user income": 3419, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 20, "user dependents": 2, "user income": 8634, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 55, "user dependents": 3, "user income": 5189, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 15, "user dependents": 2, "user income": 9701, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 37, "user dependents": 2, "user income": 7918, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 21, "user dependents": 2, "user income": 2341, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 44, "user dependents": 2, "user income": 3580, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 17, "user dependents": 3, "user income": 1195, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 65, "user dependents": 3, "user income": 6609, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 3, "user age": 48, "user dependents": 2, "user income": 9783, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 54, "user dependents": 2, "user income": 2121, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 24, "user dependents": 2, "user income": 6780, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 43, "user dependents": 3, "user income": 2724, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 21, "user dependents": 3, "user income": 3895, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 44, "user dependents": 3, "user income": 1556, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 40, "user dependents": 2, "user income": 1432, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 21, "user dependents": 3, "user income": 7422, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 30, "user dependents": 3, "user income": 7417, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 46, "user dependents": 2, "user income": 9672, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 15, "user dependents": 3, "user income": 3728, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 43, "user dependents": 3, "user income": 9856, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 25, "user dependents": 3, "user income": 6319, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 44, "user dependents": 3, "user income": 8458, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 64, "user dependents": 2, "user income": 4219, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 62, "user dependents": 3, "user income": 9807, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 43, "user dependents": 3, "user income": 1215, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 15, "user dependents": 2, "user income": 3673, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 39, "user dependents": 3, "user income": 5793, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 62, "user dependents": 2, "user income": 9999, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 21, "user dependents": 3, "user income": 9250, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 47, "user dependents": 3, "user income": 9625, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 3, "user age": 55, "user dependents": 3, "user income": 4059, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 35, "user dependents": 2, "user income": 5332, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 39, "user dependents": 3, "user income": 7445, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 3, "user age": 63, "user dependents": 3, "user income": 7958, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 57, "user dependents": 3, "user income": 4362, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 63, "user dependents": 2, "user income": 7901, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 41, "user dependents": 3, "user income": 9675, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 26, "user dependents": 2, "user income": 7501, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 23, "user dependents": 2, "user income": 6435, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 39, "user dependents": 2, "user income": 3774, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 35, "user dependents": 2, "user income": 8897, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 34, "user dependents": 2, "user income": 2198, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 64, "user dependents": 2, "user income": 6712, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 30, "user dependents": 3, "user income": 4174, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 45, "user dependents": 3, "user income": 5735, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 40, "user dependents": 3, "user income": 1631, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 40, "user dependents": 3, "user income": 2694, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 61, "user dependents": 2, "user income": 2727, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 63, "user dependents": 2, "user income": 3763, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 42, "user dependents": 2, "user income": 3036, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 27, "user dependents": 2, "user income": 4701, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 61, "user dependents": 3, "user income": 7511, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 63, "user dependents": 2, "user income": 2621, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 52, "user dependents": 3, "user income": 2020, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 3, "user age": 47, "user dependents": 3, "user income": 9372, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 58, "user dependents": 3, "user income": 9448, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 39, "user dependents": 3, "user income": 4185, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 17, "user dependents": 2, "user income": 2268, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 64, "user dependents": 3, "user income": 1887, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 53, "user dependents": 3, "user income": 9333, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 50, "user dependents": 3, "user income": 1424, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 27, "user dependents": 2, "user income": 3645, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 26, "user dependents": 3, "user income": 4519, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 33, "user dependents": 3, "user income": 7107, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 57, "user dependents": 2, "user income": 7584, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 51, "user dependents": 2, "user income": 8830, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 23, "user dependents": 3, "user income": 7538, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 41, "user dependents": 3, "user income": 9889, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 48, "user dependents": 2, "user income": 6881, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 48, "user dependents": 3, "user income": 4359, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 15, "user dependents": 3, "user income": 7475, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 28, "user dependents": 3, "user income": 9992, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 15, "user dependents": 3, "user income": 6658, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 63, "user dependents": 2, "user income": 3320, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 65, "user dependents": 2, "user income": 1970, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 30, "user dependents": 3, "user income": 6129, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 59, "user dependents": 2, "user income": 8085, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 65, "user dependents": 3, "user income": 2802, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 42, "user dependents": 3, "user income": 6450, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 3, "user age": 50, "user dependents": 2, "user income": 3646, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 48, "user dependents": 2, "user income": 6797, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 44, "user dependents": 2, "user income": 6631, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 3, "user age": 39, "user dependents": 2, "user income": 2378, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 20, "user dependents": 3, "user income": 8768, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 27, "user dependents": 2, "user income": 9995, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 42, "user dependents": 2, "user income": 6070, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 25, "user dependents": 3, "user income": 7595, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 23, "user dependents": 3, "user income": 8526, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 57, "user dependents": 3, "user income": 1009, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 63, "user dependents": 3, "user income": 4467, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 21, "user dependents": 3, "user income": 1129, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 44, "user dependents": 2, "user income": 5380, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 36, "user dependents": 3, "user income": 6200, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 65, "user dependents": 2, "user income": 2012, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 46, "user dependents": 3, "user income": 3774, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 65, "user dependents": 3, "user income": 1121, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 27, "user dependents": 2, "user income": 3636, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 63, "user dependents": 2, "user income": 8353, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 25, "user dependents": 2, "user income": 6632, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 59, "user dependents": 2, "user income": 3953, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 29, "user dependents": 2, "user income": 3129, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 43, "user dependents": 2, "user income": 1081, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 20, "user dependents": 2, "user income": 2923, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 29, "user dependents": 2, "user income": 3315, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 39, "user dependents": 2, "user income": 5463, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 55, "user dependents": 2, "user income": 1430, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 54, "user dependents": 2, "user income": 3818, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 37, "user dependents": 3, "user income": 3874, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 23, "user dependents": 3, "user income": 4864, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 3, "user age": 48, "user dependents": 2, "user income": 8422, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 36, "user dependents": 3, "user income": 7523, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 42, "user dependents": 2, "user income": 9770, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 46, "user dependents": 2, "user income": 8738, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 43, "user dependents": 3, "user income": 4725, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 61, "user dependents": 3, "user income": 8137, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 25, "user dependents": 2, "user income": 8324, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 24, "user dependents": 2, "user income": 8429, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 52, "user dependents": 2, "user income": 9138, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 60, "user dependents": 3, "user income": 6211, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 43, "user dependents": 3, "user income": 6159, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 55, "user dependents": 2, "user income": 3991, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 37, "user dependents": 3, "user income": 2917, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 64, "user dependents": 2, "user income": 4449, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 31, "user dependents": 3, "user income": 8982, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 49, "user dependents": 3, "user income": 9937, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 61, "user dependents": 2, "user income": 2429, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 57, "user dependents": 2, "user income": 9617, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 19, "user dependents": 2, "user income": 7000, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 50, "user dependents": 2, "user income": 2044, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 64, "user dependents": 2, "user income": 1811, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 45, "user dependents": 2, "user income": 4363, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 58, "user dependents": 3, "user income": 7539, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 15, "user dependents": 2, "user income": 3632, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 33, "user dependents": 2, "user income": 3236, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 26, "user dependents": 2, "user income": 8787, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 58, "user dependents": 2, "user income": 8784, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 28, "user dependents": 2, "user income": 5456, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 34, "user dependents": 3, "user income": 5762, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 48, "user dependents": 3, "user income": 5090, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 65, "user dependents": 3, "user income": 8599, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 15, "user dependents": 2, "user income": 8747, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 3, "user age": 49, "user dependents": 3, "user income": 1832, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 24, "user dependents": 3, "user income": 9991, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 24, "user dependents": 2, "user income": 8145, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 3, "user age": 19, "user dependents": 3, "user income": 3812, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 20, "user dependents": 2, "user income": 8380, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 21, "user dependents": 2, "user income": 3149, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 3, "user age": 63, "user dependents": 3, "user income": 1581, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 44, "user dependents": 3, "user income": 7770, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 3, "user age": 19, "user dependents": 3, "user income": 2634, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 3, "user age": 29, "user dependents": 2, "user income": 9468, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 34, "user dependents": 3, "user income": 9659, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 36, "user dependents": 3, "user income": 9547, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 60, "user dependents": 3, "user income": 3093, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 33, "user dependents": 3, "user income": 4166, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 28, "user dependents": 2, "user income": 8103, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 26, "user dependents": 2, "user income": 6175, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 60, "user dependents": 3, "user income": 6087, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 34, "user dependents": 2, "user income": 4004, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 43, "user dependents": 2, "user income": 2227, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 53, "user dependents": 2, "user income": 4902, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 33, "user dependents": 3, "user income": 5206, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 43, "user dependents": 2, "user income": 3009, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 58, "user dependents": 2, "user income": 5076, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 58, "user dependents": 3, "user income": 4904, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 48, "user dependents": 2, "user income": 8822, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 22, "user dependents": 3, "user income": 6952, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 38, "user dependents": 3, "user income": 8863, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 3, "user age": 56, "user dependents": 3, "user income": 1242, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 30, "user dependents": 3, "user income": 1232, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 48, "user dependents": 2, "user income": 2165, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 27, "user dependents": 2, "user income": 6869, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 30, "user dependents": 3, "user income": 1663, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 38, "user dependents": 2, "user income": 6303, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 55, "user dependents": 3, "user income": 2252, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 40, "user dependents": 2, "user income": 7251, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 51, "user dependents": 2, "user income": 3678, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 34, "user dependents": 3, "user income": 7882, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 23, "user dependents": 3, "user income": 3328, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 59, "user dependents": 2, "user income": 5189, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 3, "user age": 30, "user dependents": 3, "user income": 7575, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 36, "user dependents": 2, "user income": 5667, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 49, "user dependents": 2, "user income": 1032, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 15, "user dependents": 3, "user income": 9685, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 58, "user dependents": 3, "user income": 8887, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 33, "user dependents": 3, "user income": 2623, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 60, "user dependents": 2, "user income": 7959, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 31, "user dependents": 2, "user income": 1268, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 56, "user dependents": 3, "user income": 7011, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 60, "user dependents": 3, "user income": 8463, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 3, "user age": 49, "user dependents": 2, "user income": 6088, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 37, "user dependents": 3, "user income": 2635, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 29, "user dependents": 2, "user income": 6640, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 3, "user age": 36, "user dependents": 3, "user income": 8014, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 46, "user dependents": 2, "user income": 2109, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 43, "user dependents": 2, "user income": 2990, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 41, "user dependents": 2, "user income": 3703, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 57, "user dependents": 3, "user income": 3544, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 44, "user dependents": 3, "user income": 2606, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 51, "user dependents": 2, "user income": 7933, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 33, "user dependents": 3, "user income": 7157, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 41, "user dependents": 3, "user income": 3023, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 22, "user dependents": 3, "user income": 3802, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 55, "user dependents": 3, "user income": 5572, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 33, "user dependents": 2, "user income": 4154, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 30, "user dependents": 3, "user income": 8938, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 55, "user dependents": 3, "user income": 2556, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 62, "user dependents": 2, "user income": 6958, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 41, "user dependents": 2, "user income": 4269, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 49, "user dependents": 2, "user income": 2096, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 59, "user dependents": 2, "user income": 2453, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 60, "user dependents": 2, "user income": 1262, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 40, "user dependents": 2, "user income": 1645, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 60, "user dependents": 2, "user income": 1952, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 45, "user dependents": 3, "user income": 5873, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 58, "user dependents": 3, "user income": 7506, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 32, "user dependents": 2, "user income": 7089, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 39, "user dependents": 3, "user income": 6509, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 51, "user dependents": 2, "user income": 6704, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 5, "user age": 34, "user dependents": 2, "user income": 7043, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 21, "user dependents": 3, "user income": 4728, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 25, "user dependents": 3, "user income": 4283, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 54, "user dependents": 2, "user income": 9660, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 53, "user dependents": 3, "user income": 8980, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 33, "user dependents": 2, "user income": 9706, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 26, "user dependents": 3, "user income": 2657, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 54, "user dependents": 3, "user income": 4916, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 65, "user dependents": 3, "user income": 2403, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 3, "user age": 29, "user dependents": 2, "user income": 1099, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 58, "user dependents": 3, "user income": 3704, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 47, "user dependents": 3, "user income": 8391, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 51, "user dependents": 3, "user income": 2338, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 32, "user dependents": 2, "user income": 2056, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 58, "user dependents": 2, "user income": 6969, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 65, "user dependents": 3, "user income": 2406, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 3, "user age": 26, "user dependents": 2, "user income": 9540, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 3, "user age": 49, "user dependents": 2, "user income": 9517, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 3, "user age": 28, "user dependents": 3, "user income": 4736, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 53, "user dependents": 3, "user income": 3130, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 4, "user age": 62, "user dependents": 3, "user income": 1486, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 48, "user dependents": 2, "user income": 7427, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 26, "user dependents": 2, "user income": 1186, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 61, "user dependents": 2, "user income": 4090, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 48, "user dependents": 3, "user income": 1548, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 34, "user dependents": 3, "user income": 7762, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 57, "user dependents": 2, "user income": 9801, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 61, "user dependents": 2, "user income": 2191, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 1, "user age": 31, "user dependents": 2, "user income": 1620, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 17, "user dependents": 2, "user income": 3709, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 4, "user age": 22, "user dependents": 3, "user income": 9231, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 3, "user age": 25, "user dependents": 2, "user income": 7192, "relevance score": "not 4"}
+{"user gender": "female", "user knowledge": 5, "user age": 16, "user dependents": 2, "user income": 1717, "relevance score": "not 4"}
+{"user gender": "male", "user knowledge": 1, "user age": 52, "user dependents": 3, "user income": 1704, "relevance score": "not 4"}

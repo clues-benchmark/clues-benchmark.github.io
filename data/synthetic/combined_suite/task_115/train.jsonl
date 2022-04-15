@@ -1,0 +1,499 @@
+{"user loyalty": 1, "user marital status": "no", "user gender": "male", "user income": 1739, "user age": 16, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "male", "user income": 2496, "user age": 40, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "female", "user income": 1904, "user age": 16, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "male", "user income": 7343, "user age": 32, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "female", "user income": 8832, "user age": 64, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "no", "user gender": "female", "user income": 6663, "user age": 25, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "male", "user income": 2366, "user age": 55, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "male", "user income": 3948, "user age": 56, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "male", "user income": 2390, "user age": 40, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "male", "user income": 7746, "user age": 35, "relevance score": "2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "female", "user income": 1157, "user age": 46, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "female", "user income": 3117, "user age": 39, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "no", "user gender": "female", "user income": 2000, "user age": 28, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "male", "user income": 8483, "user age": 57, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "female", "user income": 9141, "user age": 16, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "male", "user income": 3957, "user age": 30, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "male", "user income": 7151, "user age": 32, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "no", "user gender": "female", "user income": 5696, "user age": 34, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "male", "user income": 8333, "user age": 40, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "male", "user income": 7586, "user age": 22, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "male", "user income": 7537, "user age": 50, "relevance score": "2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "female", "user income": 6297, "user age": 38, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "no", "user gender": "male", "user income": 6449, "user age": 35, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "male", "user income": 2548, "user age": 41, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "male", "user income": 6662, "user age": 31, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "male", "user income": 5709, "user age": 22, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "female", "user income": 1266, "user age": 57, "relevance score": "2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "female", "user income": 9763, "user age": 53, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "female", "user income": 1737, "user age": 62, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "male", "user income": 6864, "user age": 47, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "female", "user income": 5515, "user age": 48, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "female", "user income": 2101, "user age": 36, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "male", "user income": 7870, "user age": 33, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "male", "user income": 1121, "user age": 45, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "male", "user income": 2968, "user age": 16, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "male", "user income": 9347, "user age": 16, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "male", "user income": 2422, "user age": 41, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "male", "user income": 3883, "user age": 22, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "female", "user income": 1649, "user age": 44, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "male", "user income": 4828, "user age": 39, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "male", "user income": 8999, "user age": 26, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "male", "user income": 7494, "user age": 54, "relevance score": "2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "female", "user income": 2373, "user age": 19, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "no", "user gender": "male", "user income": 6506, "user age": 28, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "male", "user income": 8094, "user age": 57, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "female", "user income": 3959, "user age": 16, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "male", "user income": 7806, "user age": 15, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "male", "user income": 5153, "user age": 51, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "female", "user income": 7003, "user age": 31, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "male", "user income": 4681, "user age": 37, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "no", "user gender": "male", "user income": 5529, "user age": 62, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "female", "user income": 9401, "user age": 27, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "male", "user income": 9400, "user age": 64, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "male", "user income": 5401, "user age": 20, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "male", "user income": 4578, "user age": 43, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "male", "user income": 4592, "user age": 39, "relevance score": "2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "female", "user income": 8242, "user age": 57, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "male", "user income": 1912, "user age": 62, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "male", "user income": 8836, "user age": 46, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "female", "user income": 9509, "user age": 62, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "female", "user income": 2990, "user age": 30, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "male", "user income": 8262, "user age": 44, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "female", "user income": 7479, "user age": 62, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "male", "user income": 2346, "user age": 61, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "male", "user income": 2514, "user age": 21, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "male", "user income": 3320, "user age": 44, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "male", "user income": 5971, "user age": 64, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "female", "user income": 2951, "user age": 49, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "male", "user income": 6423, "user age": 55, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "no", "user gender": "female", "user income": 2124, "user age": 20, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "no", "user gender": "male", "user income": 9552, "user age": 31, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "male", "user income": 9871, "user age": 56, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "male", "user income": 2810, "user age": 17, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "male", "user income": 1475, "user age": 32, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "male", "user income": 7211, "user age": 16, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "male", "user income": 3095, "user age": 48, "relevance score": "2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "female", "user income": 5973, "user age": 59, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "female", "user income": 6690, "user age": 62, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "male", "user income": 8978, "user age": 50, "relevance score": "2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "female", "user income": 9981, "user age": 60, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "female", "user income": 5643, "user age": 47, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "female", "user income": 1599, "user age": 35, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "male", "user income": 2872, "user age": 47, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "male", "user income": 8036, "user age": 29, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "female", "user income": 6816, "user age": 32, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "no", "user gender": "male", "user income": 2345, "user age": 15, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "female", "user income": 8715, "user age": 45, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "no", "user gender": "female", "user income": 6569, "user age": 21, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "male", "user income": 5465, "user age": 26, "relevance score": "2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "female", "user income": 1597, "user age": 18, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "male", "user income": 9570, "user age": 56, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "female", "user income": 6601, "user age": 41, "relevance score": "2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "female", "user income": 4678, "user age": 17, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "female", "user income": 6745, "user age": 49, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "male", "user income": 7229, "user age": 56, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "female", "user income": 4014, "user age": 41, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "male", "user income": 7708, "user age": 62, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "male", "user income": 8743, "user age": 42, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "male", "user income": 9164, "user age": 25, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "female", "user income": 9539, "user age": 28, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "male", "user income": 8863, "user age": 39, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "male", "user income": 3435, "user age": 38, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "male", "user income": 2997, "user age": 20, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "female", "user income": 9477, "user age": 20, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "male", "user income": 1771, "user age": 20, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "male", "user income": 1935, "user age": 59, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "female", "user income": 7281, "user age": 29, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "no", "user gender": "female", "user income": 6905, "user age": 60, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "male", "user income": 6695, "user age": 44, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "male", "user income": 2595, "user age": 43, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "female", "user income": 1882, "user age": 50, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "male", "user income": 7024, "user age": 45, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "male", "user income": 7942, "user age": 22, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "female", "user income": 8600, "user age": 47, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "female", "user income": 8060, "user age": 37, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "female", "user income": 3627, "user age": 26, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "male", "user income": 7604, "user age": 18, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "female", "user income": 8947, "user age": 15, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "female", "user income": 5589, "user age": 60, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "female", "user income": 5649, "user age": 31, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "no", "user gender": "female", "user income": 7412, "user age": 65, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "male", "user income": 4827, "user age": 45, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "male", "user income": 4920, "user age": 18, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "female", "user income": 7755, "user age": 55, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "female", "user income": 7993, "user age": 31, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "male", "user income": 3148, "user age": 37, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "female", "user income": 3669, "user age": 63, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "female", "user income": 1471, "user age": 28, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "female", "user income": 6839, "user age": 44, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "male", "user income": 5527, "user age": 15, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "male", "user income": 7836, "user age": 30, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "male", "user income": 6433, "user age": 52, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "female", "user income": 5781, "user age": 15, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "male", "user income": 1727, "user age": 22, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "female", "user income": 5833, "user age": 35, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "male", "user income": 9244, "user age": 52, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "female", "user income": 6212, "user age": 64, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "female", "user income": 2318, "user age": 56, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "male", "user income": 4346, "user age": 16, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "female", "user income": 4781, "user age": 32, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "male", "user income": 5614, "user age": 41, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "male", "user income": 7001, "user age": 60, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "male", "user income": 8532, "user age": 18, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "female", "user income": 5014, "user age": 37, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "male", "user income": 1165, "user age": 17, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "male", "user income": 8871, "user age": 39, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "male", "user income": 1988, "user age": 46, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "male", "user income": 1754, "user age": 54, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "male", "user income": 7540, "user age": 33, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "female", "user income": 2340, "user age": 32, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "male", "user income": 1223, "user age": 41, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "female", "user income": 9954, "user age": 31, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "male", "user income": 9012, "user age": 53, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "female", "user income": 9735, "user age": 52, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "female", "user income": 2497, "user age": 16, "relevance score": "2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "female", "user income": 2808, "user age": 25, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "male", "user income": 6808, "user age": 30, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "female", "user income": 2336, "user age": 62, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "female", "user income": 5045, "user age": 53, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "female", "user income": 9764, "user age": 41, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "male", "user income": 5380, "user age": 24, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "female", "user income": 6473, "user age": 27, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "female", "user income": 6893, "user age": 28, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "male", "user income": 4459, "user age": 46, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "male", "user income": 5237, "user age": 62, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "female", "user income": 8827, "user age": 55, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "female", "user income": 9847, "user age": 47, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "female", "user income": 8487, "user age": 25, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "male", "user income": 2440, "user age": 35, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "female", "user income": 4440, "user age": 57, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "male", "user income": 9872, "user age": 54, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "no", "user gender": "female", "user income": 8715, "user age": 15, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "female", "user income": 3308, "user age": 25, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "female", "user income": 4372, "user age": 44, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "male", "user income": 8879, "user age": 28, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "female", "user income": 4648, "user age": 36, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "male", "user income": 1997, "user age": 51, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "male", "user income": 8758, "user age": 43, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "male", "user income": 2721, "user age": 64, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "male", "user income": 6275, "user age": 64, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "male", "user income": 1840, "user age": 39, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "female", "user income": 5019, "user age": 19, "relevance score": "2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "female", "user income": 7987, "user age": 58, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "male", "user income": 6885, "user age": 42, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "female", "user income": 5636, "user age": 32, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "female", "user income": 9196, "user age": 33, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "female", "user income": 8314, "user age": 46, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "female", "user income": 5512, "user age": 27, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "no", "user gender": "female", "user income": 7846, "user age": 63, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "female", "user income": 6758, "user age": 53, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "female", "user income": 4442, "user age": 42, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "female", "user income": 1719, "user age": 37, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "male", "user income": 2835, "user age": 64, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "female", "user income": 6129, "user age": 32, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "male", "user income": 8297, "user age": 64, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "male", "user income": 8495, "user age": 49, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "female", "user income": 6134, "user age": 29, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "male", "user income": 7427, "user age": 29, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "female", "user income": 2172, "user age": 20, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "no", "user gender": "male", "user income": 6187, "user age": 39, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "male", "user income": 3006, "user age": 60, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "male", "user income": 2437, "user age": 21, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "male", "user income": 9986, "user age": 59, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "male", "user income": 1575, "user age": 40, "relevance score": "2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "female", "user income": 8982, "user age": 18, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "male", "user income": 5604, "user age": 21, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "female", "user income": 2486, "user age": 47, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "female", "user income": 1042, "user age": 32, "relevance score": "2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "female", "user income": 5413, "user age": 62, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "female", "user income": 2325, "user age": 15, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "no", "user gender": "female", "user income": 6663, "user age": 63, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "no", "user gender": "male", "user income": 9811, "user age": 58, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "no", "user gender": "male", "user income": 4325, "user age": 18, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "male", "user income": 4315, "user age": 24, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "female", "user income": 5237, "user age": 38, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "female", "user income": 3109, "user age": 19, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "male", "user income": 8623, "user age": 62, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "female", "user income": 4857, "user age": 51, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "male", "user income": 9385, "user age": 36, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "male", "user income": 5563, "user age": 55, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "female", "user income": 3277, "user age": 19, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "female", "user income": 6794, "user age": 36, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "female", "user income": 7568, "user age": 30, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "male", "user income": 1254, "user age": 48, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "no", "user gender": "female", "user income": 5130, "user age": 33, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "female", "user income": 7621, "user age": 49, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "male", "user income": 5321, "user age": 58, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "male", "user income": 1957, "user age": 43, "relevance score": "2"}
+{"user loyalty": 1, "user marital status": "yes", "user gender": "female", "user income": 8417, "user age": 61, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "female", "user income": 9608, "user age": 33, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "female", "user income": 7160, "user age": 47, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "male", "user income": 3947, "user age": 30, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "female", "user income": 3942, "user age": 42, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "male", "user income": 2812, "user age": 28, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "yes", "user gender": "female", "user income": 4982, "user age": 39, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "female", "user income": 2407, "user age": 31, "relevance score": "2"}
+{"user loyalty": 5, "user marital status": "no", "user gender": "male", "user income": 9177, "user age": 29, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "male", "user income": 1940, "user age": 33, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "male", "user income": 4500, "user age": 29, "relevance score": "2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "female", "user income": 4601, "user age": 36, "relevance score": "2"}
+{"user loyalty": 2, "user marital status": "yes", "user gender": "male", "user income": 1240, "user age": 52, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "yes", "user gender": "female", "user income": 4960, "user age": 58, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "male", "user income": 7010, "user age": 36, "relevance score": "2"}
+{"user loyalty": 3, "user marital status": "no", "user gender": "female", "user income": 6534, "user age": 58, "relevance score": "2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 3407, "user age": 53, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 4132, "user age": 16, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 4477, "user age": 30, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 1176, "user age": 43, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 8642, "user age": 59, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 4740, "user age": 49, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 4377, "user age": 53, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 9940, "user age": 43, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 2880, "user age": 30, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 9488, "user age": 52, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 8919, "user age": 36, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 3984, "user age": 48, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 7170, "user age": 48, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 5453, "user age": 56, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 6629, "user age": 26, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 3015, "user age": 32, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 4338, "user age": 30, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 8976, "user age": 17, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 8817, "user age": 60, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 2754, "user age": 25, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 6972, "user age": 39, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 3504, "user age": 22, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 9116, "user age": 40, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 9799, "user age": 24, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 2420, "user age": 45, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 8663, "user age": 64, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 3946, "user age": 50, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 2698, "user age": 45, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 6069, "user age": 61, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 4593, "user age": 31, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 4574, "user age": 43, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 2475, "user age": 24, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 4815, "user age": 46, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 3564, "user age": 20, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 6900, "user age": 40, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 8516, "user age": 59, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 9657, "user age": 63, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 3184, "user age": 57, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 8237, "user age": 50, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 4925, "user age": 65, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 8758, "user age": 16, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 6009, "user age": 38, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 2034, "user age": 21, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 5809, "user age": 37, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 4175, "user age": 31, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 4738, "user age": 25, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 1093, "user age": 37, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 8760, "user age": 61, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 7642, "user age": 29, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 2960, "user age": 63, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 4243, "user age": 39, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 2166, "user age": 53, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 8088, "user age": 23, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 3077, "user age": 31, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 4588, "user age": 51, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 4969, "user age": 64, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 7321, "user age": 21, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 5552, "user age": 33, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 1876, "user age": 17, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 3222, "user age": 31, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 2918, "user age": 45, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 3269, "user age": 15, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 4020, "user age": 59, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 2733, "user age": 15, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 6998, "user age": 55, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 7025, "user age": 15, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 2063, "user age": 41, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 8671, "user age": 27, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 4037, "user age": 15, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 6095, "user age": 27, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 6195, "user age": 42, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 1815, "user age": 45, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 2556, "user age": 28, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 4346, "user age": 53, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 3567, "user age": 44, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 4349, "user age": 48, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 3592, "user age": 57, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 8435, "user age": 30, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 1801, "user age": 41, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 2105, "user age": 50, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 2211, "user age": 33, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 7153, "user age": 17, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 3836, "user age": 39, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 2303, "user age": 29, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 5203, "user age": 17, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 7874, "user age": 36, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 3571, "user age": 45, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 5889, "user age": 64, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 9800, "user age": 47, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 8253, "user age": 27, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 8901, "user age": 65, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 9318, "user age": 23, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 3208, "user age": 54, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 3669, "user age": 51, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 7338, "user age": 48, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 5412, "user age": 18, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 6279, "user age": 18, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 3896, "user age": 25, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 7072, "user age": 46, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 8135, "user age": 29, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 8599, "user age": 64, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 3753, "user age": 45, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 8992, "user age": 16, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 3067, "user age": 39, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 5681, "user age": 24, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 2872, "user age": 15, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 4154, "user age": 41, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 4459, "user age": 29, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 5491, "user age": 30, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 1617, "user age": 22, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 2868, "user age": 22, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 3036, "user age": 61, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 4327, "user age": 30, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 3207, "user age": 50, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 5888, "user age": 23, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 8937, "user age": 45, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 5170, "user age": 38, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 1299, "user age": 18, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 5034, "user age": 60, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 2619, "user age": 50, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 2959, "user age": 23, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 1517, "user age": 31, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 2436, "user age": 20, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 5164, "user age": 65, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 9240, "user age": 48, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 6404, "user age": 34, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 6250, "user age": 20, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 6361, "user age": 54, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 5699, "user age": 49, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 4015, "user age": 54, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 3749, "user age": 25, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 9536, "user age": 48, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 6540, "user age": 43, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 5357, "user age": 35, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 6713, "user age": 50, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 6583, "user age": 55, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 6641, "user age": 54, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 7822, "user age": 16, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 9385, "user age": 50, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 2495, "user age": 34, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 3374, "user age": 54, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 7280, "user age": 23, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 5214, "user age": 52, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 3484, "user age": 41, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 3265, "user age": 18, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 7017, "user age": 43, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 4375, "user age": 46, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 3929, "user age": 51, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 8388, "user age": 18, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 6006, "user age": 16, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 5279, "user age": 55, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 1246, "user age": 18, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 9517, "user age": 44, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 8328, "user age": 34, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 5480, "user age": 53, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 2037, "user age": 43, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 8358, "user age": 26, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 9276, "user age": 27, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 7614, "user age": 55, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 2863, "user age": 28, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 6251, "user age": 23, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 1855, "user age": 22, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 5655, "user age": 37, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 7204, "user age": 56, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 9906, "user age": 56, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 8309, "user age": 44, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 2676, "user age": 51, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 4534, "user age": 29, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 3534, "user age": 45, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 4499, "user age": 45, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 1775, "user age": 65, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 9564, "user age": 35, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 6480, "user age": 61, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 3422, "user age": 16, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 2280, "user age": 44, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 5442, "user age": 34, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 1943, "user age": 32, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 8613, "user age": 59, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 4667, "user age": 65, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 6257, "user age": 64, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 5994, "user age": 32, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 4465, "user age": 47, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 8663, "user age": 40, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 3707, "user age": 61, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 3300, "user age": 52, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 4205, "user age": 52, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 1905, "user age": 33, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 9896, "user age": 45, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 4445, "user age": 38, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 7788, "user age": 35, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 4876, "user age": 40, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 3456, "user age": 33, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 9676, "user age": 53, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 2764, "user age": 17, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 6058, "user age": 15, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 7572, "user age": 46, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 9924, "user age": 24, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 1022, "user age": 58, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 5766, "user age": 35, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 3353, "user age": 36, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 5856, "user age": 43, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 1006, "user age": 40, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 9051, "user age": 22, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 2200, "user age": 53, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 1247, "user age": 26, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 1528, "user age": 50, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 8322, "user age": 42, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 7016, "user age": 61, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 8165, "user age": 48, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 5173, "user age": 48, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 3045, "user age": 18, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 2826, "user age": 22, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 4768, "user age": 35, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 3205, "user age": 61, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 1651, "user age": 35, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 4939, "user age": 21, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 4727, "user age": 24, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 5345, "user age": 39, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 5896, "user age": 19, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 7984, "user age": 19, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 5988, "user age": 25, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 9852, "user age": 35, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 7900, "user age": 36, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 4960, "user age": 54, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 4486, "user age": 50, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 2691, "user age": 21, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 9334, "user age": 65, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 6242, "user age": 22, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 1973, "user age": 26, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 6330, "user age": 22, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 7825, "user age": 56, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 9162, "user age": 33, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 6757, "user age": 54, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 7743, "user age": 15, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 7540, "user age": 42, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 6150, "user age": 50, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 4712, "user age": 49, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 5584, "user age": 65, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 7283, "user age": 51, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 1846, "user age": 34, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 4550, "user age": 65, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 9812, "user age": 47, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 8560, "user age": 42, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 3337, "user age": 57, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 3738, "user age": 40, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 5720, "user age": 41, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 7285, "user age": 27, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 1313, "user age": 28, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 7755, "user age": 18, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 1639, "user age": 39, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 2287, "user age": 34, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "male", "user income": 8158, "user age": 23, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 7166, "user age": 28, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "no", "user gender": "female", "user income": 3430, "user age": 51, "relevance score": "not 2"}
+{"user loyalty": 4, "user marital status": "yes", "user gender": "male", "user income": 6760, "user age": 48, "relevance score": "not 2"}

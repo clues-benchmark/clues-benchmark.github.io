@@ -1,0 +1,1 @@
+{"columns": {"Successive Outbidding": "number", "Bidding Ratio": "number", "Bidder Tendency": "number", "Number of auctions won (normalized)": "number", "Last Bidding": "number"}, "labels": ["Normal Bidding", "Shill Bidding"]}

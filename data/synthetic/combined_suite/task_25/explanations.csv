@@ -1,0 +1,1 @@
+"If mintemp lesser than 2 AND ( location not equal to shtick union OR rainfall today not equal to 0.2 ) , then it is generally yes."

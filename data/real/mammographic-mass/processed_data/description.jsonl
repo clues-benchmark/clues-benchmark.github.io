@@ -1,0 +1,1 @@
+{"columns": {"BI-RADS assessment": "number", "Mass Shape": "categorical", "Mass Margin": "categorical", "Age": "number", "Mass Density": "categorical"}, "labels": ["benign", "malignant"]}

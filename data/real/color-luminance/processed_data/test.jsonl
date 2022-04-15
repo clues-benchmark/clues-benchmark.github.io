@@ -1,0 +1,5 @@
+{"hue angle": "30", "color name (in try colors)": "orange", "color code": "FF8000", "lbl": ">50%", "target_key": ["<=50%", ">50%"]}
+{"hue angle": "120", "color name (in try colors)": "green", "color code": "00FF00", "lbl": ">50%", "target_key": ["<=50%", ">50%"]}
+{"hue angle": "225", "color name (in try colors)": "blue violet", "color code": "0040FF", "lbl": "<=50%", "target_key": ["<=50%", ">50%"]}
+{"hue angle": "150", "color name (in try colors)": "teal", "color code": "00FF80", "lbl": ">50%", "target_key": ["<=50%", ">50%"]}
+{"hue angle": "210", "color name (in try colors)": "blue", "color code": "0080FF", "lbl": "<=50%", "target_key": ["<=50%", ">50%"]}

@@ -1,0 +1,18 @@
+{"Association": "Academy Award", "Category": "Best Original Screenplay", "Nominee": "Nora Ephron", "lbl": "Nominated", "target_key": ["Nominated", "WON"]}
+{"Association": "Golden Globe award", "Category": "Best Director - Motion Picture", "Nominee": "Rob Reiner", "lbl": "Nominated", "target_key": ["Nominated", "WON"]}
+{"Association": "Golden Globe award", "Category": "Best Screenplay - Motion Picture", "Nominee": "Nora Ephron", "lbl": "Nominated", "target_key": ["Nominated", "WON"]}
+{"Association": "Golden Globe award", "Category": "Best Lead Actress in a Motion Picture - Comedy or Musical", "Nominee": "Meg Ryan", "lbl": "Nominated", "target_key": ["Nominated", "WON"]}
+{"Association": "Golden Globe award", "Category": "Best Lead Actor in a Motion Picture - Comedy or Musical", "Nominee": "Billy Crystal", "lbl": "Nominated", "target_key": ["Nominated", "WON"]}
+{"Association": "British Academy Film award", "Category": "Best Film", "Nominee": "Rob Reiner", "lbl": "Nominated", "target_key": ["Nominated", "WON"]}
+{"Association": "British Academy Film award", "Category": "Best Screenplay - Original", "Nominee": "Nora Ephron", "lbl": "WON", "target_key": ["Nominated", "WON"]}
+{"Association": "Directors Guild award", "Category": "Outstanding Directorial Achievement in Motion Pictures", "Nominee": "Rob Reiner", "lbl": "Nominated", "target_key": ["Nominated", "WON"]}
+{"Association": "Writers Guild award", "Category": "Best Screenplay Written Directly for the Screen", "Nominee": "Nora Ephron", "lbl": "Nominated", "target_key": ["Nominated", "WON"]}
+{"Association": "American Society of Composers", "Category": "Top Box Office Films", "Nominee": "Marc Shaiman", "lbl": "WON", "target_key": ["Nominated", "WON"]}
+{"Association": "Casting Society of America", "Category": "Best Casting for Feature Film, Comedy", "Nominee": "Jane Jenkins Janet Hershenson", "lbl": "Nominated", "target_key": ["Nominated", "WON"]}
+{"Association": "Chicago Film Critics Association", "Category": "Best Actress", "Nominee": "Meg Ryan", "lbl": "Nominated", "target_key": ["Nominated", "WON"]}
+{"Association": "David di Donatello award", "Category": "Best Foreign Director", "Nominee": "Rob Reiner", "lbl": "Nominated", "target_key": ["Nominated", "WON"]}
+{"Association": "David di Donatello award", "Category": "Best Foreign Actress", "Nominee": "Meg Ryan", "lbl": "Nominated", "target_key": ["Nominated", "WON"]}
+{"Association": "American Comedy award", "Category": "Funniest Actress in a Motion Picture", "Nominee": "Meg Ryan", "lbl": "WON", "target_key": ["Nominated", "WON"]}
+{"Association": "American Comedy award", "Category": "Funniest Actor in a Motion Picture", "Nominee": "Billy Crystal", "lbl": "WON", "target_key": ["Nominated", "WON"]}
+{"Association": "American Comedy award", "Category": "Funniest Supporting Actress in a Motion Picture", "Nominee": "Carrie Fisher", "lbl": "Nominated", "target_key": ["Nominated", "WON"]}
+{"Association": "DVD Exclusive award", "Category": "Best Audio Commentary", "Nominee": "Rob Reiner", "lbl": "Nominated", "target_key": ["Nominated", "WON"]}

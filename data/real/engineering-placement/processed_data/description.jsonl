@@ -1,0 +1,1 @@
+{"columns": {"CGPA": "number", "Number of Internships": "number", "Stayed at Hostel?": "categorical", "History of Backlogs": "categorical", "Age": "number"}, "labels": ["No", "Yes"]}

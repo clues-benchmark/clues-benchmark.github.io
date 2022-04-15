@@ -1,0 +1,1 @@
+{"columns": {"odor": "categorical", "spore-print-color": "categorical", "gill-color": "categorical", "ring-type": "categorical", "stalk-surface-above-ring": "categorical"}, "labels": ["poisonous", "edible"]}

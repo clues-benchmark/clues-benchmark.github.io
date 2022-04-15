@@ -1,0 +1,1 @@
+{"columns": {"Annual Income": "number", "Travelled Abroad Before": "categorical", "Age": "number", "Frequent Flyer": "categorical", "Number of Family Members": "number"}, "labels": ["No", "Yes"]}

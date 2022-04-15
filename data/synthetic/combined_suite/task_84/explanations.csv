@@ -1,0 +1,4 @@
+"If size equal to large , then wug."
+"If head equal to yes AND hair equal to yes , then tupa."
+"If backbone equal to no AND ( hair equal to yes OR size equal to small ) , then gazzer."
+"If size equal to small AND ( backbone equal to yes OR head equal to no ) , then blicket."

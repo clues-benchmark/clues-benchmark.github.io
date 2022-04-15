@@ -1,0 +1,1 @@
+{"columns": {"Number of children": "number", "Wife's education": "categorical", "Husband's occupation (category)": "categorical", "Standard of living index": "categorical", "Wife's age": "number"}, "labels": ["No-use", "Long-term", "Short-term"]}

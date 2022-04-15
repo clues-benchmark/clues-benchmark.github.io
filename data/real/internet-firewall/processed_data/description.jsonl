@@ -1,0 +1,1 @@
+{"columns": {"Destination Port": "number", "Bytes": "number", "Bytes Sent": "number", "Elapsed Time (sec)": "number", "NAT Destination Port": "number"}, "labels": ["allow", "deny", "drop", "reset-both"]}

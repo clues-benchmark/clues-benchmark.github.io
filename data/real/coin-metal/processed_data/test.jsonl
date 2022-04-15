@@ -1,0 +1,8 @@
+{"Type": "Half Dollar", "Total Weight": "11.34 g", "Composition": "Cu 92%, Ni 8%", "Face Value": "50", "lbl": "none", "target_key": ["gold", "none", "silver"]}
+{"Type": "Half Dollar", "Total Weight": "12.50 g", "Composition": "Ag 90%, Cu 10%", "Face Value": "50", "lbl": "silver", "target_key": ["gold", "none", "silver"]}
+{"Type": "Dollar", "Total Weight": "26.73 g", "Composition": "Ag 90%, Cu 10%", "Face Value": "$1", "lbl": "silver", "target_key": ["gold", "none", "silver"]}
+{"Type": "Dollar", "Total Weight": "26.73 g", "Composition": "Ag 99.9%", "Face Value": "$1", "lbl": "silver", "target_key": ["gold", "none", "silver"]}
+{"Type": "Half Eagle", "Total Weight": "8.539 g", "Composition": "Au 90%, Ag 6%, Cu 4%", "Face Value": "$5", "lbl": "gold", "target_key": ["gold", "none", "silver"]}
+{"Type": "Eagle", "Total Weight": "16.718 g", "Composition": "Au 90%, Ag 6%, Cu 4%", "Face Value": "$10", "lbl": "gold", "target_key": ["gold", "none", "silver"]}
+{"Type": "Bi-metallic Eagle", "Total Weight": "16.259 g", "Composition": "Au 48%, Pt 48%, alloy 4%", "Face Value": "$10", "lbl": "gold", "target_key": ["gold", "none", "silver"]}
+{"Type": "First Spouse Gold Bullion", "Total Weight": "14.175 g", "Composition": "Au 99.99%", "Face Value": "$10", "lbl": "gold", "target_key": ["gold", "none", "silver"]}

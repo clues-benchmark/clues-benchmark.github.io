@@ -1,0 +1,6 @@
+{"Name": "Disneyland Hotel", "Theme": "American-Victorian", "Architect": "Walt Disney Imagineering & Wimberly, Allison, Tong & Goo", "Number of Rooms": "496", "lbl": ">3", "target_key": ["<=3", ">3"]}
+{"Name": "Disney's Hotel New York The Art of Marvel", "Theme": "Marvel Cinematic Universe", "Architect": "Michael Graves", "Number of Rooms": "565", "lbl": ">3", "target_key": ["<=3", ">3"]}
+{"Name": "Disney's Newport Bay Club", "Theme": "New England", "Architect": "Robert A.M. Stern Architects", "Number of Rooms": "1098", "lbl": ">3", "target_key": ["<=3", ">3"]}
+{"Name": "Disney's Sequoia Lodge", "Theme": "American National Park Lodge", "Architect": "Antoine Grumbach", "Number of Rooms": "1011", "lbl": "<=3", "target_key": ["<=3", ">3"]}
+{"Name": "Disney's Hotel Cheyenne", "Theme": "60s/70s Western Movie Set", "Architect": "Robert A.M. Stern Architects", "Number of Rooms": "1000", "lbl": "<=3", "target_key": ["<=3", ">3"]}
+{"Name": "Disney's Hotel Santa Fe", "Theme": "American Southwest", "Architect": "Antoine Predock", "Number of Rooms": "1000", "lbl": "<=3", "target_key": ["<=3", ">3"]}

@@ -1,0 +1,14 @@
+{"hue angle": "300", "color name (in try colors)": "magenta", "color code": "FF00FF", "lbl": "<=50%", "target_key": ["<=50%", ">50%"]}
+{"hue angle": "345", "color name (in try colors)": "scarlet red", "color code": "FF0040", "lbl": "<=50%", "target_key": ["<=50%", ">50%"]}
+{"hue angle": "60", "color name (in try colors)": "yellow", "color code": "FFFF00", "lbl": ">50%", "target_key": ["<=50%", ">50%"]}
+{"hue angle": "135", "color name (in try colors)": "bluish green", "color code": "00FF40", "lbl": ">50%", "target_key": ["<=50%", ">50%"]}
+{"hue angle": "90", "color name (in try colors)": "olive", "color code": "80FF00", "lbl": ">50%", "target_key": ["<=50%", ">50%"]}
+{"hue angle": "315", "color name (in try colors)": "crimson", "color code": "FF00BF", "lbl": "<=50%", "target_key": ["<=50%", ">50%"]}
+{"hue angle": "105", "color name (in try colors)": "grass green", "color code": "40FF00", "lbl": ">50%", "target_key": ["<=50%", ">50%"]}
+{"hue angle": "15", "color name (in try colors)": "orange red", "color code": "FF4000", "lbl": "<=50%", "target_key": ["<=50%", ">50%"]}
+{"hue angle": "285", "color name (in try colors)": "purple magenta", "color code": "BF00FF", "lbl": "<=50%", "target_key": ["<=50%", ">50%"]}
+{"hue angle": "255", "color name (in try colors)": "purple violet", "color code": "4000FF", "lbl": "<=50%", "target_key": ["<=50%", ">50%"]}
+{"hue angle": "45", "color name (in try colors)": "khaki", "color code": "FFBF00", "lbl": ">50%", "target_key": ["<=50%", ">50%"]}
+{"hue angle": "165", "color name (in try colors)": "greenish cyan", "color code": "00FFBF", "lbl": ">50%", "target_key": ["<=50%", ">50%"]}
+{"hue angle": "180", "color name (in try colors)": "cyan", "color code": "00FFFF", "lbl": ">50%", "target_key": ["<=50%", ">50%"]}
+{"hue angle": "270", "color name (in try colors)": "purple", "color code": "8000FF", "lbl": "<=50%", "target_key": ["<=50%", ">50%"]}

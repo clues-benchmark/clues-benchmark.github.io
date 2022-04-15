@@ -1,0 +1,1 @@
+{"columns": {"Variance": "number", "Skewness": "number", "Kurtosis": "number", "Entropy": "number"}, "labels": ["Fake", "Original"]}

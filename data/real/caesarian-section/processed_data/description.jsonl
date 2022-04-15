@@ -1,0 +1,1 @@
+{"columns": {"Delivery Time": "categorical", "Heart Problem": "categorical", "Age": "number", "Blood Pressure": "categorical", "Delivery Number": "number"}, "labels": ["no", "yes"]}

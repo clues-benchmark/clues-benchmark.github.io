@@ -1,0 +1,499 @@
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 99, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 14, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 70, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 37, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 12, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 80, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 44, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 59, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 52, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 57, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 10, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 83, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 99, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 90, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 39, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 58, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 87, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 89, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 49, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "orange", "numeric gyis": 18, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 49, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 49, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 15, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 74, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 29, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 84, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 21, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 22, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 12, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 22, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 77, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 51, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 70, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 23, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 21, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 45, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 31, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 63, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 28, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 87, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 90, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 16, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 88, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 83, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 58, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 25, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 11, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 74, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 24, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 74, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 46, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "orange", "numeric gyis": 85, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 35, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 20, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 46, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 65, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 85, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 96, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 49, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 91, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 66, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 78, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 79, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 49, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 28, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 55, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 96, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 94, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 37, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 95, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 18, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 69, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 11, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 61, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 47, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 34, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 40, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 63, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 38, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 72, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 77, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 13, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 66, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 44, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 46, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 42, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 74, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 15, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 61, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 46, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 70, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 22, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 89, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 98, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 56, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 37, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 16, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 33, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 64, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 65, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 71, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 87, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 57, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 90, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 97, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 26, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 84, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 39, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "orange", "numeric gyis": 53, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 22, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "orange", "numeric gyis": 14, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 37, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 65, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 53, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 83, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 12, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 89, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 49, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 44, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 87, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 86, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 30, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 96, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 39, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "orange", "numeric gyis": 61, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 70, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 77, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "orange", "numeric gyis": 57, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 14, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 61, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 30, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 92, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 63, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 94, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 77, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 54, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 40, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 37, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 84, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 86, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "orange", "numeric gyis": 69, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 11, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 18, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 15, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 77, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 23, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "orange", "numeric gyis": 62, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 64, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 67, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 55, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 85, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "orange", "numeric gyis": 48, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 48, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 32, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 17, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 64, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 72, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 68, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 41, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 72, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 70, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 94, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 24, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 91, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "orange", "numeric gyis": 25, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 17, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 14, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 71, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 90, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 52, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 98, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 90, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 58, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 87, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 68, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 72, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 95, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 75, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 82, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 16, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 79, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 54, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 56, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 55, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 90, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 63, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 50, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "orange", "numeric gyis": 24, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 55, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 18, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 12, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 67, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 81, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 80, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 20, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 92, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 48, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 27, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 73, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 50, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 27, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 73, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 80, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 57, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 74, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 18, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 28, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 47, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 27, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 34, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 57, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 15, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 20, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 97, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 79, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 26, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 68, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 52, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 38, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 80, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 80, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 19, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 38, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 65, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "orange", "numeric gyis": 48, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 98, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 13, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 38, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 52, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 89, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 77, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 71, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 82, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 31, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 70, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 68, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 39, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 86, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 24, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 76, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 62, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 31, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 99, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 82, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 59, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 28, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 34, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 22, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 37, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 41, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 83, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 96, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 40, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 88, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 35, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 25, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 65, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 38, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 72, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "orange", "numeric gyis": 63, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 78, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 48, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 73, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 70, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 41, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 14, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 58, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 39, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 35, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 84, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 53, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 13, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 40, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 90, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 53, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 69, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 45, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 38, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 45, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 51, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 44, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 24, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 98, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 31, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 73, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 100, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 71, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 10, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 96, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 16, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "orange", "numeric gyis": 55, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 26, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 47, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 12, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 23, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 69, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 21, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 10, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 20, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 26, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 51, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 10, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 12, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 28, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "orange", "numeric gyis": 19, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 25, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 42, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 18, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 18, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 25, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 16, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 29, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 52, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 16, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 63, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 58, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 31, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 27, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 21, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 16, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 11, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 16, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 80, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 51, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 83, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 51, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 85, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 26, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 50, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 49, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 33, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "orange", "numeric gyis": 45, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 18, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 19, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 50, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "orange", "numeric gyis": 47, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 47, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 62, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 32, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 34, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 79, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 10, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 32, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 83, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "orange", "numeric gyis": 100, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 36, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 10, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 26, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 17, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 37, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 14, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 76, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 92, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 32, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 39, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 31, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 18, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "orange", "numeric gyis": 26, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 91, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 35, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 70, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 14, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 16, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 17, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 82, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 45, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 42, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 76, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 73, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 68, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 38, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 85, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 16, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 47, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 45, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 48, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 85, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 50, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 62, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 55, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 38, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 57, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 48, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 47, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 97, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 47, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 16, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "orange", "numeric gyis": 55, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 28, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 45, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 49, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 10, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 59, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 34, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 59, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 28, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 51, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "orange", "numeric gyis": 99, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 86, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 60, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 33, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 58, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 98, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 42, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 81, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 79, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 38, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 45, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 54, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "orange", "numeric gyis": 68, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 82, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 50, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 35, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 15, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 24, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 92, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 90, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 11, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 36, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 31, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 42, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 47, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "orange", "numeric gyis": 97, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 95, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 14, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 28, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 11, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 24, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 95, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 33, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 17, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 17, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 48, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 24, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 80, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 94, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 94, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 54, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 85, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "pink", "numeric gyis": 13, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 90, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "orange", "numeric gyis": 14, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 40, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 92, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 39, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 11, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 59, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 68, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 84, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 58, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 80, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 42, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "red", "numeric gyis": 87, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 12, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 34, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 34, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 51, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 35, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 84, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 81, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 49, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 81, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 23, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "orange", "numeric gyis": 42, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 15, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 33, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 25, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 88, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 97, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "orange", "numeric gyis": 77, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "brown", "numeric gyis": 22, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 21, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 26, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 73, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 45, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 60, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 74, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 36, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 25, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 38, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 13, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 22, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "brown", "numeric gyis": 45, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 43, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 18, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "white", "numeric gyis": 16, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 24, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 55, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "blue", "numeric gyis": 93, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "pink", "numeric gyis": 17, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "green", "numeric gyis": 37, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "green", "numeric gyis": 21, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 40, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "blue", "numeric gyis": 44, "categorical hmrb": "no", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "yes", "categorical naus": "black", "numeric gyis": 12, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "white", "numeric gyis": 73, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 49, "categorical hmrb": "no", "categorical vlah": "no", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "black", "numeric gyis": 15, "categorical hmrb": "yes", "categorical vlah": "yes", "animal species": "not dax"}
+{"categorical wrso": "no", "categorical naus": "red", "numeric gyis": 48, "categorical hmrb": "yes", "categorical vlah": "no", "animal species": "not dax"}

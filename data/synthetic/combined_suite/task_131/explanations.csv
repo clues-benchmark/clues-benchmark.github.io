@@ -1,0 +1,3 @@
+"If user loyalty equal to 2 OR user age greater than 37 , then 2."
+"If user age lesser than or equal to 31 OR user gender equal to female , then 3."
+"If user gender equal to female OR user dependents equal to 1 , then not 4."

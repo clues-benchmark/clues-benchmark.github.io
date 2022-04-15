@@ -1,0 +1,2 @@
+"If maxtemp lesser than or equal to 20 AND mintemp greater than 5 , then no."
+"If rainfall today equal to 0.8 AND maxtemp greater than or equal to 18 , then yes."

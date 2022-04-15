@@ -1,0 +1,1 @@
+{"columns": {"Influenced": "categorical", "Competitiveness Rating": "number", "Enthusiasm Rating": "number", "Education Stream": "categorical", "Gender": "categorical"}, "labels": ["Incompetent", "Competent"]}

@@ -1,0 +1,1 @@
+{"columns": {"Light": "number", "CO2": "number", "HumidityRatio": "number", "Temperature": "number", "Humidity": "number"}, "labels": ["not occupied", "occupied"]}

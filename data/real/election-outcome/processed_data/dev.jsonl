@@ -1,0 +1,8 @@
+{"Election": "2020", "Candidate": "Han Kuo-yu", "Running mate": "Chang San-cheng ( )", "Total votes": "5,522,119", "Share of votes": "38.60%", "lbl": "Defeated", "target_key": ["Defeated", "Elected"]}
+{"Election": "2016", "Candidate": "Eric Chu", "Running mate": "Wang Ju-hsuan ( )", "Total votes": "3,813,365", "Share of votes": "31.00%", "lbl": "Defeated", "target_key": ["Defeated", "Elected"]}
+{"Election": "2012", "Candidate": "Ma Ying-jeou", "Running mate": "Wu Den-yih", "Total votes": "6,891,139", "Share of votes": "51.60%", "lbl": "Elected", "target_key": ["Defeated", "Elected"]}
+{"Election": "2008", "Candidate": "Ma Ying-jeou", "Running mate": "Vincent Siew", "Total votes": "7,658,724", "Share of votes": "58.40%", "lbl": "Elected", "target_key": ["Defeated", "Elected"]}
+{"Election": "2004", "Candidate": "Lien Chan", "Running mate": "James Soong ( )", "Total votes": "6,423,906", "Share of votes": "49.80%", "lbl": "Defeated", "target_key": ["Defeated", "Elected"]}
+{"Election": "2000", "Candidate": "Lien Chan", "Running mate": "Vincent Siew", "Total votes": "2,925,513", "Share of votes": "23.10%", "lbl": "Defeated", "target_key": ["Defeated", "Elected"]}
+{"Election": "1996", "Candidate": "Lee Teng-hui", "Running mate": "Lien Chan", "Total votes": "5,813,699", "Share of votes": "54.00%", "lbl": "Elected", "target_key": ["Defeated", "Elected"]}
+{"Election": "1948", "Candidate": "Chiang Kai-shek", "Running mate": "Li Zongren", "Total votes": "2,430", "Share of votes": "90.03%", "lbl": "Elected", "target_key": ["Defeated", "Elected"]}

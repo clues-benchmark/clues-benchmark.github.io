@@ -1,0 +1,1 @@
+{"descriptions": "This dataset is used to predict the type of an aquatic animal based on the given attributes. Each row provides the relevant attributes of an animal.", "columns": {"numeric kuhs": "number", "categorical jbzr": "categorical", "categorical tuej": "categorical", "categorical cmcs": "categorical", "numeric sxht": "number"}, "labels": ["fendle", "not fendle"]}

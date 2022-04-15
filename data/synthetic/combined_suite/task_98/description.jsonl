@@ -1,0 +1,1 @@
+{"descriptions": "This dataset is used to predict the final league position of a team based on the given attributes. Each row provides the relevant attributes of a team.", "columns": {"numeric rfog": "number", "numeric wzoc": "number", "numeric nyhk": "number", "categorical amai": "categorical", "numeric vcdk": "number"}, "labels": ["1", "not 1"]}

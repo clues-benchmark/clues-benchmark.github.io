@@ -1,0 +1,1 @@
+{"descriptions": "This dataset is used to predict the relevance (higher the better) of a bond to a user based on the given attributes. Each row provides the relevant attributes of a user.", "columns": {"categorical szxr": "categorical", "numeric aojh": "number", "numeric zsyh": "number", "categorical cgej": "categorical", "numeric tsua": "number"}, "labels": ["4", "2", "1", "3"]}

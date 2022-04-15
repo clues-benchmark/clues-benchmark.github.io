@@ -1,0 +1,5 @@
+{"Club": "FC Tulsa", "Type": "Men's Soccer", "League": "USL", "Venue": "ONEOK Field", "City": "Tulsa", "lbl": "Tulsa Metro", "target_key": ["OKC Metro", "Tulsa Metro"]}
+{"Club": "Tulsa Spirit", "Type": "Women's Soccer", "League": "WPSL", "Venue": "Union 8th", "City": "Broken Arrow", "lbl": "Tulsa Metro", "target_key": ["OKC Metro", "Tulsa Metro"]}
+{"Club": "Oklahoma City FC", "Type": "Women's Soccer", "League": "WPSL", "Venue": "Miller Stadium", "City": "Oklahoma City", "lbl": "OKC Metro", "target_key": ["OKC Metro", "Tulsa Metro"]}
+{"Club": "Oklahoma City Energy", "Type": "Men's Soccer", "League": "USL", "Venue": "Taft Stadium", "City": "Oklahoma City", "lbl": "OKC Metro", "target_key": ["OKC Metro", "Tulsa Metro"]}
+{"Club": "Tulsa Athletic", "Type": "Men's Soccer", "League": "NPSL", "Venue": "Veteran's Park", "City": "Tulsa", "lbl": "Tulsa Metro", "target_key": ["OKC Metro", "Tulsa Metro"]}

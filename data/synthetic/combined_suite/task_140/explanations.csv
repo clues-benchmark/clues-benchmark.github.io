@@ -1,0 +1,4 @@
+"If user knowledge not equal to 2 OR ( user income greater than or equal to 3143 AND user marital status not equal to yes ) , then 5."
+"If user gender equal to female , then not 2."
+"If user income lesser than 7941 OR user gender not equal to male , then 1."
+"If user marital status not equal to no OR user knowledge equal to 5 , then not 3."

@@ -1,0 +1,4 @@
+{"hue angle": "240", "color name (in try colors)": "violet", "color code": "0000FF", "lbl": "<=50%", "target_key": ["<=50%", ">50%"]}
+{"hue angle": "75", "color name (in try colors)": "lime", "color code": "BFFF00", "lbl": ">50%", "target_key": ["<=50%", ">50%"]}
+{"hue angle": "330", "color name (in try colors)": "scarlet", "color code": "FF0080", "lbl": "<=50%", "target_key": ["<=50%", ">50%"]}
+{"hue angle": "195", "color name (in try colors)": "bluish cyan", "color code": "00BFFF", "lbl": ">50%", "target_key": ["<=50%", ">50%"]}

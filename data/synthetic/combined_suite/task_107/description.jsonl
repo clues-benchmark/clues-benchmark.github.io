@@ -1,0 +1,1 @@
+{"descriptions": "This dataset is used to predict the final league position of a team based on the given attributes. Each row provides the relevant attributes of a team.", "columns": {"categorical nfca": "categorical", "numeric tlmc": "number", "numeric vkan": "number", "numeric txaq": "number", "numeric aipn": "number"}, "labels": ["Not Qualified", "not Not Qualified"]}

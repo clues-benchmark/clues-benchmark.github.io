@@ -1,0 +1,1 @@
+{"columns": {"Secondary Education Percentage": "number", "Degree Percentage": "number", "Higher Secondary Education Percentage": "number", "MBA Specialization": "categorical", "Work Experience": "categorical"}, "labels": ["Not Placed", "Placed"]}

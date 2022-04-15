@@ -1,0 +1,1 @@
+{"columns": {"Age": "number", "Married": "categorical", "Work class": "categorical", "Heart Disease": "categorical", "Patient ID": "categorical"}, "labels": ["Yes", "No"]}

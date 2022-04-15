@@ -1,0 +1,1 @@
+{"columns": {"City Development Index": "number", "City": "categorical", "Work experience": "categorical", "Gender": "categorical", "Enrollee ID": "categorical"}, "labels": ["Yes", "No"]}
